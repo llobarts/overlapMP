@@ -1,0 +1,288 @@
+---
+title: "PSI-Blast - Report"
+author: "Esmeralda García Legarda"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+    number_sections: false
+    theme: united
+---
+<style>
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #008080;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: white;
+    background-color: #008080;
+ }
+</style>
+
+<div style="text-align: justify">
+
+```{r, warning=FALSE, message=FALSE}
+library(stringr)
+library(rcartocolor)
+library(ggplot2)
+library(grid)
+library(gridExtra)
+library(cowplot)
+library(dplyr)
+library(DT)
+```
+
+# **Report PSI-Blast - Movement proteins**
+
+## <span style="color: #1D3F3F">1. Choice of parameters values</span>  {.tabset .tabset-fade .tabset-pills}
+
+### a) Data
+
+I have developed some scripts to retrieve all available sequences of movement proteins (MP) and some data related to them. The main issue was to find and describe the proportion of overlapping genes, where MP is one of them. The first step was searching against the non-redundant database (nr) by PSI-Blast software. I wanted to test if the numbers of hits of the search would be considerably different, depending on the use of a real protein (cons) or a consensus HMM domain (prot) sequence to initiate the search (query). In addition, I wanted to test how, changing the *evalue* between the default value, 0.005, could affect the number of hits I could retrieve, using also 0.01 as *evalue*.
+
+The initial hits were filtered by a minimum of percentage of identity (30%) and a minimum of alignment length (100 amino acids). Then, the number of hits which belong to virus was also saved. The number of total species and the number of only viral species were collected too.
+
+```{r, echo=FALSE}
+data <- read.csv(file = "/Users/esmeralda/Documents/TFM/1_psiblast/stats.csv")
+separated <- str_split_fixed(data$X, "\\.", 2)
+family <- str_split_fixed((separated[,1]),'dom', 2)[,2]
+mode <- str_split_fixed(separated[,2], "\\.", 2)[,1]
+
+data <- subset(data, select = -X )
+data <- cbind(family, mode, data)
+colnames(data)[which(names(data) == "init")] <- "initial"
+colnames(data)[which(names(data) == "filter")] <- "filtered"
+```
+
+
+```{r}
+# Processes data.frame names
+DT::datatable(data,
+  caption = "Table of obtained data",
+  options = list(order = list(list(1, "asc"), list(2, "asc")), pageLength = 4))
+```
+
+
+### b) Iterations
+
+PSI-Blast can be very useful to find a large amount of sequences, but there are some problems related to the algorithm that it uses. The main problem is the corruption of the common profile, that generates after every iteration for using it in the next iteration. Because of that, if the number of iterations is high, there could have been a corruption of the profile likely. This generates that the number of initial hits increases, including proteins that do not have any relation to the query.
+
+To prevent this, a maximum of iterations was set on 25. In other words, although the search has not converged until the iteration number 25, the search stops when this iteration is completed. 
+
+```{r}
+colors = c("#facba6", "#f59e72")
+
+# Subset consensus vs protein
+data.cons <- subset(data, mode == "cons")
+data.prot <- subset(data, mode == "prot")
+
+# Filtered hits
+iter.cons = ggplot(data.cons, aes(x=family,y=iterations, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) + scale_fill_manual(values=colors) + ylab("Iterations") + xlab(NULL) + ggtitle("Consensus query") +
+  theme(axis.text.x=element_text(angle=45, hjust=1), plot.title = element_text(hjust = 0.5)) + guides(fill=guide_legend(title="evalue"))
+  
+iter.prot = ggplot(data.prot, aes(x=family,y=iterations, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) + scale_fill_manual(values=colors) + ylab("Iterations") + xlab(NULL) + ggtitle("Protein query") +
+  theme(axis.text.x=element_text(angle=45, hjust=1), plot.title = element_text(hjust = 0.5), legend.position="none")
+  
+# Join
+grid.arrange(arrangeGrob(iter.cons + theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none"),
+                         iter.prot,
+                         ncol=2,
+                         bottom = "Families",
+                         right = gtable::gtable_filter(ggplotGrob(iter.cons), "guide"), # Legend
+                         top = grid::textGrob("ITERATIONS UNTIL CONVERGENCE", gp = grid::gpar(fontsize = 14, fontface = 'bold', fontfamily="Optima"))))
+
+```
+
+As we can see, using protein or consensus domain as a query does not considerably change the number of iterations, so there are not corruption of the profiles caused because of this, excepting the case of the *family Emavirus P4* with the protein query, where a protein of *Flavobacterium* is increasing the number of hits. The *evalue* threshold does not substantially change the number of iterations.
+
+
+### c) E values
+
+We can see the differences between the two values used as e value (the number of expected hits of similar quality (score) that could be found just by chance), and also between using protein or consensus query. There is not a huge difference, but with evalue = 0.01 a litte more hits and species are retrieved, what is evident in the case of protein query.
+
+```{r}
+colors = c("#a8dbd9", "#008080")
+
+# Filtered hits
+g.cons = ggplot(data.cons, aes(x=family,y=filtered, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Filtered hits") + xlab(NULL) + coord_cartesian(ylim = c(0, 650)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1)) + guides(fill=guide_legend(title="evalue"))
+
+# Viral hits
+h.cons = ggplot(data.cons, aes(x=family,y=viral, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Viral hits") + xlab(NULL) + coord_cartesian(ylim = c(0, 650)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none")
+
+# Total species
+l.cons = ggplot(data.cons, aes(x=family,y=species, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Species") + xlab(NULL) + coord_cartesian(ylim = c(0, 450)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none")
+
+# Virus
+m.cons = ggplot(data.cons, aes(x=family,y=virus, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Viral species") + xlab(NULL) + coord_cartesian(ylim = c(0, 450)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none")
+
+# Join
+grid.arrange(arrangeGrob(g.cons + theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none"), l.cons, h.cons, m.cons,
+                         ncol=2, nrow=2,
+                         bottom = "Families",
+                         right = gtable::gtable_filter(ggplotGrob(g.cons), "guide"), # Legend
+                         top = grid::textGrob("HITS AND SPECIES WITH CONSENSUS QUERY", gp = grid::gpar(fontsize = 14, fontface = 'bold', fontfamily="Optima"))))
+
+```
+
+```{r}
+colors = c("#a8dbd9", "#008080")
+
+# Filtered hits
+g.prot = ggplot(data.prot, aes(x=family,y=filtered, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Filtered hits") + xlab(NULL) + coord_cartesian(ylim = c(0, 650)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1)) + guides(fill=guide_legend(title="evalue"))
+
+# Viral hits
+h.prot = ggplot(data.prot, aes(x=family,y=viral, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Viral hits") + xlab(NULL) + coord_cartesian(ylim = c(0, 650)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none")
+
+# Total species
+l.prot = ggplot(data.prot, aes(x=family,y=species, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Species") + xlab(NULL) + coord_cartesian(ylim = c(0, 450)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none")
+
+# Virus
+m.prot = ggplot(data.prot, aes(x=family,y=virus, fill=factor(evalue))) + geom_bar(stat="identity", position=position_dodge()) +
+  scale_fill_manual(values=colors) + ylab("Viral species") + xlab(NULL) + coord_cartesian(ylim = c(0, 450)) +
+  theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none")
+
+# Join
+grid.arrange(arrangeGrob(g.prot + theme(axis.text.x=element_text(angle=45, hjust=1), legend.position="none"), l.prot, h.prot, m.prot,
+                         ncol=2, nrow=2,
+                         bottom = "Families",
+                         right = gtable::gtable_filter(ggplotGrob(g.prot), "guide"), # Legend
+                         top = grid::textGrob("HITS AND SPECIES WITH PROTEIN QUERY", gp = grid::gpar(fontsize = 14, fontface = 'bold', fontfamily="Optima"))))
+```
+
+
+### d) Final choice
+
+I decided to continue the collection of data only with consensus query and with an evalue of 0.01, taking into account the number of iterations raised until convergence and the number of hits. I presume there were not corruption in the PSI-Blast search with consensus query. There were obtained a litte more hits using an evalue of 0.01.
+
+```{r}
+data.final = subset(data.cons, evalue == 0.01)
+
+a1 = data.final %>%
+  tidyr::gather("Results", "hits",initial, filtered, viral, factor_key = TRUE) %>%
+  ggplot(aes(family, hits, fill = Results)) + xlab(NULL) +
+  geom_bar(position = "dodge", stat = "identity") + scale_fill_manual(values=carto_pal(n=5, "Temps"))
+
+a2 = data.final %>%
+  tidyr::gather("Results", "hits", species, virus, factor_key = TRUE) %>%
+  ggplot(aes(family, hits, fill = Results)) + xlab(NULL) +
+  geom_bar(position = "dodge", stat = "identity") + scale_fill_manual(values=c("#ed9c72","#cf597e")) +
+  theme(axis.text.x=element_text(angle=45, hjust=1))
+
+# Join
+grid.arrange(arrangeGrob(a1 + theme(axis.text.x=element_text(angle=45, hjust=1)), a2,
+                         ncol=2,
+                         bottom = "Families",
+                         top = grid::textGrob("HITS AND SPECIES", gp = grid::gpar(fontsize = 14, fontface = 'bold', fontfamily="Optima"))))
+```
+
+
+## <span style="color: #1D3F3F">2. Overlap of MP</span>
+
+In order to detect overlap between a MP and another protein, I consulted the information of every genome of reference of each viral species which were obtained in the previous step. The results were not very enthusiastic. Most of the genomes of virus that encodes a MP are consisting of 3 RNA segments, so the overlap is not a frequent event.
+
+```{r, echo=FALSE}
+summary <- read.csv(file = "/Users/esmeralda/Documents/TFM/1_psiblast/askoverlap/summary.csv")
+separated <- str_split_fixed(summary$X, "\\.", 2)[,1]
+family_new <- str_split_fixed(separated,'dom', 2)[,2]
+
+summary <- subset(summary, select = -X )
+summary <- cbind(family_new, summary)
+```
+
+```{r}
+DT::datatable(summary,
+              colnames = c("family","overlap", "no overlap", "% overlap", "% no overlap", "total"),
+              caption = "Table. Summary of viral species with overlap of each family",
+              options = list(order = list(list(1, "asc"), list(2, "asc")), pageLength = 7)) %>%
+  formatRound(columns = c(4,5), digits = 2)
+```
+
+
+## <span style="color: #1D3F3F">3. Building the database</span>
+
+The 7 families could be classified in two categories: those with the genome segmented (most have 3 RNA molecules) and others have non-segmented genomes. In general, virus with segmented genomes have no overlap of the movement protein, excepting the case of 3A family.
+```{r}
+# Family 3A
+info.database <- NULL
+families = c("3A", "BromoMP", "EmavirusP4", "GeminiBL1", "MP","TBSVP22","TenuiNS4")
+
+for (i in 1:length(families)) {
+  # Movement protein, no overlap
+  name <- paste("/Users/esmeralda/Documents/TFM/1_psiblast/builddb/infodb/mpno_", families[i], ".tsv", sep = "")
+  db.mpno <- read.table(file=name, sep = '\t', header = FALSE)
+  
+  # Movement protein, overlap
+  name = paste("/Users/esmeralda/Documents/TFM/1_psiblast/builddb/infodb/mpo_", families[i], ".tsv", sep = "")
+  if (file.size(name) > 0){
+    db.mpo <- read.table(file= name, sep = '\t', header = FALSE)
+  } else {
+    db.mpo <- NULL
+  }
+  
+  # No movement protein, overlap
+  name = paste("/Users/esmeralda/Documents/TFM/1_psiblast/builddb/infodb/nomp_", families[i], ".tsv", sep = "")
+  if (file.size(name) > 0){
+    db.nomp <- read.table(file= name, sep = '\t', header = FALSE)
+  } else {
+    db.nomp <- NULL
+  }
+  
+  # Write names and data
+  if (is.null(db.mpo)) {
+    colnames(db.mpno) <- c("NumofAccession", "Family", "Taxname", "MP", "overlap")
+    isMP.overlap = 0
+    isMP.nooverlap = length(db.mpno$NumofAccession)
+    isMP.total = isMP.nooverlap
+    notMP = 0
+  } else {
+    colnames(db.mpno) <- c("NumofAccession", "Family", "Taxname", "MP", "overlap")
+    colnames(db.mpo) <- c("NumofAccession", "Family", "Taxname", "MP", "overlap", "overlapping")
+    colnames(db.nomp) <- c("NumofAccession", "Family", "Taxname", "MP", "overlap", "overlapping")
+    isMP.overlap = length(unique(db.mpo$NumofAccession))
+    isMP.nooverlap = length(unique(db.mpno$NumofAccession))
+    isMP.total = isMP.overlap + isMP.nooverlap
+    notMP = length(unique(db.mpno$NumofAccession))
+  }
+  
+  # Group data
+  if(is.data.frame(info.database)) { 
+    newtoadd <- data.frame(isMP.overlap, isMP.nooverlap, isMP.total, notMP)
+    info.database <- rbind(info.database, newtoadd)
+  } else {
+    info.database <- data.frame(isMP.overlap, isMP.nooverlap, isMP.total, notMP)
+  }
+}
+
+DT::datatable(info.database,
+              colnames = c("MP with overlap", "MP without overlap", "Total MP", "Overlapping no MP"),
+              rownames = families,
+              caption = "Table 3. Summary of viral hits")
+```
+
+
+```{r, eval=FALSE}
+
+```
+
+
+
+
+
+
+
+

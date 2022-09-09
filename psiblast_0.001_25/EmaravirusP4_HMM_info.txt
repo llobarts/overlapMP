@@ -1,0 +1,137 @@
+ANQ90752.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QIB98123.1	Rose rosette emaravirus	Viruses
+ADZ55385.1	Rose rosette emaravirus	Viruses
+AGT96684.1	Fig mosaic emaravirus	Viruses
+ANQ90745.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QIB98080.1	Rose rosette emaravirus	Viruses
+ANQ90756.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+YP_004327592.1	Rose rosette emaravirus	Viruses
+QBM15142.1	Blackberry leaf mottle associated virus	Viruses
+YP_009237271.1	Fig mosaic emaravirus	Viruses
+VFU05382.1	European mountain ash ringspot-associated emaravirus	Viruses
+QIB98140.1	Rose rosette emaravirus	Viruses
+QBM15159.1	Blackberry leaf mottle associated virus	Viruses
+AGT96669.1	Fig mosaic emaravirus	Viruses
+ADZ55386.1	Rose rosette emaravirus	Viruses
+ANQ90749.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QRN67949.1	Fig mosaic emaravirus	Viruses
+QBM15169.1	Blackberry leaf mottle associated virus	Viruses
+AGT96677.1	Fig mosaic emaravirus	Viruses
+QRN67951.1	Fig mosaic emaravirus	Viruses
+AGU16971.1	Rose rosette emaravirus	Viruses
+QBI22243.1	Fig mosaic emaravirus	Viruses
+QOI17318.1	Maple mottle-associated virus	Viruses
+QIB98121.1	Rose rosette emaravirus	Viruses
+ADZ55378.1	Rose rosette emaravirus	Viruses
+QVW29594.1	Grapevine emaravirus A	Viruses
+QBI22246.1	Fig mosaic emaravirus	Viruses
+QBI22241.1	Fig mosaic emaravirus	Viruses
+QBM15162.1	Blackberry leaf mottle associated virus	Viruses
+QIB98088.1	Rose rosette emaravirus	Viruses
+QIB98136.1	Rose rosette emaravirus	Viruses
+QIB98074.1	Rose rosette emaravirus	Viruses
+ADZ55393.1	Rose rosette emaravirus	Viruses
+QBM15149.1	Blackberry leaf mottle associated virus	Viruses
+ADZ55390.1	Rose rosette emaravirus	Viruses
+ADZ55380.1	Rose rosette emaravirus	Viruses
+ADZ55395.1	Rose rosette emaravirus	Viruses
+AEO88257.1	Redbud yellow ringspot-associated emaravirus	Viruses
+ADZ55389.1	Rose rosette emaravirus	Viruses
+ADZ55382.1	Rose rosette emaravirus	Viruses
+QIB98124.1	Rose rosette emaravirus	Viruses
+ANQ90753.1	Pigeonpea sterility mosaic emaravirus 2	Viruses
+QBM15148.1	Blackberry leaf mottle associated virus	Viruses
+QBM15141.1	Blackberry leaf mottle associated virus	Viruses
+QAR18005.1	Pistacia emaravirus	Viruses
+QIN85948.1	Lilac chlorotic ringspot-associated virus	Viruses
+AEI98679.1	Fig mosaic emaravirus	Viruses
+ADZ55387.1	Rose rosette emaravirus	Viruses
+CAA0079685.1	Aspen mosaic-associated virus	Viruses
+QBI22244.1	Fig mosaic emaravirus	Viruses
+QBM15161.1	Blackberry leaf mottle associated virus	Viruses
+AEO88270.1	Redbud yellow ringspot-associated emaravirus	Viruses
+ANQ90750.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+YP_009507927.1	Actinidia chlorotic ringspot-associated virus	Viruses
+CAG9003596.1	Ash shoestring-associated emaravirus	Viruses
+BCS90323.1	Vitis emaravirus	Viruses
+QIB98126.1	Rose rosette emaravirus	Viruses
+ANQ90757.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+BAM13817.1	Fig mosaic emaravirus	Viruses
+QBM15154.1	Blackberry leaf mottle associated virus	Viruses
+ANQ90751.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QBM15165.1	Blackberry leaf mottle associated virus	Viruses
+VFU05384.1	European mountain ash ringspot-associated emaravirus	Viruses
+QBM15147.1	Blackberry leaf mottle associated virus	Viruses
+ANQ90717.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QBM15155.1	Blackberry leaf mottle associated virus	Viruses
+QIB98066.1	Rose rosette emaravirus	Viruses
+QBI22245.1	Fig mosaic emaravirus	Viruses
+QBM15163.1	Blackberry leaf mottle associated virus	Viruses
+ANQ90747.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+CDX09884.3	Pigeonpea sterility mosaic emaravirus 2	Viruses
+AEO88262.1	Redbud yellow ringspot-associated emaravirus	Viruses
+QIB98058.1	Rose rosette emaravirus	Viruses
+ADZ55381.1	Rose rosette emaravirus	Viruses
+AGT96682.1	Fig mosaic emaravirus	Viruses
+ANQ90755.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+ADZ55384.1	Rose rosette emaravirus	Viruses
+ANQ90759.1	Pigeonpea sterility mosaic emaravirus 2	Viruses
+CAG9003601.1	Ash shoestring-associated emaravirus	Viruses
+VFU05379.1	European mountain ash ringspot-associated emaravirus	Viruses
+ANQ90776.1	Pigeonpea sterility mosaic emaravirus 2	Viruses
+QIB98071.1	Rose rosette emaravirus	Viruses
+ANQ90746.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+ADZ55397.1	Rose rosette emaravirus	Viruses
+QBM15152.1	Blackberry leaf mottle associated virus	Viruses
+ANA12160.1	Rose rosette emaravirus	Viruses
+QIB98130.1	Rose rosette emaravirus	Viruses
+ANQ90742.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QIB98060.1	Rose rosette emaravirus	Viruses
+ADZ55394.1	Rose rosette emaravirus	Viruses
+QIB98101.1	Rose rosette emaravirus	Viruses
+BCS90318.1	Vitis emaravirus	Viruses
+QBM15170.1	Blackberry leaf mottle associated virus	Viruses
+QBM15150.1	Blackberry leaf mottle associated virus	Viruses
+QIB98134.1	Rose rosette emaravirus	Viruses
+AYC62203.1	Fig mosaic emaravirus	Viruses
+YP_010088073.1	Actinidia emaravirus 2	Viruses
+ANQ90744.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+ADZ55392.1	Rose rosette emaravirus	Viruses
+ADZ55391.1	Rose rosette emaravirus	Viruses
+CDX09885.1	Pigeonpea sterility mosaic emaravirus 2	Viruses
+BCS90317.1	Vitis emaravirus	Viruses
+BAM13822.1	Fig mosaic emaravirus	Viruses
+QBM15172.1	Blackberry leaf mottle associated virus	Viruses
+ADZ55388.1	Rose rosette emaravirus	Viruses
+QIB98096.1	Rose rosette emaravirus	Viruses
+QBI22239.1	Fig mosaic emaravirus	Viruses
+YP_009508084.1	Redbud yellow ringspot-associated emaravirus	Viruses
+YP_009268866.1	Pigeonpea sterility mosaic emaravirus 2	Viruses
+AQX45476.1	Blackberry leaf mottle associated virus	Viruses
+ANQ90743.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+AEO88267.1	Redbud yellow ringspot-associated emaravirus	Viruses
+QIB98087.1	Rose rosette emaravirus	Viruses
+QIB98117.1	Rose rosette emaravirus	Viruses
+ANQ90758.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QIB98077.1	Rose rosette emaravirus	Viruses
+QBM15160.1	Blackberry leaf mottle associated virus	Viruses
+CDX09881.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+BAM13824.1	Fig mosaic emaravirus	Viruses
+AGN53194.1	Rose rosette emaravirus	Viruses
+ADZ55399.1	Rose rosette emaravirus	Viruses
+QIB98079.1	Rose rosette emaravirus	Viruses
+QBM15151.1	Blackberry leaf mottle associated virus	Viruses
+QBM15153.1	Blackberry leaf mottle associated virus	Viruses
+ANQ90777.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+ADZ55398.1	Rose rosette emaravirus	Viruses
+YP_009237264.1	Pigeonpea sterility mosaic emaravirus 1	Viruses
+QIB98076.1	Rose rosette emaravirus	Viruses
+ANQ90780.1	Pigeonpea sterility mosaic emaravirus 2	Viruses
+AXI82307.1	Rose rosette emaravirus	Viruses
+VFU05385.1	European mountain ash ringspot-associated emaravirus	Viruses
+QTZ21226.1	Fig mosaic emaravirus	Viruses
+QIB98114.1	Rose rosette emaravirus	Viruses
+ADZ55379.1	Rose rosette emaravirus	Viruses
+BAM13823.1	Fig mosaic emaravirus	Viruses
+AXI82315.1	Rose rosette emaravirus	Viruses
+QIB98127.1	Rose rosette emaravirus	Viruses

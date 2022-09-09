@@ -1,0 +1,67 @@
+YP_009507895.1	Iranian wheat stripe tenuivirus	Viruses
+AAX85938.1	Rice stripe tenuivirus	Viruses
+AAX85944.1	Rice stripe tenuivirus	Viruses
+AAO40774.1	Rice stripe tenuivirus	Viruses
+QXN57585.1	Maize stripe tenuivirus	Viruses
+ACR57043.1	Rice stripe tenuivirus	Viruses
+ASA47676.1	Rice stripe tenuivirus	Viruses
+ACR57049.1	Rice stripe tenuivirus	Viruses
+ACR57051.1	Rice stripe tenuivirus	Viruses
+AAB69770.1	Rice hoja blanca tenuivirus	Viruses
+AAX85948.1	Rice stripe tenuivirus	Viruses
+ACR57033.1	Rice stripe tenuivirus	Viruses
+ABC68339.1	Rice stripe tenuivirus	Viruses
+ACR57035.1	Rice stripe tenuivirus	Viruses
+AAX85945.1	Rice stripe tenuivirus	Viruses
+QYU75392.1	Maize stripe tenuivirus	Viruses
+P34961.1	Rice stripe virus (isolate M)	Viruses
+CAI40349.1	Rice stripe tenuivirus	Viruses
+CAI40361.1	Rice stripe tenuivirus	Viruses
+YP_009507901.1	Maize stripe tenuivirus	Viruses
+CAI40347.1	Rice stripe tenuivirus	Viruses
+AAX81878.1	Rice stripe tenuivirus	Viruses
+AAX85939.1	Rice stripe tenuivirus	Viruses
+QZU27244.1	Wheat white spike virus	Viruses
+YP_009507914.1	Urochloa hoja blanca tenuivirus	Viruses
+CAI40355.1	Rice stripe tenuivirus	Viruses
+YP_009449444.1	Rice hoja blanca tenuivirus	Viruses
+ACR57039.1	Rice stripe tenuivirus	Viruses
+ACG58349.1	Rice stripe tenuivirus	Viruses
+AAX85942.1	Rice stripe tenuivirus	Viruses
+ACR57037.1	Rice stripe tenuivirus	Viruses
+QXN57601.1	Maize stripe tenuivirus	Viruses
+AAX85940.1	Rice stripe tenuivirus	Viruses
+AAO40772.1	Rice stripe tenuivirus	Viruses
+AFM93801.1	Rice stripe tenuivirus	Viruses
+QXN57587.1	Maize stripe tenuivirus	Viruses
+QFU19995.1	European wheat striate mosaic virus	Viruses
+AJB29833.1	Rice stripe tenuivirus	Viruses
+AAF43723.1	Rice stripe tenuivirus	Viruses
+CAI40359.1	Rice stripe tenuivirus	Viruses
+YP_009508263.1	Echinochloa hoja blanca tenuivirus	Viruses
+AWN09232.1	Rice stripe tenuivirus	Viruses
+QYU75377.1	Maize stripe tenuivirus	Viruses
+QXN57603.1	Maize stripe tenuivirus	Viruses
+ABM55686.1	Rice stripe tenuivirus	Viruses
+CAI44199.1	Rice stripe tenuivirus	Viruses
+AAO39435.1	Rice stripe tenuivirus	Viruses
+ACR57041.1	Rice stripe tenuivirus	Viruses
+AAX85947.1	Rice stripe tenuivirus	Viruses
+AFM93822.1	Rice stripe tenuivirus	Viruses
+AAO40770.1	Rice stripe tenuivirus	Viruses
+QWQ49844.1	Festuca stripe-associated virus	Viruses
+CAA71972.1	Rice stripe tenuivirus	Viruses
+ASR74685.1	Rice hoja blanca tenuivirus	Viruses
+ACR57055.1	Rice stripe tenuivirus	Viruses
+ANE23715.1	Rice stripe tenuivirus	Viruses
+AJB29827.1	Rice stripe tenuivirus	Viruses
+ANE23714.1	Rice stripe tenuivirus	Viruses
+CAI44201.1	Rice stripe tenuivirus	Viruses
+AJB29835.1	Rice stripe tenuivirus	Viruses
+ACG58370.1	Rice stripe tenuivirus	Viruses
+ACG58363.1	Rice stripe tenuivirus	Viruses
+QXN57591.2	Maize stripe tenuivirus	Viruses
+AAX85946.1	Rice stripe tenuivirus	Viruses
+AAM49600.1	Rice stripe tenuivirus	Viruses
+QFU20003.1	European wheat striate mosaic virus	Viruses
+CAI40353.1	Rice stripe tenuivirus	Viruses

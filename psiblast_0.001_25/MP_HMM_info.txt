@@ -1,0 +1,543 @@
+AES91350.1	Medicago truncatula	Eukaryota
+QHN86654.1	Arachis hypogaea	Eukaryota
+BAO53620.1	Cauliflower mosaic virus	Viruses
+AWC26990.1	Apple chlorotic leaf spot virus	Viruses
+UCJ00983.1	Apple chlorotic leaf spot virus	Viruses
+UCJ01055.1	Apple chlorotic leaf spot virus	Viruses
+KAA0050445.1	Cucumis melo var. makuwa	Eukaryota
+ABW81759.1	Dahlia mosaic virus-Holland	Viruses
+GAV83440.1	Cephalotus follicularis	Eukaryota
+BAO53389.1	Cauliflower mosaic virus	Viruses
+GAV57458.1	Cephalotus follicularis	Eukaryota
+GAV61902.1	Cephalotus follicularis	Eukaryota
+BAO53599.1	Cauliflower mosaic virus	Viruses
+AGT42164.1	Cauliflower mosaic virus	Viruses
+XP_042755031.1	Lactuca sativa	Eukaryota
+NP_569140.1	Tobacco vein clearing virus	Viruses
+UCJ01091.1	Apple chlorotic leaf spot virus	Viruses
+PNT36752.1	Populus trichocarpa	Eukaryota
+BAO53592.1	Cauliflower mosaic virus	Viruses
+UCJ00356.1	Cherry mottle leaf virus	Viruses
+UCJ01010.1	Apple chlorotic leaf spot virus	Viruses
+GAV75354.1	Cephalotus follicularis	Eukaryota
+KAA0066201.1	Cucumis melo var. makuwa	Eukaryota
+AES95724.1	Medicago truncatula	Eukaryota
+AIE12120.1	Cauliflower mosaic virus	Viruses
+KAG4968231.1	Glycine soja	Eukaryota
+AFE82817.1	Blueberry red ringspot virus	Viruses
+GAV92107.1	Cephalotus follicularis	Eukaryota
+KVH91338.1	Cynara cardunculus var. scolymus	Eukaryota
+CDM98673.1	Apple chlorotic leaf spot virus	Viruses
+GAV86642.1	Cephalotus follicularis	Eukaryota
+UBN09108.1	Metaplexis yellow mottle-associated virus	Viruses
+AHA91361.1	Cauliflower mosaic virus	Viruses
+KAG5089008.1	Glycine max	Eukaryota
+PWA95881.1	Artemisia annua	Eukaryota
+AGR66519.1	Apple chlorotic leaf spot virus	Viruses
+XP_022038897.2	Helianthus annuus	Eukaryota
+AQS27975.1	Strawberry vein banding virus	Viruses
+TMW80172.1	Solanum chilense	Eukaryota
+CAB46652.1	Apple chlorotic leaf spot virus	Viruses
+KAA0047922.1	Cucumis melo var. makuwa	Eukaryota
+GAV85905.1	Cephalotus follicularis	Eukaryota
+AAW55585.1	Apricot pseudo-chlorotic leaf spot virus	Viruses
+AWA81914.1	Sweet potato vein clearing virus	Viruses
+AGT42073.1	Cauliflower mosaic virus	Viruses
+AEQ38574.1	Blueberry red ringspot virus	Viruses
+UCJ01115.1	Apple chlorotic leaf spot virus	Viruses
+AGT42136.1	Cauliflower mosaic virus	Viruses
+BAO53634.1	Cauliflower mosaic virus	Viruses
+TYK19826.1	Cucumis melo var. makuwa	Eukaryota
+BAO53480.1	Cauliflower mosaic virus	Viruses
+PNT55229.1	Populus trichocarpa	Eukaryota
+TYK14246.1	Cucumis melo var. makuwa	Eukaryota
+AES66691.2	Medicago truncatula	Eukaryota
+RDX68244.1	Mucuna pruriens	Eukaryota
+QHO46008.1	Arachis hypogaea	Eukaryota
+KAG5614675.1	Solanum commersonii	Eukaryota
+YP_010087806.1	Epiphyllum virus 4	Viruses
+AGT42108.1	Cauliflower mosaic virus	Viruses
+GAV63109.1	Cephalotus follicularis	Eukaryota
+CAC88784.1	Nicotiana tabacum	Eukaryota
+UCJ00995.1	Apple chlorotic leaf spot virus	Viruses
+CAC88780.1	Nicotiana tabacum	Eukaryota
+AFE82816.1	Blueberry red ringspot virus	Viruses
+GAV92171.1	Cephalotus follicularis	Eukaryota
+KAG5606712.1	Solanum commersonii	Eukaryota
+BAO53550.1	Cauliflower mosaic virus	Viruses
+CAC88803.1	Nicotiana tabacum	Eukaryota
+ATE88999.1	Cauliflower mosaic virus	Viruses
+GAV90380.1	Cephalotus follicularis	Eukaryota
+AES65923.1	Medicago truncatula	Eukaryota
+ARK38719.1	Apple chlorotic leaf spot virus	Viruses
+BAI82358.1	Apple chlorotic leaf spot virus	Viruses
+XP_043638312.1	Erigeron canadensis	Eukaryota
+WP_181368507.1	Escherichia sp. R8	Bacteria
+AOF42978.1	Apple chlorotic leaf spot virus	Viruses
+KYP62719.1	Cajanus cajan	Eukaryota
+UCJ01040.1	Apple chlorotic leaf spot virus	Viruses
+PKA51578.1	Apostasia shenzhenica	Eukaryota
+UCJ00376.1	Cherry mottle leaf virus	Viruses
+AEL30037.1	Dahlia common mosaic virus	Viruses
+BAF64460.1	Apple chlorotic leaf spot virus	Viruses
+BAO53473.1	Cauliflower mosaic virus	Viruses
+GAV64735.1	Cephalotus follicularis	Eukaryota
+APG80685.1	Cauliflower mosaic virus	Viruses
+GEV01236.1	Tanacetum cinerariifolium	Eukaryota
+UCJ01046.1	Apple chlorotic leaf spot virus	Viruses
+KRG90003.1	Glycine max	Eukaryota
+AQA28800.1	Dahlia common mosaic virus	Viruses
+ARK38722.1	Apple chlorotic leaf spot virus	Viruses
+APT43146.1	Grapevine berry inner necrosis virus	Viruses
+QDK54381.1	Apple chlorotic leaf spot virus	Viruses
+UCJ01112.1	Apple chlorotic leaf spot virus	Viruses
+GAV92858.1	Cephalotus follicularis	Eukaryota
+NP_659393.1	Mirabilis mosaic virus	Viruses
+NP_056846.1	Cassava vein mosaic virus	Viruses
+AGT42129.1	Cauliflower mosaic virus	Viruses
+BAO53403.1	Cauliflower mosaic virus	Viruses
+AVD50420.1	Peach mosaic virus	Viruses
+KAG6776216.1	Populus tomentosa	Eukaryota
+AXI69826.1	Apple chlorotic leaf spot virus	Viruses
+KRG99118.1	Glycine max	Eukaryota
+BAS06272.1	Dahlia common mosaic virus	Viruses
+ASJ27544.1	Apple chlorotic leaf spot virus	Viruses
+QHN81870.1	Arachis hypogaea	Eukaryota
+BAI82359.1	Apple chlorotic leaf spot virus	Viruses
+GAV85955.1	Cephalotus follicularis	Eukaryota
+NP_044299.1	Soybean chlorotic mottle virus	Viruses
+P03546.1	Cauliflower mosaic virus (STRAIN CM-1841)	Viruses
+QHO38152.1	Arachis hypogaea	Eukaryota
+AXI69825.1	Apple chlorotic leaf spot virus	Viruses
+KAG6656908.1	Carya illinoinensis	Eukaryota
+QIZ03244.1	Blueberry red ringspot virus	Viruses
+UCJ01052.1	Apple chlorotic leaf spot virus	Viruses
+AHA91306.1	Cauliflower mosaic virus	Viruses
+UCJ01034.1	Apple chlorotic leaf spot virus	Viruses
+AJQ21744.1	Blueberry red ringspot virus	Viruses
+BAO53515.1	Cauliflower mosaic virus	Viruses
+KAG5146567.1	Glycine max	Eukaryota
+CAC88797.1	Nicotiana tabacum	Eukaryota
+UCJ01097.1	Apple chlorotic leaf spot virus	Viruses
+QZN83735.1	Strawberry vein banding virus	Viruses
+CAF1809153.1	Brassica napus	Eukaryota
+QHN77890.1	Arachis hypogaea	Eukaryota
+KAG5605965.1	Solanum commersonii	Eukaryota
+KAA0041638.1	Cucumis melo var. makuwa	Eukaryota
+QZN83746.1	Strawberry vein banding virus	Viruses
+GAV91988.1	Cephalotus follicularis	Eukaryota
+YP_009165746.1	Atractylodes mild mottle virus	Viruses
+KAG5042706.1	Glycine soja	Eukaryota
+AHA91286.1	Cauliflower mosaic virus	Viruses
+UCJ01073.1	Apple chlorotic leaf spot virus	Viruses
+UCJ01049.1	Apple chlorotic leaf spot virus	Viruses
+AGT42059.1	Cauliflower mosaic virus	Viruses
+BAO53536.1	Cauliflower mosaic virus	Viruses
+BAO53445.1	Cauliflower mosaic virus	Viruses
+GAV69711.1	Cephalotus follicularis	Eukaryota
+GAV58278.1	Cephalotus follicularis	Eukaryota
+GAV87423.1	Cephalotus follicularis	Eukaryota
+KAA0062969.1	Cucumis melo var. makuwa	Eukaryota
+XP_022041212.1	Helianthus annuus	Eukaryota
+UCJ01001.1	Apple chlorotic leaf spot virus	Viruses
+AEY80041.1	Apple chlorotic leaf spot virus	Viruses
+BAO53361.1	Cauliflower mosaic virus	Viruses
+UCJ01085.1	Apple chlorotic leaf spot virus	Viruses
+BAI82355.1	Apple chlorotic leaf spot virus	Viruses
+BCU04803.1	Dahlia common mosaic virus	Viruses
+GAV80054.1	Cephalotus follicularis	Eukaryota
+GAV77456.1	Cephalotus follicularis	Eukaryota
+DAF42457.1	Bacopa monnieri virus 3	Viruses
+QDK54390.1	Apple chlorotic leaf spot virus	Viruses
+GAV91655.1	Cephalotus follicularis	Eukaryota
+AES96838.1	Medicago truncatula	Eukaryota
+BCA25707.1	Apricot pseudo-chlorotic leaf spot virus	Viruses
+AGT42178.1	Cauliflower mosaic virus	Viruses
+AOF42981.1	Apple chlorotic leaf spot virus	Viruses
+BAO53431.1	Cauliflower mosaic virus	Viruses
+UCJ01079.1	Apple chlorotic leaf spot virus	Viruses
+AEE01495.1	Blueberry red ringspot virus	Viruses
+AGQ49467.1	Dahlia mosaic virus	Viruses
+GAV91444.1	Cephalotus follicularis	Eukaryota
+QDK54384.1	Apple chlorotic leaf spot virus	Viruses
+UCJ01025.1	Apple chlorotic leaf spot virus	Viruses
+QHO42143.1	Arachis hypogaea	Eukaryota
+AEN25486.1	Scaevola virus A	Viruses
+TMW80362.1	Solanum chilense	Eukaryota
+KAA0033914.1	Cucumis melo var. makuwa	Eukaryota
+BAO53529.1	Cauliflower mosaic virus	Viruses
+GAV81037.1	Cephalotus follicularis	Eukaryota
+BAO53543.1	Cauliflower mosaic virus	Viruses
+YP_009666499.1	Angelica bushy stunt virus	Viruses
+AWC26989.1	Apple chlorotic leaf spot virus	Viruses
+UBZ26004.1	Cherry mottle leaf virus	Viruses
+XP_031392049.1	Punica granatum	Eukaryota
+ASJ27547.1	Apple chlorotic leaf spot virus	Viruses
+RHN59055.1	Medicago truncatula	Eukaryota
+GEX56606.1	Tanacetum cinerariifolium	Eukaryota
+KAA0056776.1	Cucumis melo var. makuwa	Eukaryota
+YP_001931957.1	Lamium leaf distortion virus	Viruses
+ADZ44588.1	Dahlia mosaic virus	Viruses
+KAG5142871.1	Glycine max	Eukaryota
+NP_043929.1	Strawberry vein banding virus	Viruses
+P54892.1	Apple chlorotic leaf spot virus (isolate APPLE)	Viruses
+PKA50575.1	Apostasia shenzhenica	Eukaryota
+GAV87566.1	Cephalotus follicularis	Eukaryota
+CCK73641.1	Apple chlorotic leaf spot virus	Viruses
+NP_042515.1	Peanut chlorotic streak virus	Viruses
+UCJ01082.1	Apple chlorotic leaf spot virus	Viruses
+AGT42171.1	Cauliflower mosaic virus	Viruses
+AYA62504.1	Peach chlorotic leaf spot virus	Viruses
+ASK50044.1	Strawberry vein banding virus	Viruses
+TYJ98087.1	Cucumis melo var. makuwa	Eukaryota
+UCJ00352.1	Cherry mottle leaf virus	Viruses
+KAH1087188.1	Glycine max	Eukaryota
+KAA0054118.1	Cucumis melo var. makuwa	Eukaryota
+XP_022025013.2	Helianthus annuus	Eukaryota
+BCW03857.1	Cauliflower mosaic virus	Viruses
+AFE82822.1	Blueberry red ringspot virus	Viruses
+UCJ00974.1	Apple chlorotic leaf spot virus	Viruses
+AGT42094.1	Cauliflower mosaic virus	Viruses
+KAG5580780.1	Solanum commersonii	Eukaryota
+XP_043611601.1	Erigeron canadensis	Eukaryota
+UCJ01094.1	Apple chlorotic leaf spot virus	Viruses
+AGW07344.1	Apple chlorotic leaf spot virus	Viruses
+BAO53613.1	Cauliflower mosaic virus	Viruses
+UCJ00666.1	Peach mosaic virus	Viruses
+GAV83838.1	Cephalotus follicularis	Eukaryota
+GAV60575.1	Cephalotus follicularis	Eukaryota
+GAV92890.1	Cephalotus follicularis	Eukaryota
+GAV79143.1	Cephalotus follicularis	Eukaryota
+CAC88791.1	Nicotiana tabacum	Eukaryota
+ALA23048.1	Apple chlorotic leaf spot virus	Viruses
+AOY07773.1	Cherry mottle leaf virus	Viruses
+ARA90377.1	Apple chlorotic leaf spot virus	Viruses
+GAV72544.1	Cephalotus follicularis	Eukaryota
+BAO53606.1	Cauliflower mosaic virus	Viruses
+AII00786.1	Cauliflower mosaic virus	Viruses
+TMW84435.1	Solanum chilense	Eukaryota
+CBK19266.2	Apple chlorotic leaf spot virus	Viruses
+YP_006732330.1	Dahlia mosaic virus	Viruses
+UCJ01022.1	Apple chlorotic leaf spot virus	Viruses
+AES98165.2	Medicago truncatula	Eukaryota
+GAV86391.1	Cephalotus follicularis	Eukaryota
+AGT42052.1	Cauliflower mosaic virus	Viruses
+YP_009254011.1	Water chestnut soymovirus 1	Viruses
+TKS00124.1	Populus alba	Eukaryota
+UCJ01013.1	Apple chlorotic leaf spot virus	Viruses
+AEA39174.1	Dahlia mosaic virus	Viruses
+GAV88116.1	Cephalotus follicularis	Eukaryota
+XP_022041209.1	Helianthus annuus	Eukaryota
+UCJ01031.1	Apple chlorotic leaf spot virus	Viruses
+GEY70923.1	Tanacetum cinerariifolium	Eukaryota
+GAV86388.1	Cephalotus follicularis	Eukaryota
+GAV61981.1	Cephalotus follicularis	Eukaryota
+UCJ01103.1	Apple chlorotic leaf spot virus	Viruses
+XP_031392048.1	Punica granatum	Eukaryota
+GAV91029.1	Cephalotus follicularis	Eukaryota
+QGW35760.1	Apple chlorotic leaf spot virus	Viruses
+AOY07781.1	Cherry mottle leaf virus	Viruses
+PHT26901.1	Capsicum baccatum	Eukaryota
+AES97390.1	Medicago truncatula	Eukaryota
+UCJ01007.1	Apple chlorotic leaf spot virus	Viruses
+UCJ00654.1	Peach mosaic virus	Viruses
+QHO46450.1	Arachis hypogaea	Eukaryota
+XP_023767206.1	Lactuca sativa	Eukaryota
+GAV85768.1	Cephalotus follicularis	Eukaryota
+GAV89293.1	Cephalotus follicularis	Eukaryota
+QHO38151.1	Arachis hypogaea	Eukaryota
+QZH55166.1	chicory mosaic cavemovirus	Viruses
+AWD93612.1	Peach mosaic virus	Viruses
+ABW80579.1	Dahlia mosaic virus	Viruses
+BAO53522.1	Cauliflower mosaic virus	Viruses
+YP_004300273.1	Sweet potato vein clearing virus	Viruses
+BCA25690.1	Apple chlorotic leaf spot virus	Viruses
+AFE82821.1	Blueberry red ringspot virus	Viruses
+AKB94067.1	Strawberry vein banding virus	Viruses
+UCJ01067.1	Apple chlorotic leaf spot virus	Viruses
+AES96837.1	Medicago truncatula	Eukaryota
+XP_043810348.1	Manihot esculenta	Eukaryota
+XP_022018898.1	Helianthus annuus	Eukaryota
+AAA21732.1	Cauliflower mosaic virus	Viruses
+GAV79874.1	Cephalotus follicularis	Eukaryota
+AVE14111.1	Cauliflower mosaic virus	Viruses
+GAV92996.1	Cephalotus follicularis	Eukaryota
+AHA91293.1	Cauliflower mosaic virus	Viruses
+KYP78396.1	Cajanus cajan	Eukaryota
+QHO35806.1	Arachis hypogaea	Eukaryota
+AEY80039.1	Apple chlorotic leaf spot virus	Viruses
+KAH1142364.1	Glycine max	Eukaryota
+PWA62077.1	Artemisia annua	Eukaryota
+GAV90358.1	Cephalotus follicularis	Eukaryota
+BAF64466.1	Apple chlorotic leaf spot virus	Viruses
+AYV97510.1	Grapevine Pinot gris virus	Viruses
+GAV76041.1	Cephalotus follicularis	Eukaryota
+GAV90667.1	Cephalotus follicularis	Eukaryota
+TYJ97599.1	Cucumis melo var. makuwa	Eukaryota
+XP_043615811.1	Erigeron canadensis	Eukaryota
+UCJ00344.1	Cherry mottle leaf virus	Viruses
+UCJ01121.1	Apple chlorotic leaf spot virus	Viruses
+CAB42621.1	Nicotiana tabacum	Eukaryota
+UCJ00348.1	Cherry mottle leaf virus	Viruses
+AAD37337.1	Cauliflower mosaic virus	Viruses
+BAO53662.1	Cauliflower mosaic virus	Viruses
+UCJ00977.1	Apple chlorotic leaf spot virus	Viruses
+GAV84490.1	Cephalotus follicularis	Eukaryota
+GAV90723.1	Cephalotus follicularis	Eukaryota
+NP_612573.1	Carnation etched ring virus	Viruses
+QIZ03268.1	Blueberry red ringspot virus	Viruses
+PWA54267.1	Artemisia annua	Eukaryota
+CAF02302.1	Carnation etched ring virus	Viruses
+KAG8364292.1	Buddleja alternifolia	Eukaryota
+GAV88653.1	Cephalotus follicularis	Eukaryota
+AGT42157.1	Cauliflower mosaic virus	Viruses
+TYK28080.1	Cucumis melo var. makuwa	Eukaryota
+BAO53410.1	Cauliflower mosaic virus	Viruses
+QVW10191.1	Atractylodes mild mottle virus	Viruses
+PKA66408.1	Apostasia shenzhenica	Eukaryota
+RQO85968.1	Populus trichocarpa	Eukaryota
+XP_016546269.1	Capsicum annuum	Eukaryota
+YP_006607888.1	Soybean Putnam virus	Viruses
+CAH59634.1	Carnation etched ring virus	Viruses
+KAG0483001.1	Vanilla planifolia	Eukaryota
+BAO53501.1	Cauliflower mosaic virus	Viruses
+Q01089.1	Cauliflower mosaic virus (STRAIN W260)	Viruses
+GAV84745.1	Cephalotus follicularis	Eukaryota
+QDR50349.1	Mexico trichovirus	Viruses
+AYD75928.1	Apricot pseudo-chlorotic leaf spot virus	Viruses
+GAV71029.1	Cephalotus follicularis	Eukaryota
+NP_056724.1	Cauliflower mosaic virus	Viruses
+BAF64463.1	Apple chlorotic leaf spot virus	Viruses
+KAA0042247.1	Cucumis melo var. makuwa	Eukaryota
+CAC88194.1	Nicotiana tabacum	Eukaryota
+UCJ01019.1	Apple chlorotic leaf spot virus	Viruses
+UCJ00368.1	Cherry mottle leaf virus	Viruses
+AJM71349.1	Blueberry red ringspot virus	Viruses
+GAV87715.1	Cephalotus follicularis	Eukaryota
+GFA09751.1	Tanacetum cinerariifolium	Eukaryota
+GAV85818.1	Cephalotus follicularis	Eukaryota
+ASJ27550.1	Apple chlorotic leaf spot virus	Viruses
+ASJ27541.1	Apple chlorotic leaf spot virus	Viruses
+ATB18116.1	Apple chlorotic leaf spot virus	Viruses
+UCJ00674.1	Peach mosaic virus	Viruses
+UCJ01043.1	Apple chlorotic leaf spot virus	Viruses
+CAC88810.1	Nicotiana tabacum	Eukaryota
+QIB98739.1	Apple chlorotic leaf spot virus	Viruses
+KRH13008.1	Glycine max	Eukaryota
+GAV92013.1	Cephalotus follicularis	Eukaryota
+BCB67670.1	Apple chlorotic leaf spot virus	Viruses
+KAG4989553.1	Glycine max	Eukaryota
+AYA62501.1	Peach chlorotic leaf spot virus	Viruses
+BAO53494.1	Cauliflower mosaic virus	Viruses
+BAO53557.1	Cauliflower mosaic virus	Viruses
+UCJ00372.1	Cherry mottle leaf virus	Viruses
+Q00966.1	Cauliflower mosaic virus (STRAIN NY8153)	Viruses
+UCJ01076.1	Apple chlorotic leaf spot virus	Viruses
+CAA55970.1	Cauliflower mosaic virus	Viruses
+NP_062429.1	Cherry mottle leaf virus	Viruses
+QXP00717.1	Blueberry red ringspot virus	Viruses
+BCA25710.1	Apricot pseudo-chlorotic leaf spot virus	Viruses
+GAV70376.1	Cephalotus follicularis	Eukaryota
+UCJ00340.1	Cherry mottle leaf virus	Viruses
+BAO53375.1	Cauliflower mosaic virus	Viruses
+UCJ01064.1	Apple chlorotic leaf spot virus	Viruses
+ARM39014.1	Apple chlorotic leaf spot virus	Viruses
+AES87061.1	Medicago truncatula	Eukaryota
+KAA0032920.1	Cucumis melo var. makuwa	Eukaryota
+UCJ01109.1	Apple chlorotic leaf spot virus	Viruses
+BAO53669.1	Cauliflower mosaic virus	Viruses
+UCJ01016.1	Apple chlorotic leaf spot virus	Viruses
+GAV91210.1	Cephalotus follicularis	Eukaryota
+BAO53424.1	Cauliflower mosaic virus	Viruses
+AGT42115.1	Cauliflower mosaic virus	Viruses
+GAV76192.1	Cephalotus follicularis	Eukaryota
+AGR88236.1	Dahlia mosaic virus	Viruses
+Q02968.2	Cauliflower mosaic virus (STRAIN BBC)	Viruses
+AEB54982.1	Dahlia mosaic virus D10	Viruses
+YP_001931963.1	Eupatorium vein clearing virus	Viruses
+PHU04683.1	Capsicum chinense	Eukaryota
+AEQ61914.1	Carnation etched ring virus	Viruses
+KAG8647619.1	Manihot esculenta	Eukaryota
+GAV83159.1	Cephalotus follicularis	Eukaryota
+BAI82356.1	Apple chlorotic leaf spot virus	Viruses
+UCJ01037.1	Apple chlorotic leaf spot virus	Viruses
+BCB67673.1	Apple chlorotic leaf spot virus	Viruses
+TYK01213.1	Cucumis melo var. makuwa	Eukaryota
+GAV72134.1	Cephalotus follicularis	Eukaryota
+GAV83565.1	Cephalotus follicularis	Eukaryota
+AGT42150.1	Cauliflower mosaic virus	Viruses
+AES67244.1	Medicago truncatula	Eukaryota
+NP_040552.1	Apple chlorotic leaf spot virus	Viruses
+GAV87438.1	Cephalotus follicularis	Eukaryota
+AXL94166.1	Apple chlorotic leaf spot virus	Viruses
+KAG5060585.1	Glycine soja	Eukaryota
+YP_002519384.1	Rudbeckia flower distortion virus	Viruses
+XP_022025012.1	Helianthus annuus	Eukaryota
+AHA91279.1	Cauliflower mosaic virus	Viruses
+CAF1809141.1	Brassica napus	Eukaryota
+BAO53382.1	Cauliflower mosaic virus	Viruses
+UCJ00670.1	Peach mosaic virus	Viruses
+BAO53417.1	Cauliflower mosaic virus	Viruses
+NP_395472.1	Blueberry red ringspot virus	Viruses
+1110161A	Cauliflower mosaic virus	Viruses
+GAV85198.1	Cephalotus follicularis	Eukaryota
+KAG5577340.1	Solanum commersonii	Eukaryota
+AHA91345.1	Cauliflower mosaic virus	Viruses
+AGT42101.1	Cauliflower mosaic virus	Viruses
+QDK54387.1	Apple chlorotic leaf spot virus	Viruses
+AGT41976.1	Dahlia mosaic virus	Viruses
+XP_021985249.1	Helianthus annuus	Eukaryota
+UCJ00980.1	Apple chlorotic leaf spot virus	Viruses
+AGT42087.1	Cauliflower mosaic virus	Viruses
+BCA25693.1	Apple chlorotic leaf spot virus	Viruses
+GAV79816.1	Cephalotus follicularis	Eukaryota
+KAA0059217.1	Cucumis melo var. makuwa	Eukaryota
+XP_016900528.1	Cucumis melo	Eukaryota
+BAO53571.1	Cauliflower mosaic virus	Viruses
+BAI82357.1	Apple chlorotic leaf spot virus	Viruses
+KAG7955515.1	Carya illinoinensis	Eukaryota
+AGT42143.1	Cauliflower mosaic virus	Viruses
+XP_024961091.1	Cynara cardunculus var. scolymus	Eukaryota
+XP_038904487.1	Benincasa hispida	Eukaryota
+UCJ01106.1	Apple chlorotic leaf spot virus	Viruses
+YP_004347414.1	Sweet potato collusive virus	Viruses
+KAG4980695.1	Glycine max	Eukaryota
+AHA91334.1	Cauliflower mosaic virus	Viruses
+AOY07777.1	Cherry mottle leaf virus	Viruses
+AVE14104.1	Cauliflower mosaic virus	Viruses
+ABY66591.1	Cauliflower mosaic virus	Viruses
+GAV70499.1	Cephalotus follicularis	Eukaryota
+AGT42122.1	Cauliflower mosaic virus	Viruses
+GAV58179.1	Cephalotus follicularis	Eukaryota
+BCA25687.1	Apple chlorotic leaf spot virus	Viruses
+UCJ01061.1	Apple chlorotic leaf spot virus	Viruses
+AJM71350.1	Blueberry red ringspot virus	Viruses
+XP_022025010.1	Helianthus annuus	Eukaryota
+ASK50049.1	Strawberry vein banding virus	Viruses
+KAF9854310.1	Populus deltoides	Eukaryota
+KRH55131.1	Glycine max	Eukaryota
+GAV90767.1	Cephalotus follicularis	Eukaryota
+UBZ25994.1	Apple chlorotic leaf spot virus	Viruses
+GAV92105.1	Cephalotus follicularis	Eukaryota
+BAO53466.1	Cauliflower mosaic virus	Viruses
+AAA79871.1	Cassava vein mosaic virus	Viruses
+KAG5068397.1	Glycine max	Eukaryota
+UCJ00992.1	Apple chlorotic leaf spot virus	Viruses
+GAV83476.1	Cephalotus follicularis	Eukaryota
+UCJ01058.1	Apple chlorotic leaf spot virus	Viruses
+KAH1034786.1	Glycine max	Eukaryota
+GAV84402.1	Cephalotus follicularis	Eukaryota
+QCH00495.1	Soybean chlorotic mottle virus	Viruses
+GAV61570.1	Cephalotus follicularis	Eukaryota
+ALF37640.1	Strawberry vein banding virus	Viruses
+BBA94010.1	Apple chlorotic leaf spot virus	Viruses
+KAH1154235.1	Glycine max	Eukaryota
+UCJ01118.1	Apple chlorotic leaf spot virus	Viruses
+GAV78587.1	Cephalotus follicularis	Eukaryota
+GAV60219.1	Cephalotus follicularis	Eukaryota
+UCJ01100.1	Apple chlorotic leaf spot virus	Viruses
+GAV83834.1	Cephalotus follicularis	Eukaryota
+AGW07340.1	Apple chlorotic leaf spot virus	Viruses
+AGT42185.1	Cauliflower mosaic virus	Viruses
+UCJ00360.1	Cherry mottle leaf virus	Viruses
+KVH88819.1	Cynara cardunculus var. scolymus	Eukaryota
+GAV59778.1	Cephalotus follicularis	Eukaryota
+KAG5059726.1	Glycine soja	Eukaryota
+UCJ00986.1	Apple chlorotic leaf spot virus	Viruses
+AVE14097.1	Cauliflower mosaic virus	Viruses
+UCJ00662.1	Peach mosaic virus	Viruses
+ADG03636.1	Dahlia mosaic virus	Viruses
+ASE05850.1	Strawberry vein banding virus	Viruses
+BAO53585.1	Cauliflower mosaic virus	Viruses
+YP_006907830.1	Horseradish latent virus	Viruses
+AGK63260.1	Cherry mottle leaf virus	Viruses
+AFE82823.1	Blueberry red ringspot virus	Viruses
+CAC88787.1	Nicotiana tabacum	Eukaryota
+GAV81446.1	Cephalotus follicularis	Eukaryota
+XP_022041473.1	Helianthus annuus	Eukaryota
+KAG5069283.1	Glycine max	Eukaryota
+AEH95576.1	Blueberry red ringspot virus	Viruses
+BAO53368.1	Cauliflower mosaic virus	Viruses
+ABY71564.1	Apple chlorotic leaf spot virus	Viruses
+AEQ38575.1	Blueberry red ringspot virus	Viruses
+YP_004293217.1	Grapevine berry inner necrosis virus	Viruses
+TYK04698.1	Cucumis melo var. makuwa	Eukaryota
+KAG5578668.1	Solanum commersonii	Eukaryota
+BAO53459.1	Cauliflower mosaic virus	Viruses
+ALA23051.1	Apple chlorotic leaf spot virus	Viruses
+AIU41547.1	Apple chlorotic leaf spot virus	Viruses
+AII80282.1	Cauliflower mosaic virus	Viruses
+QED42841.1	Isatis caulimovirus A	Viruses
+GAV82788.1	Cephalotus follicularis	Eukaryota
+QOI16632.1	Apple chlorotic leaf spot virus	Viruses
+QHN77399.1	Arachis hypogaea	Eukaryota
+GAV89743.1	Cephalotus follicularis	Eukaryota
+TMW80299.1	Solanum chilense	Eukaryota
+GAV92637.1	Cephalotus follicularis	Eukaryota
+UCJ01028.1	Apple chlorotic leaf spot virus	Viruses
+KAG4936319.1	Glycine max	Eukaryota
+AHZ34225.1	Apple chlorotic leaf spot virus	Viruses
+AHA91354.1	Cauliflower mosaic virus	Viruses
+AHA91300.1	Cauliflower mosaic virus	Viruses
+ALA23046.1	Apple chlorotic leaf spot virus	Viruses
+AEQ38576.1	Blueberry red ringspot virus	Viruses
+BAO53508.1	Cauliflower mosaic virus	Viruses
+BAO53452.1	Cauliflower mosaic virus	Viruses
+ASJ27538.1	Apple chlorotic leaf spot virus	Viruses
+BCA25696.1	Apple chlorotic leaf spot virus	Viruses
+GAV81253.1	Cephalotus follicularis	Eukaryota
+KAA0041674.1	Cucumis melo var. makuwa	Eukaryota
+AGW07337.1	Apple chlorotic leaf spot virus	Viruses
+GAV67206.1	Cephalotus follicularis	Eukaryota
+P03547.1	Cauliflower mosaic virus (STRAIN D/H)	Viruses
+QED42825.1	Silene caulimovirus A	Viruses
+KAG5628261.1	Solanum commersonii	Eukaryota
+BAO53655.1	Cauliflower mosaic virus	Viruses
+UCJ00998.1	Apple chlorotic leaf spot virus	Viruses
+UCJ00658.1	Peach mosaic virus	Viruses
+NP_619544.1	Figwort mosaic virus	Viruses
+AHA91313.1	Cauliflower mosaic virus	Viruses
+KAA0052109.1	Cucumis melo var. makuwa	Eukaryota
+BCA25699.1	Apple chlorotic leaf spot virus	Viruses
+AHX39215.1	Cauliflower mosaic virus	Viruses
+QIA61762.1	Cherry symptomless virus	Viruses
+GAV81638.1	Cephalotus follicularis	Eukaryota
+GAV85739.1	Cephalotus follicularis	Eukaryota
+GAV67801.1	Cephalotus follicularis	Eukaryota
+BBG43569.1	Strawberry vein banding virus	Viruses
+YP_224131.1	Apricot pseudo-chlorotic leaf spot virus	Viruses
+GAV71502.1	Cephalotus follicularis	Eukaryota
+BAO53676.1	Cauliflower mosaic virus	Viruses
+BBJ35815.1	Apple chlorotic leaf spot virus	Viruses
+AFE82820.1	Blueberry red ringspot virus	Viruses
+BCA25684.1	Apple chlorotic leaf spot virus	Viruses
+GAV88922.1	Cephalotus follicularis	Eukaryota
+ALA23050.1	Apple chlorotic leaf spot virus	Viruses
+GAV86628.1	Cephalotus follicularis	Eukaryota
+GAV78782.1	Cephalotus follicularis	Eukaryota
+QHO06756.1	Arachis hypogaea	Eukaryota
+KAG5054460.1	Glycine max	Eukaryota
+GAV88660.1	Cephalotus follicularis	Eukaryota
+ASJ27553.1	Apricot pseudo-chlorotic leaf spot virus	Viruses
+CAA68081.1	Apple chlorotic leaf spot virus	Viruses
+GAV74657.1	Cephalotus follicularis	Eukaryota
+AHA91327.1	Cauliflower mosaic virus	Viruses
+APT43174.1	Grapevine berry inner necrosis virus	Viruses
+GAV83075.1	Cephalotus follicularis	Eukaryota
+AHA91321.1	Cauliflower mosaic virus	Viruses
+ALA23049.1	Apple chlorotic leaf spot virus	Viruses
+BAO53564.1	Cauliflower mosaic virus	Viruses
+CAH59635.1	Carnation etched ring virus	Viruses
+XP_033512756.1	Nicotiana tomentosiformis	Eukaryota
+KAG5071561.1	Glycine max	Eukaryota
+AEQ38573.1	Blueberry red ringspot virus	Viruses
+BAO53438.1	Cauliflower mosaic virus	Viruses
+AGT42192.1	Cauliflower mosaic virus	Viruses
+UCJ01070.1	Apple chlorotic leaf spot virus	Viruses
+QHO01623.1	Arachis hypogaea	Eukaryota
+GAV91990.1	Cephalotus follicularis	Eukaryota
+AFE82819.1	Blueberry red ringspot virus	Viruses
+ATS17301.1	Cauliflower mosaic virus	Viruses
+KAG5019915.1	Glycine soja	Eukaryota
+YP_002308566.1	Peach mosaic virus	Viruses
+RHN45553.1	Medicago truncatula	Eukaryota

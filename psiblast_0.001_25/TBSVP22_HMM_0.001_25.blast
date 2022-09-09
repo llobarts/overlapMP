@@ -1,0 +1,129 @@
+# PSIBLAST 2.11.0+
+# Iteration: 1
+# Query: TBSVP22_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 57 hits found
+TBSVP22_HMM	NP_062900.1	79.679	187	37	1	2	187	2	188	p22 protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	P50633.1	79.144	187	38	1	2	187	2	188	RecName: Full=Movement protein p22; AltName: Full=p21 [Tomato bushy stunt virus (strain ja9)]	Tomato bushy stunt virus (strain ja9)	Viruses
+TBSVP22_HMM	P50632.1	79.144	187	38	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (strain ja6)]	Tomato bushy stunt virus (strain ja6)	Viruses
+TBSVP22_HMM	ACX53283.1	78.610	187	39	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	P50629.1	76.882	186	43	0	2	187	2	187	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (strain b8)]	Tomato bushy stunt virus (strain b8)	Viruses
+TBSVP22_HMM	AFM91107.1	78.610	187	39	1	2	187	2	188	22 kDa protein [Moroccan pepper virus]	Moroccan pepper virus	Viruses
+TBSVP22_HMM	P50634.1	78.610	187	39	1	2	187	2	188	RecName: Full=Movement protein p22; AltName: Full=p21 [Tomato bushy stunt virus (strain type)]	Tomato bushy stunt virus (strain type)	Viruses
+TBSVP22_HMM	ACX53273.1	78.610	187	39	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	YP_009037609.1	78.075	187	40	1	2	187	2	188	movement protein [Moroccan pepper virus]	Moroccan pepper virus	Viruses
+TBSVP22_HMM	YP_009259670.1	78.075	187	40	1	2	187	2	188	movement protein [Pelargonium leaf curl virus]	Pelargonium leaf curl virus	Viruses
+TBSVP22_HMM	AAT67234.1	77.540	187	41	1	2	187	2	188	22k protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	ALJ30186.1	76.471	187	43	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	QKF95594.1	75.936	187	44	1	2	187	2	188	hypothetical protein 4 [Punica granatum tombusvirus]	Punica granatum tombusvirus	Viruses
+TBSVP22_HMM	NP_039811.1	77.540	187	41	1	2	187	2	188	protein of 22 kDa [Artichoke mottled crinkle virus]	Artichoke mottled crinkle virus	Viruses
+TBSVP22_HMM	AHZ12759.1	77.005	187	42	1	2	187	2	188	putative movement protein [Grapevine Algerian latent virus]	Grapevine Algerian latent virus	Viruses
+TBSVP22_HMM	YP_008999614.1	77.540	187	41	1	2	187	2	188	movement protein [Eggplant mottled crinkle virus]	Eggplant mottled crinkle virus	Viruses
+TBSVP22_HMM	QVX32678.1	77.005	187	42	1	2	187	2	188	movement protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	BCH68494.1	75.936	187	44	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	NP_612583.1	77.540	187	41	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	AAM49805.1	77.005	187	42	1	2	187	2	188	22 kDa movement protein [Pear latent virus]	Pear latent virus	Viruses
+TBSVP22_HMM	P50630.1	77.005	187	42	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (strain A23)]	Tomato bushy stunt virus (strain A23)	Viruses
+TBSVP22_HMM	QWC36212.1	75.936	187	44	1	2	187	2	188	movement protein [Pelargonium necrotic spot virus]	Pelargonium necrotic spot virus	Viruses
+TBSVP22_HMM	YP_002308432.1	75.936	187	44	1	2	187	23	209	movement protein [Grapevine Algerian latent virus]	Grapevine Algerian latent virus	Viruses
+TBSVP22_HMM	CAB56482.1	75.936	187	44	1	2	187	2	188	movement protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	UBZ25482.1	76.064	188	43	2	2	187	2	189	movement protein p22 [Neckar River virus]	Neckar River virus	Viruses
+TBSVP22_HMM	NP_040956.1	77.128	188	41	2	2	187	2	189	putative movement protein [Cucumber necrosis virus]	Cucumber necrosis virus	Viruses
+TBSVP22_HMM	NP_945117.1	75.401	187	45	1	2	187	2	188	movement protein [Pelargonium necrotic spot virus]	Pelargonium necrotic spot virus	Viruses
+TBSVP22_HMM	P15961.1	76.471	187	43	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Artichoke mottled crinkle virus]	Artichoke mottled crinkle virus	Viruses
+TBSVP22_HMM	BBD13997.1	76.064	188	43	2	2	187	2	189	p21 protein [Gentian virus A]	Gentian virus A	Viruses
+TBSVP22_HMM	AAY98783.1	75.936	187	44	1	2	187	2	188	movement protein [Lisianthus necrosis virus]	Lisianthus necrosis virus	Viruses
+TBSVP22_HMM	BCH36665.1	76.064	188	43	2	2	187	2	189	movement protein [Sitke waterborne virus]	Sitke waterborne virus	Viruses
+TBSVP22_HMM	BCH36670.1	75.532	188	44	2	2	187	2	189	movement protein [Sitke waterborne virus]	Sitke waterborne virus	Viruses
+TBSVP22_HMM	QVX32683.1	73.797	187	48	1	2	187	2	188	movement protein [Cymbidium ringspot virus]	Cymbidium ringspot virus	Viruses
+TBSVP22_HMM	P17458.1	73.797	187	48	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Cymbidium ringspot virus]	Cymbidium ringspot virus	Viruses
+TBSVP22_HMM	YP_009507821.1	74.332	187	47	1	2	187	2	188	movement protein [Havel River virus]	Havel River virus	Viruses
+TBSVP22_HMM	NP_613263.1	73.262	187	49	1	2	187	2	188	putative movement protein [Cymbidium ringspot virus]	Cymbidium ringspot virus	Viruses
+TBSVP22_HMM	BAN92403.1	78.363	171	37	0	2	172	2	172	22k protein [Moroccan pepper virus]	Moroccan pepper virus	Viruses
+TBSVP22_HMM	NP_835256.1	76.744	172	40	0	2	173	2	173	movement protein [Cucumber Bulgarian latent virus]	Cucumber Bulgarian latent virus	Viruses
+TBSVP22_HMM	QYA72475.1	76.471	170	40	0	2	171	2	171	movement protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	ABB71100.1	78.075	187	40	1	2	187	2	188	P22 [Lettuce necrotic stunt virus]	Lettuce necrotic stunt virus	Viruses
+TBSVP22_HMM	YP_459923.1	75.676	185	44	1	2	186	2	185	p21 protein [Maize necrotic streak virus]	Maize necrotic streak virus	Viruses
+TBSVP22_HMM	QOP59260.1	75.882	170	41	0	2	171	2	171	MP [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	QXV86641.1	72.283	184	50	1	2	184	2	185	movement protein [Tombusviridae sp.]	Tombusviridae sp.	Viruses
+TBSVP22_HMM	QYA72593.1	70.588	187	54	1	2	187	2	188	movement protein [Grapevine Algerian latent virus]	Grapevine Algerian latent virus	Viruses
+TBSVP22_HMM	P50631.1	74.706	170	43	0	2	171	2	171	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (STRAIN BS-3)]	Tomato bushy stunt virus (STRAIN BS-3)	Viruses
+TBSVP22_HMM	Q9QBU2.1	38.636	176	91	7	13	184	18	180	RecName: Full=Movement protein; AltName: Full=p27 [Pothos latent virus isolate pigeonpea]	Pothos latent virus isolate pigeonpea	Viruses
+TBSVP22_HMM	YP_009032637.1	38.636	176	91	7	13	184	18	180	movement protein [Pothos latent virus]	Pothos latent virus	Viruses
+TBSVP22_HMM	YP_009032642.1	37.968	187	99	7	2	184	7	180	movement protein [Cucumber leaf spot virus]	Cucumber leaf spot virus	Viruses
+TBSVP22_HMM	ABD51794.1	37.968	187	99	7	2	184	7	180	P27 protein [Cucumber leaf spot virus]	Cucumber leaf spot virus	Viruses
+TBSVP22_HMM	QLJ11274.1	37.433	187	100	7	2	184	7	180	movement protein [Cucumber leaf spot virus]	Cucumber leaf spot virus	Viruses
+TBSVP22_HMM	YP_008828159.1	36.898	187	101	7	2	184	7	180	movement protein [Yam spherical virus]	Yam spherical virus	Viruses
+TBSVP22_HMM	BAU09528.1	37.500	176	93	7	13	184	18	180	movement protein [Pothos latent virus]	Pothos latent virus	Viruses
+TBSVP22_HMM	AXP98765.1	35.294	187	104	7	2	184	7	180	movement protein [Elderberry aureusvirus 1]	Elderberry aureusvirus 1	Viruses
+TBSVP22_HMM	ABD34314.1	36.585	164	90	6	2	164	7	157	protein 4, partial [Sesame necrotic mosaic virus]	Sesame necrotic mosaic virus	Viruses
+TBSVP22_HMM	YP_009407916.1	31.609	174	103	6	11	180	14	175	movement protein [Rice virus A]	Rice virus A	Viruses
+TBSVP22_HMM	NP_945131.1	34.783	115	69	3	54	167	50	159	putative movement protein [Johnsongrass chlorotic stripe mosaic virus]	Johnsongrass chlorotic stripe mosaic virus	Viruses
+TBSVP22_HMM	YP_001285477.1	33.043	115	71	3	54	167	50	159	unnamed protein product [Maize white line mosaic virus]	Maize white line mosaic virus	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 2
+# Query: TBSVP22_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 57 hits found
+TBSVP22_HMM	YP_002308432.1	75.936	187	44	1	2	187	23	209	movement protein [Grapevine Algerian latent virus]	Grapevine Algerian latent virus	Viruses
+TBSVP22_HMM	AHZ12759.1	77.005	187	42	1	2	187	2	188	putative movement protein [Grapevine Algerian latent virus]	Grapevine Algerian latent virus	Viruses
+TBSVP22_HMM	NP_062900.1	79.679	187	37	1	2	187	2	188	p22 protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	QKF95594.1	75.936	187	44	1	2	187	2	188	hypothetical protein 4 [Punica granatum tombusvirus]	Punica granatum tombusvirus	Viruses
+TBSVP22_HMM	P50632.1	79.144	187	38	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (strain ja6)]	Tomato bushy stunt virus (strain ja6)	Viruses
+TBSVP22_HMM	ALJ30186.1	76.471	187	43	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	BCH68494.1	75.936	187	44	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	ACX53283.1	78.610	187	39	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	P50633.1	79.144	187	38	1	2	187	2	188	RecName: Full=Movement protein p22; AltName: Full=p21 [Tomato bushy stunt virus (strain ja9)]	Tomato bushy stunt virus (strain ja9)	Viruses
+TBSVP22_HMM	YP_009037609.1	78.075	187	40	1	2	187	2	188	movement protein [Moroccan pepper virus]	Moroccan pepper virus	Viruses
+TBSVP22_HMM	P50634.1	78.610	187	39	1	2	187	2	188	RecName: Full=Movement protein p22; AltName: Full=p21 [Tomato bushy stunt virus (strain type)]	Tomato bushy stunt virus (strain type)	Viruses
+TBSVP22_HMM	YP_008999614.1	77.540	187	41	1	2	187	2	188	movement protein [Eggplant mottled crinkle virus]	Eggplant mottled crinkle virus	Viruses
+TBSVP22_HMM	P50629.1	76.882	186	43	0	2	187	2	187	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (strain b8)]	Tomato bushy stunt virus (strain b8)	Viruses
+TBSVP22_HMM	QWC36212.1	75.936	187	44	1	2	187	2	188	movement protein [Pelargonium necrotic spot virus]	Pelargonium necrotic spot virus	Viruses
+TBSVP22_HMM	NP_945117.1	75.401	187	45	1	2	187	2	188	movement protein [Pelargonium necrotic spot virus]	Pelargonium necrotic spot virus	Viruses
+TBSVP22_HMM	AFM91107.1	78.610	187	39	1	2	187	2	188	22 kDa protein [Moroccan pepper virus]	Moroccan pepper virus	Viruses
+TBSVP22_HMM	NP_612583.1	77.540	187	41	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	ACX53273.1	78.610	187	39	1	2	187	2	188	movement protein [Carnation Italian ringspot virus]	Carnation Italian ringspot virus	Viruses
+TBSVP22_HMM	YP_009259670.1	78.075	187	40	1	2	187	2	188	movement protein [Pelargonium leaf curl virus]	Pelargonium leaf curl virus	Viruses
+TBSVP22_HMM	AAT67234.1	77.540	187	41	1	2	187	2	188	22k protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	BBD13997.1	76.064	188	43	2	2	187	2	189	p21 protein [Gentian virus A]	Gentian virus A	Viruses
+TBSVP22_HMM	NP_040956.1	77.128	188	41	2	2	187	2	189	putative movement protein [Cucumber necrosis virus]	Cucumber necrosis virus	Viruses
+TBSVP22_HMM	BCH36665.1	76.064	188	43	2	2	187	2	189	movement protein [Sitke waterborne virus]	Sitke waterborne virus	Viruses
+TBSVP22_HMM	UBZ25482.1	76.064	188	43	2	2	187	2	189	movement protein p22 [Neckar River virus]	Neckar River virus	Viruses
+TBSVP22_HMM	BCH36670.1	75.532	188	44	2	2	187	2	189	movement protein [Sitke waterborne virus]	Sitke waterborne virus	Viruses
+TBSVP22_HMM	NP_039811.1	77.540	187	41	1	2	187	2	188	protein of 22 kDa [Artichoke mottled crinkle virus]	Artichoke mottled crinkle virus	Viruses
+TBSVP22_HMM	AAM49805.1	77.005	187	42	1	2	187	2	188	22 kDa movement protein [Pear latent virus]	Pear latent virus	Viruses
+TBSVP22_HMM	P50630.1	77.005	187	42	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (strain A23)]	Tomato bushy stunt virus (strain A23)	Viruses
+TBSVP22_HMM	CAB56482.1	75.936	187	44	1	2	187	2	188	movement protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	AAY98783.1	75.936	187	44	1	2	187	2	188	movement protein [Lisianthus necrosis virus]	Lisianthus necrosis virus	Viruses
+TBSVP22_HMM	QVX32678.1	77.005	187	42	1	2	187	2	188	movement protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	YP_009507821.1	74.332	187	47	1	2	187	2	188	movement protein [Havel River virus]	Havel River virus	Viruses
+TBSVP22_HMM	P15961.1	76.471	187	43	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Artichoke mottled crinkle virus]	Artichoke mottled crinkle virus	Viruses
+TBSVP22_HMM	P17458.1	73.797	187	48	1	2	187	2	188	RecName: Full=Movement protein; AltName: Full=p22 [Cymbidium ringspot virus]	Cymbidium ringspot virus	Viruses
+TBSVP22_HMM	QVX32683.1	73.797	187	48	1	2	187	2	188	movement protein [Cymbidium ringspot virus]	Cymbidium ringspot virus	Viruses
+TBSVP22_HMM	QXV86641.1	71.658	187	52	1	2	187	2	188	movement protein [Tombusviridae sp.]	Tombusviridae sp.	Viruses
+TBSVP22_HMM	BAN92403.1	77.005	187	42	1	2	187	2	188	22k protein [Moroccan pepper virus]	Moroccan pepper virus	Viruses
+TBSVP22_HMM	NP_613263.1	73.262	187	49	1	2	187	2	188	putative movement protein [Cymbidium ringspot virus]	Cymbidium ringspot virus	Viruses
+TBSVP22_HMM	NP_835256.1	76.744	172	40	0	2	173	2	173	movement protein [Cucumber Bulgarian latent virus]	Cucumber Bulgarian latent virus	Viruses
+TBSVP22_HMM	ABB71100.1	78.075	187	40	1	2	187	2	188	P22 [Lettuce necrotic stunt virus]	Lettuce necrotic stunt virus	Viruses
+TBSVP22_HMM	QYA72475.1	76.471	170	40	0	2	171	2	171	movement protein [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	QOP59260.1	75.882	170	41	0	2	171	2	171	MP [Tomato bushy stunt virus]	Tomato bushy stunt virus	Viruses
+TBSVP22_HMM	QYA72593.1	70.588	187	54	1	2	187	2	188	movement protein [Grapevine Algerian latent virus]	Grapevine Algerian latent virus	Viruses
+TBSVP22_HMM	P50631.1	74.706	170	43	0	2	171	2	171	RecName: Full=Movement protein; AltName: Full=p22 [Tomato bushy stunt virus (STRAIN BS-3)]	Tomato bushy stunt virus (STRAIN BS-3)	Viruses
+TBSVP22_HMM	YP_459923.1	75.676	185	44	1	2	186	2	185	p21 protein [Maize necrotic streak virus]	Maize necrotic streak virus	Viruses
+TBSVP22_HMM	ABD51794.1	37.968	187	99	7	2	184	7	180	P27 protein [Cucumber leaf spot virus]	Cucumber leaf spot virus	Viruses
+TBSVP22_HMM	YP_009032642.1	37.968	187	99	7	2	184	7	180	movement protein [Cucumber leaf spot virus]	Cucumber leaf spot virus	Viruses
+TBSVP22_HMM	YP_008828159.1	36.898	187	101	7	2	184	7	180	movement protein [Yam spherical virus]	Yam spherical virus	Viruses
+TBSVP22_HMM	QLJ11274.1	37.433	187	100	7	2	184	7	180	movement protein [Cucumber leaf spot virus]	Cucumber leaf spot virus	Viruses
+TBSVP22_HMM	YP_009032637.1	37.433	187	100	7	2	184	7	180	movement protein [Pothos latent virus]	Pothos latent virus	Viruses
+TBSVP22_HMM	Q9QBU2.1	37.433	187	100	7	2	184	7	180	RecName: Full=Movement protein; AltName: Full=p27 [Pothos latent virus isolate pigeonpea]	Pothos latent virus isolate pigeonpea	Viruses
+TBSVP22_HMM	AXP98765.1	35.294	187	104	7	2	184	7	180	movement protein [Elderberry aureusvirus 1]	Elderberry aureusvirus 1	Viruses
+TBSVP22_HMM	BAU09528.1	36.364	187	102	7	2	184	7	180	movement protein [Pothos latent virus]	Pothos latent virus	Viruses
+TBSVP22_HMM	YP_009407916.1	31.694	183	107	7	2	180	7	175	movement protein [Rice virus A]	Rice virus A	Viruses
+TBSVP22_HMM	ABD34314.1	35.928	167	93	6	2	167	7	160	protein 4, partial [Sesame necrotic mosaic virus]	Sesame necrotic mosaic virus	Viruses
+TBSVP22_HMM	YP_001285477.1	26.316	190	122	7	2	187	7	182	unnamed protein product [Maize white line mosaic virus]	Maize white line mosaic virus	Viruses
+TBSVP22_HMM	NP_945131.1	27.895	190	119	7	2	187	7	182	putative movement protein [Johnsongrass chlorotic stripe mosaic virus]	Johnsongrass chlorotic stripe mosaic virus	Viruses
+
+Search has CONVERGED!
+# BLAST processed 2 queries

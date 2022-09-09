@@ -1,0 +1,85 @@
+QUW17161.1	Apple stem grooving virus	Viruses
+AFM37538.1	Apple stem grooving virus	Viruses
+AFG28409.1	Apple stem grooving virus	Viruses
+QQG34670.1	Iris germanica capillovirus 1	Viruses
+QJZ28111.1	Citrus tatter leaf virus	Viruses
+BAA03870.1	Citrus tatter leaf virus	Viruses
+QVX32672.1	Apple stem grooving virus	Viruses
+AFM37532.1	Apple stem grooving virus	Viruses
+QDK54735.1	Apple stem grooving virus	Viruses
+AFM37536.1	Apple stem grooving virus	Viruses
+AND78203.1	Apple stem grooving virus	Viruses
+UCJ01150.1	Apple stem grooving virus	Viruses
+BBK03479.1	Apple stem grooving virus	Viruses
+QQG34646.1	Suaeda fruticosa betaflexivirus 1	Viruses
+QYK20652.1	Apple stem grooving virus	Viruses
+YP_009300686.1	Wuhan Insect virus 4	Viruses
+QDK54739.1	Apple stem grooving virus	Viruses
+CCK73184.1	Apple stem grooving virus	Viruses
+AFM37526.1	Apple stem grooving virus	Viruses
+UCJ01146.1	Apple stem grooving virus	Viruses
+BAS32857.1	Apple stem grooving virus	Viruses
+UCJ01154.1	Apple stem grooving virus	Viruses
+BAU79372.1	Apple stem grooving virus	Viruses
+QEY10264.1	Apple stem grooving virus	Viruses
+AIA96306.1	Apple stem grooving virus	Viruses
+BAA03352.1	Citrus tatter leaf virus	Viruses
+BBK03476.1	Apple stem grooving virus	Viruses
+AFM37546.1	Apple stem grooving virus	Viruses
+AYN44467.1	Citrus tatter leaf virus	Viruses
+ALF38088.1	Apple stem grooving virus	Viruses
+UCJ01138.1	Apple stem grooving virus	Viruses
+APT42871.1	Apple stem grooving virus	Viruses
+AFU07532.1	Citrus tatter leaf virus	Viruses
+AYN44465.1	Citrus tatter leaf virus	Viruses
+AFM37542.1	Apple stem grooving virus	Viruses
+ALJ56059.1	Apple stem grooving virus	Viruses
+AYN44449.1	Citrus tatter leaf virus	Viruses
+AYF52909.1	Citrus tatter leaf virus	Viruses
+QQG34608.1	Breadfruit capillovirus 1	Viruses
+QQG34588.1	Rhodiola betaflexivirus 1	Viruses
+APT69209.1	Apple stem grooving virus	Viruses
+UCJ01124.1	Apple stem grooving virus	Viruses
+YP_009551985.1	Mume virus A	Viruses
+QVW10186.1	Apple stem grooving virus	Viruses
+QIM55854.1	Mume virus A	Viruses
+SBO15775.1	Apple stem grooving virus	Viruses
+AWK77907.1	Hobart betaflexivirus 1	Viruses
+AFM37530.1	Apple stem grooving virus	Viruses
+AYN44459.1	Citrus tatter leaf virus	Viruses
+AFM37540.1	Apple stem grooving virus	Viruses
+BBA57164.1	Apple stem grooving virus	Viruses
+ACD88338.1	Citrus tatter leaf virus	Viruses
+BBA57166.1	Apple stem grooving virus	Viruses
+QJZ28106.1	Apple stem grooving virus	Viruses
+UCJ01144.1	Apple stem grooving virus	Viruses
+AYN44463.1	Citrus tatter leaf virus	Viruses
+AFM37528.1	Apple stem grooving virus	Viruses
+QQG34584.1	Silene betaflexivirus 1	Viruses
+QGW49049.1	Loquat virus A	Viruses
+AYF52911.1	Citrus tatter leaf virus	Viruses
+UCJ01156.1	Apple stem grooving virus	Viruses
+QKO28375.1	Apple stem grooving virus	Viruses
+AYN44445.1	Citrus tatter leaf virus	Viruses
+P0C1U3.1	Pear black necrotic leaf spot virus	Viruses
+UCJ01142.1	Apple stem grooving virus	Viruses
+UCJ01128.1	Apple stem grooving virus	Viruses
+NP_044336.1	Apple stem grooving virus	Viruses
+QNN26333.1	Apple stem grooving virus	Viruses
+UCJ01136.1	Apple stem grooving virus	Viruses
+CCA30186.1	Apple stem grooving virus	Viruses
+BBJ35801.1	Apple stem grooving virus	Viruses
+AHW47896.1	Apple stem grooving virus	Viruses
+QQG34586.1	Avellana capillovirus 1	Viruses
+AAP80758.1	Apple stem grooving virus	Viruses
+AYN44453.1	Citrus tatter leaf virus	Viruses
+ALZ42095.1	Apple stem grooving virus	Viruses
+QGW35765.1	Apple stem grooving virus	Viruses
+AFM37509.1	Apple stem grooving virus	Viruses
+AYF52913.1	Citrus tatter leaf virus	Viruses
+AOS50884.1	Apple stem grooving virus	Viruses
+UBZ25955.1	Apple stem grooving virus	Viruses
+BBJ35803.1	Apple stem grooving virus	Viruses
+AFM37534.1	Apple stem grooving virus	Viruses
+YP_009268860.1	Yacon virus A	Viruses
+AFP74103.1	Apple stem grooving virus	Viruses

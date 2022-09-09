@@ -1,0 +1,524 @@
+# PSIBLAST 2.11.0+
+# Iteration: 1
+# Query: EmaravirusP4_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 153 hits found
+EmaravirusP4_HMM	ADZ55390.1	81.897	348	63	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55394.1	81.609	348	64	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55386.1	81.609	348	64	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98124.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55378.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98117.1	81.322	348	65	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55382.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55380.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98140.1	81.322	348	65	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AXI82307.1	81.034	348	66	0	1	348	13	360	putative movement protein [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98088.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98077.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98127.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98121.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55392.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98136.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	YP_004327592.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55395.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98058.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98080.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98074.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AXI82315.1	81.034	348	66	0	1	348	13	360	putative movement protein [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98096.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98134.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98060.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98101.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98079.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55387.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55379.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98126.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98114.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98066.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55393.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98071.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55384.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55391.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98123.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98130.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98076.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55389.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98087.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55388.1	80.460	348	68	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55398.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55381.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55385.1	79.885	348	70	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55397.1	79.191	346	72	0	1	346	1	346	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	BAM13817.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22245.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22246.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AEI98679.1	77.937	349	77	0	1	349	13	361	P4 [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_009237271.1	77.077	349	80	0	1	349	13	361	P4 protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22243.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QTZ21226.1	76.791	349	81	0	1	349	13	361	P4 protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13823.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AYC62203.1	77.746	346	77	0	4	349	16	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22241.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22239.1	77.650	349	78	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22244.1	76.791	349	81	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13824.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13822.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QRN67951.1	77.364	349	79	0	1	349	13	361	movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QRN67949.1	77.364	349	79	0	1	349	13	361	movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55399.1	81.877	309	56	0	40	348	1	309	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90753.1	69.054	349	108	0	1	349	13	361	movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	YP_009268866.1	68.768	349	109	0	1	349	13	361	RNA4 [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90780.1	68.768	349	109	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90759.1	68.768	349	109	0	1	349	1	349	movement protein, partial [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	CDX09884.3	68.481	349	110	0	1	349	13	361	putative Movement Protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90776.1	68.768	349	109	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	CDX09885.1	69.096	343	106	0	7	349	8	350	Movement Protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	CAG9003601.1	69.591	342	104	0	8	349	20	361	movement protein [Ash shoestring-associated emaravirus]	Ash shoestring-associated emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90777.1	67.622	349	113	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	QAR18005.1	67.335	349	114	0	1	349	13	361	putative MP p4 [Pistacia emaravirus]	Pistacia emaravirus	Viruses
+EmaravirusP4_HMM	YP_010088073.1	67.908	349	112	0	1	349	13	361	movement protein [Actinidia emaravirus 2]	Actinidia emaravirus 2	Viruses
+EmaravirusP4_HMM	CAG9003596.1	70.588	323	95	0	8	330	18	340	movement protein, partial [Ash shoestring-associated emaravirus]	Ash shoestring-associated emaravirus	Viruses
+EmaravirusP4_HMM	QOI17318.1	66.667	351	113	2	1	348	13	362	putative movement protein [Maple mottle-associated virus]	Maple mottle-associated virus	Viruses
+EmaravirusP4_HMM	CAA0079685.1	62.678	351	127	2	1	349	13	361	movement protein [Aspen mosaic-associated virus]	Aspen mosaic-associated virus	Viruses
+EmaravirusP4_HMM	QBM15172.1	58.112	339	142	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15170.1	57.522	339	144	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15161.1	57.227	339	145	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15155.1	57.227	339	145	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15152.1	57.227	339	145	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15154.1	57.227	339	145	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15147.1	57.227	339	145	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	AQX45476.1	56.932	339	146	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15141.1	56.932	339	146	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15160.1	56.932	339	146	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15142.1	57.522	339	144	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15150.1	56.932	339	146	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15148.1	56.637	339	147	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15151.1	56.932	339	146	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15149.1	56.637	339	147	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15165.1	56.637	339	147	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15159.1	56.637	339	147	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15169.1	56.637	339	147	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15162.1	56.047	339	149	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15163.1	56.342	339	148	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15153.1	56.342	339	148	0	11	349	25	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	AGT96669.1	82.386	176	31	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96677.1	82.386	176	31	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96682.1	81.818	176	32	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96684.1	81.818	176	32	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	ANA12160.1	84.242	165	26	0	144	308	1	165	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	BCS90323.1	41.925	322	182	4	29	348	44	362	movement protein [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	QVW29594.1	42.236	322	181	4	29	348	44	362	movement protein [Grapevine emaravirus A]	Grapevine emaravirus A	Viruses
+EmaravirusP4_HMM	BCS90318.1	42.236	322	181	4	29	348	42	360	movement protein, partial [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	BCS90317.1	42.236	322	181	4	29	348	42	360	movement protein, partial [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	CDX09881.1	41.358	324	189	1	25	348	40	362	Movement Protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	YP_009237264.1	41.667	324	188	1	25	348	38	360	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90758.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90749.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90751.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90743.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90742.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90745.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90757.1	41.358	324	189	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90752.1	41.667	324	188	1	25	348	38	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90717.1	41.486	323	188	1	25	347	38	359	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90755.1	43.463	283	159	1	25	307	38	319	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90750.1	46.610	236	125	1	25	260	38	272	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90744.1	46.610	236	125	1	25	260	38	272	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90746.1	46.610	236	125	1	25	260	38	272	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90756.1	46.610	236	125	1	25	260	38	272	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90747.1	46.818	220	116	1	25	244	38	256	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	AGU16971.1	83.333	114	19	0	33	146	1	114	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AGN53194.1	83.186	113	19	0	33	145	1	113	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIN85948.1	35.604	323	187	5	1	310	16	330	P4 [Lilac chlorotic ringspot-associated virus]	Lilac chlorotic ringspot-associated virus	Viruses
+EmaravirusP4_HMM	AEO88257.1	41.473	258	145	3	29	286	54	305	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88267.1	41.473	258	145	3	29	286	54	305	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	YP_009508084.1	41.473	258	145	3	29	286	54	305	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88262.1	41.473	258	145	3	29	286	54	305	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88270.1	41.085	258	146	3	29	286	54	305	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	YP_009507927.1	36.429	280	164	4	17	289	36	308	membrane-located protein [Actinidia chlorotic ringspot-associated virus]	Actinidia chlorotic ringspot-associated virus	Viruses
+EmaravirusP4_HMM	VFU05379.1	39.256	242	141	3	27	267	59	295	movement protein [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	VFU05382.1	39.256	242	141	3	27	267	59	295	movement protein [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AMM62644.1	85.714	70	10	0	103	172	1	70	movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	VFU05384.1	41.279	172	95	3	42	212	2	168	movement protein, partial [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	VFU05385.1	41.279	172	95	3	42	212	2	168	movement protein, partial [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AWH90178.1	23.767	223	162	4	31	249	53	271	movement protein [Palo verde broom virus]	Palo verde broom virus	Viruses
+EmaravirusP4_HMM	YP_009237258.1	28.497	193	128	6	7	196	35	220	movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AML03185.1	25.726	241	169	6	7	244	35	268	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	AML03168.1	27.979	193	129	6	7	196	35	220	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	AML03195.1	27.979	193	129	6	7	196	35	220	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	AML03176.1	25.726	241	169	6	7	244	35	268	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	QGT41069.1	27.320	194	129	6	7	196	35	220	P4 movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QQD79834.1	25.263	285	191	9	30	304	57	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35059.1	24.912	285	192	9	30	304	57	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79827.1	24.912	285	192	9	30	304	57	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQO58785.1	27.461	193	130	6	7	196	32	217	putative movement protein, partial [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QRG35060.1	27.273	209	132	8	30	229	57	254	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QDM39002.1	24.671	304	207	9	11	304	36	327	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQO58787.1	23.704	270	189	7	7	266	35	297	putative movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_009237267.1	27.039	233	157	8	12	241	41	263	P4 protein [Raspberry leaf blotch emaravirus]	Raspberry leaf blotch emaravirus	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 2
+# Query: EmaravirusP4_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 175 hits found
+EmaravirusP4_HMM	QBI22243.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22239.1	77.650	349	78	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22241.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22246.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22245.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QTZ21226.1	76.791	349	81	0	1	349	13	361	P4 protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AEI98679.1	77.937	349	77	0	1	349	13	361	P4 [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13817.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QRN67951.1	77.364	349	79	0	1	349	13	361	movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13822.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13823.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22244.1	76.791	349	81	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_009237271.1	77.077	349	80	0	1	349	13	361	P4 protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QRN67949.1	77.364	349	79	0	1	349	13	361	movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AYC62203.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90776.1	68.768	349	109	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	YP_009268866.1	68.768	349	109	0	1	349	13	361	RNA4 [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90780.1	68.768	349	109	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90753.1	69.054	349	108	0	1	349	13	361	movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	BAM13824.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	CDX09884.3	68.481	349	110	0	1	349	13	361	putative Movement Protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90759.1	68.768	349	109	0	1	349	1	349	movement protein, partial [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	CDX09885.1	68.286	350	110	1	1	349	1	350	Movement Protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	YP_010088073.1	67.908	349	112	0	1	349	13	361	movement protein [Actinidia emaravirus 2]	Actinidia emaravirus 2	Viruses
+EmaravirusP4_HMM	QIB98136.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98140.1	81.322	348	65	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55390.1	81.897	348	63	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98058.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98101.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98134.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	YP_004327592.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98130.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98117.1	81.322	348	65	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AXI82307.1	81.034	348	66	0	1	348	13	360	putative movement protein [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98121.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55394.1	81.609	348	64	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98088.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90777.1	67.622	349	113	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	QIB98066.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55382.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98060.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98127.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98080.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98126.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98114.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98077.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98071.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98123.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98124.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	CAG9003601.1	68.481	349	110	0	1	349	13	361	movement protein [Ash shoestring-associated emaravirus]	Ash shoestring-associated emaravirus	Viruses
+EmaravirusP4_HMM	AXI82315.1	81.034	348	66	0	1	348	13	360	putative movement protein [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98079.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55384.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55379.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QAR18005.1	67.335	349	114	0	1	349	13	361	putative MP p4 [Pistacia emaravirus]	Pistacia emaravirus	Viruses
+EmaravirusP4_HMM	QIB98096.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98087.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55378.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55380.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98074.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55395.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55386.1	81.609	348	64	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55388.1	80.460	348	68	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98076.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55392.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55393.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55387.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55389.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55391.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55398.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55385.1	79.885	348	70	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55381.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55397.1	79.191	346	72	0	1	346	1	346	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	CAA0079685.1	62.178	349	132	0	1	349	13	361	movement protein [Aspen mosaic-associated virus]	Aspen mosaic-associated virus	Viruses
+EmaravirusP4_HMM	CAG9003596.1	68.047	338	108	0	1	338	11	348	movement protein, partial [Ash shoestring-associated emaravirus]	Ash shoestring-associated emaravirus	Viruses
+EmaravirusP4_HMM	QOI17318.1	65.714	350	118	1	1	348	13	362	putative movement protein [Maple mottle-associated virus]	Maple mottle-associated virus	Viruses
+EmaravirusP4_HMM	QBM15155.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15141.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15160.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15170.1	56.410	351	151	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15163.1	55.271	351	155	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15154.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15151.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15172.1	56.980	351	149	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15161.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15162.1	54.986	351	156	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	AQX45476.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15159.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15165.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15148.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15149.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15152.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15150.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15147.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15153.1	55.271	351	155	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15142.1	56.410	351	151	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15169.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	ADZ55399.1	81.877	309	56	0	40	348	1	309	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90749.1	40.294	340	201	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	CDX09881.1	40.000	340	202	2	9	348	25	362	Movement Protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	YP_009237264.1	40.294	340	201	2	9	348	23	360	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90758.1	40.294	340	201	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90751.1	40.294	340	201	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90743.1	40.294	340	201	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90742.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90745.1	40.294	340	201	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90757.1	40.000	340	202	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90752.1	40.294	340	201	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90717.1	38.968	349	208	3	2	347	13	359	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90755.1	39.706	340	203	2	9	348	23	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	BCS90323.1	40.000	335	198	3	15	348	30	362	movement protein [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	BCS90318.1	40.299	335	197	3	15	348	28	360	movement protein, partial [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	BCS90317.1	40.299	335	197	3	15	348	28	360	movement protein, partial [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	QVW29594.1	40.000	340	201	3	10	348	25	362	movement protein [Grapevine emaravirus A]	Grapevine emaravirus A	Viruses
+EmaravirusP4_HMM	ANQ90756.1	41.115	287	164	3	2	285	13	297	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90744.1	41.852	270	152	3	2	268	13	280	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90750.1	41.852	270	152	3	2	268	13	280	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90746.1	41.852	270	152	3	2	268	13	280	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	QIN85948.1	34.286	350	209	5	1	337	16	357	P4 [Lilac chlorotic ringspot-associated virus]	Lilac chlorotic ringspot-associated virus	Viruses
+EmaravirusP4_HMM	AEO88257.1	34.911	338	211	4	1	335	23	354	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88262.1	34.911	338	211	4	1	335	23	354	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	YP_009508084.1	34.911	338	211	4	1	335	23	354	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88267.1	34.911	338	211	4	1	335	23	354	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90747.1	42.683	246	136	3	2	244	13	256	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	AEO88270.1	34.615	338	212	4	1	335	23	354	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	YP_009507927.1	32.164	342	214	5	17	347	36	370	membrane-located protein [Actinidia chlorotic ringspot-associated virus]	Actinidia chlorotic ringspot-associated virus	Viruses
+EmaravirusP4_HMM	QDM39002.1	22.591	301	218	7	8	304	38	327	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79834.1	23.000	300	216	7	8	304	42	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79827.1	22.667	300	217	7	8	304	42	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35060.1	22.667	300	217	7	8	304	42	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35059.1	22.667	300	217	7	8	304	42	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	VFU05379.1	34.084	311	198	4	2	310	33	338	movement protein [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AML03176.1	23.616	271	192	6	7	268	35	299	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	VFU05382.1	34.084	311	198	4	2	310	33	338	movement protein [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	YP_009237258.1	23.985	271	191	6	7	268	35	299	movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QQO58787.1	22.878	271	194	6	7	268	35	299	putative movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AML03185.1	23.616	271	192	6	7	268	35	299	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	AML03168.1	23.247	271	193	6	7	268	35	299	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	QGT41069.1	23.247	271	193	6	7	268	35	299	P4 movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AML03195.1	23.247	271	193	6	7	268	35	299	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	QQO58785.1	22.878	271	194	6	7	268	32	296	putative movement protein, partial [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_009237267.1	22.074	299	225	4	8	305	37	328	P4 protein [Raspberry leaf blotch emaravirus]	Raspberry leaf blotch emaravirus	Viruses
+EmaravirusP4_HMM	AWH90178.1	22.185	302	221	7	6	303	31	322	movement protein [Palo verde broom virus]	Palo verde broom virus	Viruses
+EmaravirusP4_HMM	AGT96682.1	81.818	176	32	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96684.1	81.818	176	32	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96677.1	82.386	176	31	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96669.1	82.386	176	31	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	ANA12160.1	84.242	165	26	0	144	308	1	165	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	YP_010088068.1	18.431	255	195	6	8	255	32	280	putative movement protein [Ti ringspot-associated emaravirus]	Ti ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	CAD0281688.1	19.737	304	232	4	8	305	34	331	movement protein [Common oak ringspot-associated virus]	Common oak ringspot-associated virus	Viruses
+EmaravirusP4_HMM	VFU05384.1	40.462	173	97	3	41	212	1	168	movement protein, partial [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	VFU05385.1	40.462	173	97	3	41	212	1	168	movement protein, partial [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AGU16971.1	83.333	114	19	0	33	146	1	114	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AGN53194.1	83.784	111	18	0	33	143	1	111	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	CAD0241424.1	19.725	218	169	2	92	305	1	216	movement protein, partial [Common oak ringspot-associated virus]	Common oak ringspot-associated virus	Viruses
+EmaravirusP4_HMM	AMM62644.1	85.714	70	10	0	103	172	1	70	movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BBM96181.1	17.625	261	181	6	12	267	35	266	putative movement protein [Perilla mosaic virus]	Perilla mosaic virus	Viruses
+EmaravirusP4_HMM	QID58979.1	18.729	299	214	5	7	302	17	289	putative movement protein [Camellia chlorotic ringspot virus]	Camellia chlorotic ringspot virus	Viruses
+EmaravirusP4_HMM	QGX73506.1	18.729	299	214	5	7	302	17	289	putative movement protein [Camellia japonica-associated emaravirus 1]	Camellia japonica-associated emaravirus 1	Viruses
+EmaravirusP4_HMM	QTW92693.1	18.060	299	216	5	7	302	17	289	putative movement protein [Camellia japonica-associated emaravirus 1]	Camellia japonica-associated emaravirus 1	Viruses
+EmaravirusP4_HMM	QRG35064.1	18.727	267	179	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79841.1	19.101	267	178	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35062.1	18.727	267	179	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35063.1	18.727	267	179	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QDM39003.1	18.431	255	168	8	1	239	31	261	P5 protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QKY77001.1	18.354	316	229	7	1	310	13	305	movement protein [Pear chlorotic leaf spot-associated virus]	Pear chlorotic leaf spot-associated virus	Viruses
+EmaravirusP4_HMM	QQD79828.1	18.727	267	179	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QEE82895.1	18.038	316	230	7	1	310	13	305	movement protein [Pear chlorotic leaf spot-associated virus]	Pear chlorotic leaf spot-associated virus	Viruses
+EmaravirusP4_HMM	QRG35061.1	18.727	267	179	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79835.1	18.727	267	179	9	7	255	32	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QZN83756.1	16.532	248	182	5	1	246	10	234	putative movement protein [Karaka Okahu purepure emaravirus]	Karaka Okahu purepure emaravirus	Viruses
+EmaravirusP4_HMM	QGX73510.1	13.946	294	224	5	12	302	22	289	putative movement protein [Camellia japonica-associated emaravirus 2]	Camellia japonica-associated emaravirus 2	Viruses
+EmaravirusP4_HMM	QID58980.1	13.946	294	224	5	12	302	22	289	putative movement protein [Camellia chlorotic ringspot virus]	Camellia chlorotic ringspot virus	Viruses
+EmaravirusP4_HMM	BCK60945.1	16.720	311	230	6	5	309	15	302	putative movement protein [Chrysanthemum mosaic-associated virus]	Chrysanthemum mosaic-associated virus	Viruses
+EmaravirusP4_HMM	AML03210.1	17.391	69	50	1	205	266	1	69	putative movement protein, partial [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 3
+# Query: EmaravirusP4_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 175 hits found
+EmaravirusP4_HMM	QBI22243.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22239.1	77.650	349	78	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22246.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22241.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QTZ21226.1	76.791	349	81	0	1	349	13	361	P4 protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QBI22245.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AEI98679.1	77.937	349	77	0	1	349	13	361	P4 [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13823.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13817.1	77.937	349	77	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_009237271.1	77.077	349	80	0	1	349	13	361	P4 protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90753.1	69.054	349	108	0	1	349	13	361	movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90776.1	68.768	349	109	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	AYC62203.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_009268866.1	68.768	349	109	0	1	349	13	361	RNA4 [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	QRN67951.1	77.364	349	79	0	1	349	13	361	movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90780.1	68.768	349	109	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	QBI22244.1	76.791	349	81	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13822.1	77.364	349	79	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QRN67949.1	77.364	349	79	0	1	349	13	361	movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	BAM13824.1	77.077	349	80	0	1	349	13	361	putative movement protein [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	CDX09884.3	68.481	349	110	0	1	349	13	361	putative Movement Protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90759.1	68.768	349	109	0	1	349	1	349	movement protein, partial [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	CDX09885.1	68.286	350	110	1	1	349	1	350	Movement Protein [Pigeonpea sterility mosaic emaravirus 2]	Pigeonpea sterility mosaic emaravirus 2	Viruses
+EmaravirusP4_HMM	YP_010088073.1	67.908	349	112	0	1	349	13	361	movement protein [Actinidia emaravirus 2]	Actinidia emaravirus 2	Viruses
+EmaravirusP4_HMM	ANQ90777.1	67.622	349	113	0	1	349	13	361	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	QAR18005.1	67.335	349	114	0	1	349	13	361	putative MP p4 [Pistacia emaravirus]	Pistacia emaravirus	Viruses
+EmaravirusP4_HMM	CAG9003601.1	68.481	349	110	0	1	349	13	361	movement protein [Ash shoestring-associated emaravirus]	Ash shoestring-associated emaravirus	Viruses
+EmaravirusP4_HMM	QIB98101.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98140.1	81.322	348	65	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98136.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98058.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	CAA0079685.1	62.178	349	132	0	1	349	13	361	movement protein [Aspen mosaic-associated virus]	Aspen mosaic-associated virus	Viruses
+EmaravirusP4_HMM	QIB98060.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98130.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55390.1	81.897	348	63	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98134.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	YP_004327592.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AXI82307.1	81.034	348	66	0	1	348	13	360	putative movement protein [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98121.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98088.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98066.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98123.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98127.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55394.1	81.609	348	64	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98117.1	81.322	348	65	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98114.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55382.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98080.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98077.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98124.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AXI82315.1	81.034	348	66	0	1	348	13	360	putative movement protein [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98126.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55379.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98071.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98079.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98087.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55380.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98096.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98074.1	81.034	348	66	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QIB98076.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55384.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55378.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55386.1	81.609	348	64	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55395.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55388.1	80.460	348	68	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55392.1	81.322	348	65	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55393.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55387.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55389.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55391.1	81.034	348	66	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55398.1	80.747	348	67	0	1	348	13	360	p4 [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	ADZ55385.1	79.885	348	70	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QBM15141.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15154.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15155.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	ADZ55381.1	80.747	348	67	0	1	348	1	348	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QBM15160.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	AQX45476.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15170.1	56.410	351	151	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15161.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	CAG9003596.1	68.047	338	108	0	1	338	11	348	movement protein, partial [Ash shoestring-associated emaravirus]	Ash shoestring-associated emaravirus	Viruses
+EmaravirusP4_HMM	QBM15163.1	55.271	351	155	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15162.1	54.986	351	156	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15159.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15148.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	ADZ55397.1	79.825	342	69	0	1	342	1	342	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	QBM15151.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15149.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15165.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15150.1	55.840	351	153	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15152.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15153.1	55.271	351	155	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15147.1	56.125	351	152	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15172.1	56.980	351	149	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QBM15169.1	55.556	351	154	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	QOI17318.1	65.714	350	118	1	1	348	13	362	putative movement protein [Maple mottle-associated virus]	Maple mottle-associated virus	Viruses
+EmaravirusP4_HMM	QBM15142.1	56.410	351	151	1	1	349	13	363	movement protein [Blackberry leaf mottle associated virus]	Blackberry leaf mottle associated virus	Viruses
+EmaravirusP4_HMM	ADZ55399.1	81.877	309	56	0	40	348	1	309	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	CDX09881.1	38.857	350	209	3	2	348	15	362	Movement Protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90749.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	YP_009237264.1	39.143	350	208	3	2	348	13	360	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90751.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90758.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90743.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90742.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90745.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90752.1	39.143	350	208	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90757.1	38.857	350	209	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90717.1	38.968	349	208	3	2	347	13	359	putative movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90755.1	38.571	350	210	3	2	348	13	360	movement protein [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	BCS90318.1	38.682	349	211	3	1	348	14	360	movement protein, partial [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	BCS90323.1	38.395	349	212	3	1	348	16	362	movement protein [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	BCS90317.1	38.682	349	211	3	1	348	14	360	movement protein, partial [Vitis emaravirus]	Vitis emaravirus	Viruses
+EmaravirusP4_HMM	QVW29594.1	38.968	349	210	3	1	348	16	362	movement protein [Grapevine emaravirus A]	Grapevine emaravirus A	Viruses
+EmaravirusP4_HMM	ANQ90756.1	41.115	287	164	3	2	285	13	297	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	AEO88257.1	34.604	341	214	4	1	338	23	357	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88267.1	34.604	341	214	4	1	338	23	357	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AEO88262.1	34.188	351	219	5	1	345	23	367	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	YP_009508084.1	34.604	341	214	4	1	338	23	357	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	ANQ90744.1	41.852	270	152	3	2	268	13	280	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90750.1	41.852	270	152	3	2	268	13	280	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	ANQ90746.1	41.852	270	152	3	2	268	13	280	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	AEO88270.1	34.311	341	215	4	1	338	23	357	p4 [Redbud yellow ringspot-associated emaravirus]	Redbud yellow ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	QIN85948.1	34.195	348	212	4	1	337	16	357	P4 [Lilac chlorotic ringspot-associated virus]	Lilac chlorotic ringspot-associated virus	Viruses
+EmaravirusP4_HMM	ANQ90747.1	42.683	246	136	3	2	244	13	256	movement protein, partial [Pigeonpea sterility mosaic emaravirus 1]	Pigeonpea sterility mosaic emaravirus 1	Viruses
+EmaravirusP4_HMM	YP_009507927.1	31.176	340	222	4	13	347	38	370	membrane-located protein [Actinidia chlorotic ringspot-associated virus]	Actinidia chlorotic ringspot-associated virus	Viruses
+EmaravirusP4_HMM	YP_009237267.1	21.452	303	230	4	5	306	34	329	P4 protein [Raspberry leaf blotch emaravirus]	Raspberry leaf blotch emaravirus	Viruses
+EmaravirusP4_HMM	VFU05379.1	34.084	311	198	4	2	310	33	338	movement protein [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	VFU05382.1	34.084	311	198	4	2	310	33	338	movement protein [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	QRG35059.1	22.442	303	220	7	5	304	39	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79827.1	22.442	303	220	7	5	304	39	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79834.1	22.772	303	219	7	5	304	39	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35060.1	22.442	303	220	7	5	304	39	329	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQO58787.1	20.395	304	234	4	4	305	32	329	putative movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	CAD0281688.1	19.737	304	232	4	8	305	34	331	movement protein [Common oak ringspot-associated virus]	Common oak ringspot-associated virus	Viruses
+EmaravirusP4_HMM	QDM39002.1	22.368	304	221	7	5	304	35	327	movement protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	AWH90178.1	21.639	305	229	5	1	303	26	322	movement protein [Palo verde broom virus]	Palo verde broom virus	Viruses
+EmaravirusP4_HMM	AML03176.1	21.824	307	232	4	1	305	29	329	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	YP_009237258.1	22.150	307	231	4	1	305	29	329	movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QGT41069.1	21.498	307	233	4	1	305	29	329	P4 movement protein [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AML03168.1	21.639	305	231	4	3	305	31	329	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	AML03185.1	21.824	307	232	4	1	305	29	329	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	AML03195.1	21.639	305	231	4	3	305	31	329	putative movement protein [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+EmaravirusP4_HMM	QQO58785.1	21.173	307	234	4	1	305	26	326	putative movement protein, partial [High Plains wheat mosaic emaravirus]	High Plains wheat mosaic emaravirus	Viruses
+EmaravirusP4_HMM	YP_010088068.1	17.320	306	241	5	8	307	32	331	putative movement protein [Ti ringspot-associated emaravirus]	Ti ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	QID58979.1	18.729	299	214	5	7	302	17	289	putative movement protein [Camellia chlorotic ringspot virus]	Camellia chlorotic ringspot virus	Viruses
+EmaravirusP4_HMM	QGX73506.1	18.729	299	214	5	7	302	17	289	putative movement protein [Camellia japonica-associated emaravirus 1]	Camellia japonica-associated emaravirus 1	Viruses
+EmaravirusP4_HMM	QTW92693.1	18.060	299	216	5	7	302	17	289	putative movement protein [Camellia japonica-associated emaravirus 1]	Camellia japonica-associated emaravirus 1	Viruses
+EmaravirusP4_HMM	QKY77001.1	17.722	316	231	6	1	310	13	305	movement protein [Pear chlorotic leaf spot-associated virus]	Pear chlorotic leaf spot-associated virus	Viruses
+EmaravirusP4_HMM	AGT96682.1	81.818	176	32	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96684.1	81.818	176	32	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AGT96677.1	82.386	176	31	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QEE82895.1	17.405	316	232	6	1	310	13	305	movement protein [Pear chlorotic leaf spot-associated virus]	Pear chlorotic leaf spot-associated virus	Viruses
+EmaravirusP4_HMM	AGT96669.1	82.386	176	31	0	135	310	1	176	putative movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	QGX73510.1	14.047	299	228	5	7	302	17	289	putative movement protein [Camellia japonica-associated emaravirus 2]	Camellia japonica-associated emaravirus 2	Viruses
+EmaravirusP4_HMM	QID58980.1	14.047	299	228	5	7	302	17	289	putative movement protein [Camellia chlorotic ringspot virus]	Camellia chlorotic ringspot virus	Viruses
+EmaravirusP4_HMM	BCK60945.1	16.720	311	230	6	5	309	15	302	putative movement protein [Chrysanthemum mosaic-associated virus]	Chrysanthemum mosaic-associated virus	Viruses
+EmaravirusP4_HMM	QZN83756.1	15.190	316	239	6	1	310	10	302	putative movement protein [Karaka Okahu purepure emaravirus]	Karaka Okahu purepure emaravirus	Viruses
+EmaravirusP4_HMM	ANA12160.1	84.242	165	26	0	144	308	1	165	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	BBM96181.1	15.152	297	217	6	12	302	35	302	putative movement protein [Perilla mosaic virus]	Perilla mosaic virus	Viruses
+EmaravirusP4_HMM	QQD79841.1	18.382	272	181	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35064.1	18.015	272	182	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35063.1	18.015	272	182	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QDM39003.1	18.015	272	182	9	1	255	31	278	P5 protein [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79828.1	18.382	272	181	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35062.1	17.647	272	183	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QRG35061.1	18.382	272	181	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	QQD79835.1	18.015	272	182	9	1	255	31	278	P5 [Jujube yellow mottle-associated virus]	Jujube yellow mottle-associated virus	Viruses
+EmaravirusP4_HMM	CAD0241424.1	19.725	218	169	2	92	305	1	216	movement protein, partial [Common oak ringspot-associated virus]	Common oak ringspot-associated virus	Viruses
+EmaravirusP4_HMM	VFU05384.1	40.462	173	97	3	41	212	1	168	movement protein, partial [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	VFU05385.1	40.462	173	97	3	41	212	1	168	movement protein, partial [European mountain ash ringspot-associated emaravirus]	European mountain ash ringspot-associated emaravirus	Viruses
+EmaravirusP4_HMM	AGU16971.1	83.333	114	19	0	33	146	1	114	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AGN53194.1	83.186	113	19	0	33	145	1	113	p4, partial [Rose rosette emaravirus]	Rose rosette emaravirus	Viruses
+EmaravirusP4_HMM	AMM62644.1	85.714	70	10	0	103	172	1	70	movement protein, partial [Fig mosaic emaravirus]	Fig mosaic emaravirus	Viruses
+EmaravirusP4_HMM	AML03210.1	15.873	63	53	0	205	267	1	63	putative movement protein, partial [Wheat mosaic virus]	Wheat mosaic virus	Viruses
+
+Search has CONVERGED!
+# BLAST processed 3 queries

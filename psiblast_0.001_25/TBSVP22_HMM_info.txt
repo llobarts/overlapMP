@@ -1,0 +1,57 @@
+AXP98765.1	Elderberry aureusvirus 1	Viruses
+P50634.1	Tomato bushy stunt virus (strain type)	Viruses
+P15961.1	Artichoke mottled crinkle virus	Viruses
+P50631.1	Tomato bushy stunt virus (STRAIN BS-3)	Viruses
+ALJ30186.1	Carnation Italian ringspot virus	Viruses
+QWC36212.1	Pelargonium necrotic spot virus	Viruses
+BCH36665.1	Sitke waterborne virus	Viruses
+QYA72593.1	Grapevine Algerian latent virus	Viruses
+YP_009032642.1	Cucumber leaf spot virus	Viruses
+QVX32683.1	Cymbidium ringspot virus	Viruses
+YP_009032637.1	Pothos latent virus	Viruses
+BCH68494.1	Carnation Italian ringspot virus	Viruses
+BCH36670.1	Sitke waterborne virus	Viruses
+NP_040956.1	Cucumber necrosis virus	Viruses
+P50629.1	Tomato bushy stunt virus (strain b8)	Viruses
+CAB56482.1	Tomato bushy stunt virus	Viruses
+P50632.1	Tomato bushy stunt virus (strain ja6)	Viruses
+QLJ11274.1	Cucumber leaf spot virus	Viruses
+ACX53273.1	Carnation Italian ringspot virus	Viruses
+YP_009259670.1	Pelargonium leaf curl virus	Viruses
+P50630.1	Tomato bushy stunt virus (strain A23)	Viruses
+QYA72475.1	Tomato bushy stunt virus	Viruses
+AHZ12759.1	Grapevine Algerian latent virus	Viruses
+QOP59260.1	Tomato bushy stunt virus	Viruses
+Q9QBU2.1	Pothos latent virus isolate pigeonpea	Viruses
+NP_945131.1	Johnsongrass chlorotic stripe mosaic virus	Viruses
+YP_001285477.1	Maize white line mosaic virus	Viruses
+NP_062900.1	Tomato bushy stunt virus	Viruses
+AFM91107.1	Moroccan pepper virus	Viruses
+P50633.1	Tomato bushy stunt virus (strain ja9)	Viruses
+QVX32678.1	Tomato bushy stunt virus	Viruses
+BAN92403.1	Moroccan pepper virus	Viruses
+YP_459923.1	Maize necrotic streak virus	Viruses
+AAT67234.1	Tomato bushy stunt virus	Viruses
+QXV86641.1	Tombusviridae sp.	Viruses
+AAY98783.1	Lisianthus necrosis virus	Viruses
+YP_009407916.1	Rice virus A	Viruses
+NP_039811.1	Artichoke mottled crinkle virus	Viruses
+BBD13997.1	Gentian virus A	Viruses
+YP_009507821.1	Havel River virus	Viruses
+BAU09528.1	Pothos latent virus	Viruses
+ABD51794.1	Cucumber leaf spot virus	Viruses
+P17458.1	Cymbidium ringspot virus	Viruses
+ABB71100.1	Lettuce necrotic stunt virus	Viruses
+AAM49805.1	Pear latent virus	Viruses
+UBZ25482.1	Neckar River virus	Viruses
+NP_613263.1	Cymbidium ringspot virus	Viruses
+YP_008828159.1	Yam spherical virus	Viruses
+YP_002308432.1	Grapevine Algerian latent virus	Viruses
+NP_945117.1	Pelargonium necrotic spot virus	Viruses
+QKF95594.1	Punica granatum tombusvirus	Viruses
+YP_008999614.1	Eggplant mottled crinkle virus	Viruses
+YP_009037609.1	Moroccan pepper virus	Viruses
+NP_612583.1	Carnation Italian ringspot virus	Viruses
+NP_835256.1	Cucumber Bulgarian latent virus	Viruses
+ABD34314.1	Sesame necrotic mosaic virus	Viruses
+ACX53283.1	Carnation Italian ringspot virus	Viruses

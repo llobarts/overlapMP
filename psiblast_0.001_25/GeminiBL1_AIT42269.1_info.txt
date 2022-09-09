@@ -1,0 +1,574 @@
+AAF36713.1	Chino del tomate virus-[B52]	Viruses
+CRI68655.1	Pepper huasteco yellow vein virus	Viruses
+YP_009547939.1	Common bean mottle virus	Viruses
+QVX19291.1	Blainvillea yellow spot virus	Viruses
+AAL02415.1	Pepper huasteco yellow vein virus-[Sinaloa]	Viruses
+ARV90826.1	Euphorbia yellow mosaic virus	Viruses
+AGH29957.1	Tomato severe rugose virus	Viruses
+CRI68635.1	Pepper huasteco yellow vein virus	Viruses
+AIF79693.1	Sida mosaic Bolivia virus 2	Viruses
+QVX19696.1	Tomato severe rugose virus	Viruses
+CBA18085.1	Cleome leaf crumple virus	Viruses
+QVX19782.1	Tomato severe rugose virus	Viruses
+CRI68629.1	Pepper huasteco yellow vein virus	Viruses
+QVX32668.1	Squash leaf curl virus	Viruses
+NP_047248.1	Squash leaf curl virus	Viruses
+YP_003856014.1	Sida golden mosaic Florida virus-Malvastrum	Viruses
+AFD62689.1	Tomato rugose yellow leaf curl virus	Viruses
+QVH36186.1	Squash leaf curl virus	Viruses
+QVX19367.1	Macroptilium yellow spot virus	Viruses
+ARV90896.1	Euphorbia yellow mosaic virus	Viruses
+AHM63710.1	Jatropha mosaic virus	Viruses
+ARV90860.1	Euphorbia yellow mosaic virus	Viruses
+ABQ12148.1	Pepper golden mosaic virus	Viruses
+QHB15147.1	Bean golden yellow mosaic virus	Viruses
+ALC76554.1	Tobacco yellow crinkle virus	Viruses
+ARV90916.1	Euphorbia yellow mosaic virus	Viruses
+NP_957677.1	Sida micrantha mosaic virus	Viruses
+APO13832.1	Common bean severe mosaic virus	Viruses
+QVX19341.1	Blainvillea yellow spot virus	Viruses
+AHW57443.1	Jatropha mosaic virus	Viruses
+QVX19315.1	Blainvillea yellow spot virus	Viruses
+CBA18092.1	Sida Brazil virus	Viruses
+ADV15527.1	Sida micrantha mosaic virus [Brazil:Mato grosso do sul:2:2007] - [Bolivia]	Viruses
+CRI68685.1	Pepper huasteco yellow vein virus	Viruses
+QDJ95902.1	Cucumber chlorotic leaf virus	Viruses
+AXU39774.1	Desmodium leaf distortion virus	Viruses
+AGH29919.1	Tomato mild mosaic virus	Viruses
+YP_002941858.1	Passionfruit severe leaf distortion virus	Viruses
+ARV90852.1	Euphorbia yellow mosaic virus	Viruses
+ARV90836.1	Euphorbia yellow mosaic virus	Viruses
+CRI68409.1	Pepper golden mosaic virus	Viruses
+AIR91754.1	Melon chlorotic mosaic virus	Viruses
+AOG17637.1	Potato yellow mosaic virus	Viruses
+QBQ65792.1	Bean golden yellow mosaic virus	Viruses
+CRI68633.1	Pepper huasteco yellow vein virus	Viruses
+CCH63320.1	Tomato yellow distortion leaf virus	Viruses
+QCG75884.1	Tomato chlorotic leaf distortion virus	Viruses
+AXU39810.1	Desmodium leaf distortion virus	Viruses
+QHA25028.1	Soybean blistering mosaic virus	Viruses
+QNG62357.1	Tomato severe rugose virus	Viruses
+AQT01581.1	Sida micrantha mosaic virus	Viruses
+NP_808799.1	Potato yellow mosaic Trinidad virus	Viruses
+YP_009507984.1	Cabbage leaf curl Jamaica virus	Viruses
+ADD92370.1	Pepper huasteco yellow vein virus	Viruses
+NP_040769.1	Bean golden yellow mosaic virus	Viruses
+QVX19369.1	Macroptilium yellow spot virus	Viruses
+CBA18099.1	Sida micrantha mosaic virus	Viruses
+ADV15533.1	Sida micrantha mosaic virus - Rhombifolia [Bolivia:Cerro Fraile 2:2007]	Viruses
+CRI68675.1	Pepper huasteco yellow vein virus	Viruses
+QCW63920.1	Tobacco leaf curl Cuba virus	Viruses
+AAD53086.1	Bean golden yellow mosaic virus-[Mexico]	Viruses
+AGH29737.1	Tomato chlorotic mottle virus	Viruses
+CRI68405.1	Pepper golden mosaic virus	Viruses
+YP_010087215.1	Tobacco leaf curl Dominican Republic virus	Viruses
+CRI68705.1	Pepper huasteco yellow vein virus	Viruses
+AVM40979.1	Sida micrantha mosaic virus	Viruses
+ACH48033.1	Sida micrantha mosaic virus - [Brazil:okra]	Viruses
+YP_003620404.1	Sida golden mottle virus	Viruses
+AAB18176.1	Abutilon mosaic virus-HW	Viruses
+YP_008400120.1	Bean chlorotic mosaic virus	Viruses
+AVJ51931.1	Euphorbia yellow mosaic virus	Viruses
+CRI68399.1	Pepper golden mosaic virus	Viruses
+ACO24443.1	Euphorbia mosaic virus	Viruses
+AFT90665.1	Squash leaf curl virus	Viruses
+YP_006590060.1	Soybean chlorotic spot virus	Viruses
+YP_010086754.1	Tomato chlorotic leaf curl virus	Viruses
+CRI68381.1	Pepper golden mosaic virus	Viruses
+NP_620862.1	Squash yellow mild mottle virus	Viruses
+ADX96026.1	Squash leaf curl virus	Viruses
+CRI68657.1	Pepper huasteco yellow vein virus	Viruses
+QVH36172.1	Squash leaf curl virus	Viruses
+QNG62386.1	Tomato severe rugose virus	Viruses
+CRI68645.1	Pepper huasteco yellow vein virus	Viruses
+QJU70103.1	Cleome leaf crumple virus	Viruses
+CRI68425.1	Pepper golden mosaic virus	Viruses
+CRI68371.1	Pepper golden mosaic virus	Viruses
+CRI68437.1	Pepper golden mosaic virus	Viruses
+ALK03645.1	Macroptilium mosaic Puerto Rico virus	Viruses
+YP_619877.1	Sida mosaic Sinaloa virus	Viruses
+ALX81388.1	Tomato common mosaic virus	Viruses
+QHA25036.1	Soybean blistering mosaic virus	Viruses
+QVX19652.1	Tomato severe rugose virus	Viruses
+QPM65637.1	Grapevine begomovirus A	Viruses
+CCH63334.1	Sida golden mosaic Liguanea virus	Viruses
+QVX19311.1	Blainvillea yellow spot virus	Viruses
+YP_001294934.1	Tomato severe rugose virus	Viruses
+QID41192.1	Tomato yellow leaf deformation dwarf virus	Viruses
+ADJ38385.1	Squash leaf curl virus	Viruses
+ABY65922.1	Chino del tomate virus	Viruses
+CRI68701.1	Pepper huasteco yellow vein virus	Viruses
+ACQ76431.1	Macroptilium golden mosaic virus-[Jamaica1:SpanishTown]	Viruses
+YP_009547937.1	Triumfetta yellow mosaic virus	Viruses
+AFQ60154.1	Okra yellow mosaic Mexico virus - [Sida:Colima 2]	Viruses
+NP_047254.1	Tomato mottle virus	Viruses
+YP_004935367.1	Euphorbia yellow mosaic virus	Viruses
+CRI68627.1	Pepper huasteco yellow vein virus	Viruses
+AVM40966.1	Sida micrantha mosaic virus	Viruses
+AIJ10718.1	Chenopodium leaf curl virus	Viruses
+AAK06853.2	Cotton leaf crumple virus - [California]	Viruses
+AFD62703.1	Tomato rugose yellow leaf curl virus	Viruses
+YP_009505298.1	Tomato rugose yellow leaf curl virus	Viruses
+AGH29865.1	Tomato common mosaic virus	Viruses
+QVX19307.1	Blainvillea yellow spot virus	Viruses
+QHQ74297.1	Sida interveinal bright yellow virus	Viruses
+AQT01557.1	Sida micrantha mosaic virus	Viruses
+AGH29578.1	Blainvillea yellow spot virus	Viruses
+AGC54797.1	Squash yellow mild mottle virus	Viruses
+QJW82792.1	Macroptilium bright yellow interveinal virus	Viruses
+QHB15465.1	Euphorbia mosaic virus	Viruses
+AFN53507.1	Euphorbia mosaic virus	Viruses
+CBH28934.1	Sida micrantha mosaic virus	Viruses
+QVH36188.1	Squash leaf curl virus	Viruses
+QHB15528.1	Begomovirus sp.	Viruses
+YP_009508028.1	Tomato golden vein virus	Viruses
+YP_001249283.1	Tomato mild yellow leaf curl Aragua virus	Viruses
+AIC31936.1	Squash leaf curl virus	Viruses
+AKZ17009.1	Tomato chlorotic mottle Guyane virus	Viruses
+CRI68693.1	Pepper huasteco yellow vein virus	Viruses
+AFD54564.1	Tomato crinkle leaf yellows virus	Viruses
+CRI68683.1	Pepper huasteco yellow vein virus	Viruses
+ACY95462.1	Pepper huasteco yellow vein virus	Viruses
+AQT01561.1	Sida micrantha mosaic virus	Viruses
+YP_009310076.1	Sida chlorotic vein virus	Viruses
+YP_007024779.1	Bean chlorosis virus	Viruses
+CRI68387.1	Pepper golden mosaic virus	Viruses
+CRI68661.1	Pepper huasteco yellow vein virus	Viruses
+YP_009507974.1	Bean golden yellow mosaic virus-[Dominican Republic]	Viruses
+ATI96937.1	Tomato yellow mottle virus	Viruses
+AEN03368.1	Tomato chlorotic leaf distortion virus-[Capsicum]	Viruses
+ARV90888.1	Euphorbia yellow mosaic virus	Viruses
+NP_671457.1	Pepper golden mosaic virus	Viruses
+ADP00518.1	Euphorbia mosaic virus	Viruses
+AHW57445.1	Jatropha mosaic virus	Viruses
+AMY60437.1	Macroptilium yellow spot virus	Viruses
+YP_009428567.1	Tobacco leaf curl Cuba virus	Viruses
+AQT01579.1	Sida micrantha mosaic virus	Viruses
+AMY16491.1	Euphorbia mosaic virus	Viruses
+QHA25121.1	Sida golden mosaic Brazil virus	Viruses
+ARV90906.1	Euphorbia yellow mosaic virus	Viruses
+QMV80606.1	Tomato golden vein virus	Viruses
+NP_066377.1	Tomato rugose mosaic virus	Viruses
+AGH29576.1	Blainvillea yellow spot virus	Viruses
+QVX19678.1	Tomato severe rugose virus	Viruses
+CAD89716.1	Sida micrantha mosaic virus	Viruses
+CRI68673.1	Pepper huasteco yellow vein virus	Viruses
+YP_004958218.1	Cleome leaf crumple virus	Viruses
+AFD54566.1	Tomato crinkle leaf yellows virus	Viruses
+CRI68709.1	Pepper huasteco yellow vein virus	Viruses
+NP_808913.1	Sida golden mosaic Costa Rica virus	Viruses
+QVX19333.1	Blainvillea yellow spot virus	Viruses
+ASF23363.1	Tomato mild yellow leaf curl Aragua virus	Viruses
+AAY33838.1	Potato yellow mosaic virus	Viruses
+AWV91976.1	Cabbage leaf curl virus	Viruses
+YP_001655004.1	Rhynchosia golden mosaic virus	Viruses
+CRI68389.1	Pepper golden mosaic virus	Viruses
+YP_009547927.1	Tomato chlorotic mottle Guyane virus	Viruses
+AGT42430.1	Tomato yellow vein streak virus	Viruses
+QHA25100.1	Tomato yellow vein streak virus	Viruses
+YP_007250564.1	Tomato yellow mottle virus	Viruses
+YP_004429241.1	Rhynchosia mild mosaic virus	Viruses
+QVH36208.1	Squash leaf curl virus	Viruses
+YP_002753153.1	Rhynchosia golden mosaic Yucatan virus	Viruses
+QVX19345.1	Blainvillea yellow spot virus	Viruses
+YP_004958238.1	Abutilon mosaic Brazil virus	Viruses
+ATI96935.1	Tomato leaf curl Sinaloa virus	Viruses
+QQL13396.1	Malvaviscus yellow mosaic virus	Viruses
+ABB76208.1	Squash mild leaf curl virus	Viruses
+QCI56078.1	Rhynchosia golden mosaic Sinaloa virus	Viruses
+AGH29600.1	Sida micrantha mosaic virus	Viruses
+ARV90812.1	Euphorbia yellow mosaic virus	Viruses
+AWV91970.1	Cabbage leaf curl virus	Viruses
+ABB76215.1	Squash leaf curl virus	Viruses
+AGH30107.1	Tomato yellow vein streak virus	Viruses
+P03566.2	Tomato golden mosaic virus-Yellow vein	Viruses
+YP_001974410.1	Tomato yellow vein streak virus	Viruses
+QHB15508.1	Begomovirus sp.	Viruses
+QGT31820.1	Tomato chlorotic mottle Guyane virus	Viruses
+AQT01565.1	Sida micrantha mosaic virus	Viruses
+AQT01618.1	Tomato yellow spot virus	Viruses
+AAB71622.1	Tomato mottle virus	Viruses
+AWV91972.1	Cabbage leaf curl virus	Viruses
+NP_047222.1	Bean dwarf mosaic virus	Viruses
+QVX19774.1	Tomato severe rugose virus	Viruses
+AOV62489.1	Malvastrum bright yellow mosaic virus	Viruses
+AMW87018.1	Sida golden yellow vein virus	Viruses
+QVH36182.1	Squash leaf curl virus	Viruses
+CCA64224.1	Potato yellow mosaic virus	Viruses
+QVH36180.1	Squash leaf curl virus	Viruses
+QHB15459.1	Euphorbia mosaic virus	Viruses
+YP_009480523.1	Pavonia yellow mosaic virus	Viruses
+NP_620751.1	Chino del tomate virus	Viruses
+NP_047242.1	Potato yellow mosaic virus	Viruses
+QMV80563.1	Euphorbia yellow mosaic virus	Viruses
+ALK03639.1	VEM begomovirus 5	Viruses
+ACE79191.1	Euphorbia mosaic virus	Viruses
+QMV80680.1	Tomato mosaic severe dwarf virus	Viruses
+AQT01563.1	Sida micrantha mosaic virus	Viruses
+ARV90854.1	Euphorbia yellow mosaic virus	Viruses
+CCA64226.1	Potato yellow mosaic virus	Viruses
+ARV90908.1	Euphorbia yellow mosaic virus	Viruses
+YP_009042061.1	Solanum mosaic Bolivia virus	Viruses
+AAB63204.1	Chino del tomate virus	Viruses
+AQT01575.1	Sida micrantha mosaic virus	Viruses
+AYN44831.1	Pepper leafroll virus	Viruses
+AGH29745.1	Tomato chlorotic mottle virus	Viruses
+ACY95446.1	Pepper huasteco yellow vein virus	Viruses
+CRI68659.1	Pepper huasteco yellow vein virus	Viruses
+NP_049358.1	Potato yellow mosaic Panama virus	Viruses
+YP_010086589.1	Croton golden mosaic virus	Viruses
+YP_010086839.1	Cowpea bright yellow mosaic virus	Viruses
+UDP19918.1	Tomato mottle leaf distortion virus	Viruses
+ABC68296.1	Tomato mild leaf curl virus - [Uberlandia]	Viruses
+AGH29867.1	Tomato common mosaic virus	Viruses
+QVX19379.1	Macroptilium yellow spot virus	Viruses
+AMW87023.1	Sida golden yellow vein virus	Viruses
+AMW87017.1	Sida golden yellow vein virus	Viruses
+ANY43203.1	Hybanthus yellow mosaic virus	Viruses
+AQT01628.1	Euphorbia yellow mosaic virus	Viruses
+QHB15472.1	Euphorbia mosaic virus	Viruses
+CRI68377.1	Pepper golden mosaic virus	Viruses
+ARV90808.1	Euphorbia yellow mosaic virus	Viruses
+YP_009175081.1	Melochia mosaic virus	Viruses
+QVX19726.1	Tomato severe rugose virus	Viruses
+ABB76217.1	Squash leaf curl virus	Viruses
+AIR91776.1	Melon chlorotic mosaic virus	Viruses
+AIR91764.1	Melon chlorotic mosaic virus	Viruses
+CRI68647.1	Pepper huasteco yellow vein virus	Viruses
+QHB15506.1	Begomovirus sp.	Viruses
+AEF12640.1	Whitefly VEM 2 begomovirus	Viruses
+CRI68443.1	Pepper golden mosaic virus	Viruses
+AEI91455.1	Tomato golden mosaic virus	Viruses
+AGH29859.1	Tomato common mosaic virus	Viruses
+ARV90894.1	Euphorbia yellow mosaic virus	Viruses
+NP_671464.1	Macroptilium mosaic Puerto Rico virus	Viruses
+ARV90824.1	Euphorbia yellow mosaic virus	Viruses
+YP_010087237.1	Hibiscus golden mosaic virus	Viruses
+QAV52497.1	Chino del tomate Amazonas virus	Viruses
+QVX19724.1	Tomato severe rugose virus	Viruses
+CRI68663.1	Pepper huasteco yellow vein virus	Viruses
+QVX19357.1	Macroptilium yellow spot virus	Viruses
+AVM40975.1	Sida micrantha mosaic virus	Viruses
+AGI42771.1	Vigna yellow mosaic virus	Viruses
+QKV49868.1	Rhynchosia golden mosaic Sinaloa virus	Viruses
+QVX19668.1	Tomato severe rugose virus	Viruses
+YP_794173.1	Desmodium leaf distortion virus	Viruses
+ARV90848.1	Euphorbia yellow mosaic virus	Viruses
+AAM78604.1	Potato yellow mosaic virus-[Guadeloupe]	Viruses
+YP_003622547.1	Abutilon Brazil virus	Viruses
+AOD62889.1	Tomato yellow leaf distortion virus - Sidastrum	Viruses
+NP_612600.1	Bean calico mosaic virus	Viruses
+CRI68641.1	Pepper huasteco yellow vein virus	Viruses
+AQT01589.1	Sida micrantha mosaic virus	Viruses
+YP_009175073.1	Melon chlorotic leaf curl virus-[Guatemala]	Viruses
+QHA25076.1	Soybean blistering mosaic virus	Viruses
+ARV90874.1	Euphorbia yellow mosaic virus	Viruses
+YP_001960951.1	Tomato mild mosaic virus	Viruses
+AXU39788.1	Desmodium leaf distortion virus	Viruses
+YP_009873671.1	Sida ciliaris golden mosaic virus	Viruses
+AKZ17011.1	Tomato chlorotic mottle Guyane virus	Viruses
+YP_004429247.1	Merremia mosaic Puerto Rico virus	Viruses
+CRI68665.1	Pepper huasteco yellow vein virus	Viruses
+AQT01583.1	Sida micrantha mosaic virus	Viruses
+YP_009026406.1	Jatropha mosaic virus	Viruses
+YP_004207818.1	Sida mosaic Bolivia virus 1	Viruses
+YP_006331059.1	Tomato yellow leaf distortion virus	Viruses
+YP_009927294.1	Pepper leafroll virus	Viruses
+QVX19355.1	Macroptilium yellow spot virus	Viruses
+QVH36214.1	Squash leaf curl virus	Viruses
+AOV62493.1	Malvastrum bright yellow mosaic virus	Viruses
+ALK03635.1	Tomato mosaic Havana virus	Viruses
+AHW57447.1	Jatropha mosaic virus	Viruses
+CCH63313.1	Tomato yellow distortion leaf virus	Viruses
+ASU08494.1	Cleome leaf crumple virus	Viruses
+AQT01573.1	Sida micrantha mosaic virus	Viruses
+CRI68653.1	Pepper huasteco yellow vein virus	Viruses
+ARV90878.1	Euphorbia yellow mosaic virus	Viruses
+CBA18106.1	Sida micrantha mosaic virus	Viruses
+ADV15531.1	Sida micrantha mosaic virus - Rhombifolia [Bolivia:Cerro Fraile 1:2007]	Viruses
+ALK03629.1	Sida golden mosaic Honduras virus	Viruses
+YP_009547943.1	Sida bright yellow mosaic virus	Viruses
+AMW87015.1	Sida golden yellow vein virus	Viruses
+CCH63348.1	Sida yellow vein virus	Viruses
+QHA25044.1	Soybean blistering mosaic virus	Viruses
+AAZ29488.1	Bean golden yellow mosaic virus [HomesteadFL]	Viruses
+CRI68669.1	Pepper huasteco yellow vein virus	Viruses
+CAD48525.1	Tomato leaf curl Sinaloa virus	Viruses
+AIR91784.1	Melon chlorotic mosaic virus	Viruses
+AXU39780.1	Desmodium leaf distortion virus	Viruses
+AEI91381.1	Blainvillea yellow spot virus	Viruses
+NP_795342.1	Cotton leaf crumple virus	Viruses
+AQY10002.1	Sida micrantha mosaic virus	Viruses
+ARV90832.1	Euphorbia yellow mosaic virus	Viruses
+AQT01612.1	Tomato yellow spot virus	Viruses
+CRI68643.1	Pepper huasteco yellow vein virus	Viruses
+ABV53462.1	Macroptilium yellow mosaic virus	Viruses
+CRI68429.1	Pepper golden mosaic virus	Viruses
+ARV90886.1	Euphorbia yellow mosaic virus	Viruses
+CRI68695.1	Pepper huasteco yellow vein virus	Viruses
+QBQ65798.1	Bean golden yellow mosaic virus	Viruses
+YP_004901699.1	Sida yellow mottle virus	Viruses
+QVX19732.1	Tomato severe rugose virus	Viruses
+YP_006902889.1	Blechum interveinal chlorosis virus	Viruses
+ARV90914.1	Euphorbia yellow mosaic virus	Viruses
+AEI91370.1	Cleome leaf crumple virus	Viruses
+AGH29598.1	Sida micrantha mosaic virus	Viruses
+AKZ17005.1	Tomato chlorotic mottle Guyane virus	Viruses
+QHN12677.1	Pepper golden mosaic virus	Viruses
+YP_009316186.1	Passionfruit leaf distortion virus	Viruses
+AOT83467.1	Sida micrantha mosaic virus	Viruses
+QHB15514.1	Begomovirus sp.	Viruses
+AGH29596.1	Sida micrantha mosaic virus	Viruses
+YP_004207830.1	Sida mosaic Bolivia virus 2	Viruses
+CRI68413.1	Pepper golden mosaic virus	Viruses
+QVX19299.1	Blainvillea yellow spot virus	Viruses
+YP_619879.1	Tomato golden mottle virus	Viruses
+AFY22644.1	Corchorus mottle virus	Viruses
+AKV88725.1	Squash leaf curl virus	Viruses
+AIR91780.1	Melon chlorotic mosaic virus	Viruses
+QVX19319.1	Blainvillea yellow spot virus	Viruses
+AQT01632.1	Tomato yellow spot virus	Viruses
+ATI96945.1	Tomato leaf curl Sinaloa virus	Viruses
+YP_009310089.1	Sida angular mosaic virus	Viruses
+QVX19297.1	Blainvillea yellow spot virus	Viruses
+CRI68411.1	Pepper golden mosaic virus	Viruses
+ALE32192.1	Tomato yellow vein streak virus	Viruses
+CEG02248.1	Abutilon mosaic virus	Viruses
+ACN59886.1	Okra mottle virus	Viruses
+AQT01585.1	Sida micrantha mosaic virus	Viruses
+YP_006462.1	Tomato yellow margin leaf curl virus	Viruses
+QJP24320.1	Squash leaf curl virus	Viruses
+ASR73670.1	Sida Brazil virus	Viruses
+CRI68451.1	Pepper golden mosaic virus	Viruses
+QVH36176.1	Squash leaf curl virus	Viruses
+YP_794167.1	Corchorus yellow spot virus	Viruses
+QVX19293.1	Blainvillea yellow spot virus	Viruses
+ADV15525.1	Sida micrantha mosaic virus - Rhombifolia [Bolivia:Boyuibe-Villamontes:2007]	Viruses
+YP_004821541.1	Tomato chlorotic leaf distortion virus-[Venezuela:Zulia:2004]	Viruses
+AGH29580.1	Blainvillea yellow spot virus	Viruses
+ALK03641.1	Whitefly-associated begomovirus 6	Viruses
+YP_009507998.1	Jacquemontia mosaic Yucatan virus	Viruses
+QEE82321.1	Tomato vein clearing leaf deformation virus	Viruses
+ARV90862.1	Euphorbia yellow mosaic virus	Viruses
+ARD24681.1	Pepper huasteco yellow vein virus	Viruses
+ABV53453.1	Macroptilium yellow mosaic virus	Viruses
+QDH06056.1	Sida golden mosaic Buckup virus	Viruses
+CRI68637.1	Pepper huasteco yellow vein virus	Viruses
+ALK03637.1	Squash leaf curl virus	Viruses
+QHA25107.1	Tomato dwarf leaf virus	Viruses
+AGH29879.1	Tomato common mosaic virus	Viruses
+AIR91782.1	Melon chlorotic mosaic virus	Viruses
+QHA25084.1	Soybean blistering mosaic virus	Viruses
+QFG39754.1	Pepper blistering leaf virus	Viruses
+AQT01591.1	Sida micrantha mosaic virus	Viruses
+CRI68697.1	Pepper huasteco yellow vein virus	Viruses
+NP_148990.1	Cucurbit leaf crumple virus	Viruses
+QBI71940.1	Tobacco leaf curl Cuba virus	Viruses
+ALC76558.1	Rhynchosia golden mosaic Yucatan virus	Viruses
+QVX19706.1	Tomato severe rugose virus	Viruses
+ARV90900.1	Euphorbia yellow mosaic virus	Viruses
+QVX19331.1	Blainvillea yellow spot virus	Viruses
+ARV90838.1	Euphorbia yellow mosaic virus	Viruses
+AGH29959.1	Tomato severe rugose virus	Viruses
+CAP07289.1	Abutilon mosaic virus	Viruses
+ACQ57347.1	Malvastrum yellow mosaic Jamaica virus	Viruses
+QDJ95894.1	Sida chlorotic leaf virus	Viruses
+ALK03643.1	Whitefly-associated begomovirus 6	Viruses
+AED02023.1	Euphorbia yellow mosaic virus - Goias [Brazil:GO:Acreuna AB3540:2005]	Viruses
+CEG02250.1	Abutilon mosaic virus	Viruses
+YP_009547929.1	Cnidoscolus mosaic leaf deformation virus	Viruses
+QVX19289.1	Blainvillea yellow spot virus	Viruses
+QHA25060.1	Soybean blistering mosaic virus	Viruses
+QHB15154.1	Tomato yellow leaf distortion virus	Viruses
+CRI68703.1	Pepper huasteco yellow vein virus	Viruses
+CRI68385.1	Pepper golden mosaic virus	Viruses
+YP_001974418.1	Macroptilium golden mosaic virus	Viruses
+YP_579172.1	Merremia mosaic virus	Viruses
+QVX19295.1	Blainvillea yellow spot virus	Viruses
+ALK03625.1	Squash leaf curl virus	Viruses
+ARV90822.1	Euphorbia yellow mosaic virus	Viruses
+ARV90816.1	Euphorbia yellow mosaic virus	Viruses
+CRI68631.1	Pepper huasteco yellow vein virus	Viruses
+CRI68639.1	Pepper huasteco yellow vein virus	Viruses
+ARV90846.1	Euphorbia yellow mosaic virus	Viruses
+CRI68679.1	Pepper huasteco yellow vein virus	Viruses
+QVX19692.1	Tomato severe rugose virus	Viruses
+CRI68699.1	Pepper huasteco yellow vein virus	Viruses
+ARV90834.1	Euphorbia yellow mosaic virus	Viruses
+ABQ08588.1	Sida golden mosaic virus	Viruses
+CRI68375.1	Pepper golden mosaic virus	Viruses
+QMV80633.1	Tomato chlorotic mottle virus	Viruses
+CRI68651.1	Pepper huasteco yellow vein virus	Viruses
+CRI68691.1	Pepper huasteco yellow vein virus	Viruses
+QVX19776.1	Tomato severe rugose virus	Viruses
+AAB71621.1	Tomato mottle virus	Viruses
+YP_006860607.1	Dalechampia chlorotic mosaic virus	Viruses
+CRI68449.1	Pepper golden mosaic virus	Viruses
+CDN72811.1	Squash leaf curl virus	Viruses
+YP_009472131.1	Rhynchosia golden mosaic virus	Viruses
+ADH10355.1	Okra yellow mosaic Mexico virus	Viruses
+AQT01567.1	Sida micrantha mosaic virus	Viruses
+AIR91758.1	Melon chlorotic mosaic virus	Viruses
+QMV80694.1	Tomato chlorotic mottle virus	Viruses
+QVX19301.1	Blainvillea yellow spot virus	Viruses
+AAY16456.1	Pepper golden mosaic virus	Viruses
+YP_006860595.1	Datura leaf distortion virus	Viruses
+AGH29963.1	Tomato severe rugose virus	Viruses
+AQT01559.1	Sida micrantha mosaic virus	Viruses
+AQT01569.1	Sida micrantha mosaic virus	Viruses
+P0CK43.1	Bean golden yellow mosaic virus-[Puerto Rico]	Viruses
+AQT01555.1	Sida micrantha mosaic virus	Viruses
+QVX19780.1	Tomato severe rugose virus	Viruses
+QVX19698.1	Tomato severe rugose virus	Viruses
+ADB90413.1	Tomato severe rugose virus	Viruses
+AIR91768.1	Melon chlorotic mosaic virus	Viruses
+YP_001294913.1	Tomato leaf curl Sinaloa virus	Viruses
+QNG62343.1	Tomato chlorotic mottle virus	Viruses
+QNG62350.1	Tomato golden vein virus	Viruses
+AFQ60156.1	Okra yellow mosaic Mexico virus - [Sida]	Viruses
+ALC76556.1	Rhynchosia golden mosaic Yucatan virus	Viruses
+AAY16468.1	Pepper golden mosaic virus	Viruses
+QVH36196.1	Squash leaf curl virus	Viruses
+YP_004564607.1	Tobacco yellow crinkle virus	Viruses
+ACU26082.1	Rhynchosia golden mosaic Yucatan virus	Viruses
+AGH29921.1	Tomato mild mosaic virus	Viruses
+ALK03627.1	Melon chlorotic leaf curl virus	Viruses
+AWX66809.1	Pepper huasteco yellow vein virus	Viruses
+AXU39798.1	Desmodium leaf distortion virus	Viruses
+AAA46325.1	Bean golden yellow mosaic virus-[Guatemala]	Viruses
+ADD92376.1	Pepper golden mosaic virus	Viruses
+NP_808906.1	Sida yellow vein virus	Viruses
+QCI56084.1	Rhynchosia golden mosaic virus	Viruses
+ART33331.1	Bean leaf crumple virus	Viruses
+AXU39796.1	Desmodium leaf distortion virus	Viruses
+YP_010084734.1	Tomato mosaic Trujillo virus	Viruses
+ARV90818.1	Euphorbia yellow mosaic virus	Viruses
+ALK03631.1	Whitefly-associated begomovirus 3	Viruses
+NP_620854.1	Dicliptera yellow mottle virus	Viruses
+ARV90844.1	Euphorbia yellow mosaic virus	Viruses
+AQT01622.1	Tomato yellow spot virus	Viruses
+AEI91427.1	Abutilon mosaic Brazil virus	Viruses
+AHW57449.1	Jatropha mosaic virus	Viruses
+CRI68667.1	Pepper huasteco yellow vein virus	Viruses
+QHA25114.1	Tomato dwarf leaf virus	Viruses
+YP_001960958.1	Tomato common mosaic virus	Viruses
+AFQ00057.1	Squash leaf curl virus	Viruses
+CAA71988.1	Sida yellow vein virus	Viruses
+AEQ02397.1	Sida golden yellow vein virus	Viruses
+AQT01571.1	Sida micrantha mosaic virus	Viruses
+YP_004063991.1	Sida golden mosaic Buckup virus-[Jamaica:St. Elizabeth:2004]	Viruses
+QVX19676.1	Tomato severe rugose virus	Viruses
+QVX19327.1	Blainvillea yellow spot virus	Viruses
+CRI68369.1	Pepper golden mosaic virus	Viruses
+QVX19377.1	Macroptilium yellow spot virus	Viruses
+ANC96679.1	Bean golden yellow mosaic virus	Viruses
+AGT42423.1	Tomato yellow vein streak virus	Viruses
+QSM01499.1	Squash leaf curl virus	Viruses
+AAN76741.1	Macroptilium mosaic Puerto Rico virus-[Bean]	Viruses
+AXU39782.1	Desmodium leaf distortion virus	Viruses
+AGH29967.1	Tomato severe rugose virus	Viruses
+YP_001960965.1	Blainvillea yellow spot virus	Viruses
+AEA76650.1	Sida yellow mottle virus [Cuba:Sancti Spiritus 159:2009]	Viruses
+AGI96974.1	Squash leaf curl virus	Viruses
+CRI68367.1	Pepper golden mosaic virus	Viruses
+YP_001974412.1	Wissadula golden mosaic virus	Viruses
+AFD62682.1	Tomato rugose yellow leaf curl virus	Viruses
+AFP99144.1	Sida golden yellow vein virus-[Jamaica:Liguanea2:2008]	Viruses
+AAM12377.1	Tomato crinkle yellow leaf virus	Viruses
+QVX19373.1	Macroptilium yellow spot virus	Viruses
+CRI68649.1	Pepper huasteco yellow vein virus	Viruses
+QQL13394.1	Malvaviscus yellow mosaic virus	Viruses
+YP_005352911.1	Macroptilium yellow net virus	Viruses
+QHB15511.1	Begomovirus sp.	Viruses
+ANY43210.1	Verbena mottle virus	Viruses
+AEP37333.1	Abutilon mosaic virus	Viruses
+AOV62497.1	Malvastrum bright yellow mosaic virus	Viruses
+CRI68671.1	Pepper huasteco yellow vein virus	Viruses
+ARV90810.1	Euphorbia yellow mosaic virus	Viruses
+QDH06221.1	Tomato interveinal chlorosis virus-2	Viruses
+QCI56091.1	Sida mosaic Sinaloa virus	Viruses
+ARV90876.1	Euphorbia yellow mosaic virus	Viruses
+QVX19744.1	Tomato severe rugose virus	Viruses
+NP_047199.1	Tomato mottle Taino virus	Viruses
+ALK03633.1	Whitefly-associated begomovirus 3	Viruses
+NP_808899.1	Sida golden mosaic Honduras virus	Viruses
+YP_009547931.1	Pavonia mosaic virus	Viruses
+YP_009547941.1	Common bean severe mosaic virus	Viruses
+CRI68687.1	Pepper huasteco yellow vein virus	Viruses
+NP_620015.1	Tomato chlorotic mottle virus	Viruses
+QGN03697.1	Okra yellow mosaic Mexico virus	Viruses
+QID41329.1	Tomato mosaic severe dwarf virus	Viruses
+QMV80598.1	Tomato golden vein virus	Viruses
+AVM40977.1	Sida micrantha mosaic virus	Viruses
+QBL97885.1	Squash leaf curl virus	Viruses
+YP_009508012.1	Rhynchosia golden mosaic Havana virus-[Cuba:Havana:28:2007]	Viruses
+AMY60431.1	Macroptilium yellow spot virus	Viruses
+AFD54561.1	Euphorbia yellow mosaic virus	Viruses
+YP_009091996.1	Tomato mottle wrinkle virus	Viruses
+API65506.1	Sida yellow blotch virus	Viruses
+ATI96939.1	Pepper golden mosaic virus	Viruses
+AFD62696.1	Tomato rugose yellow leaf curl virus	Viruses
+AEF12631.1	Sida golden mosaic virus - whitefly VEM Citra Florida	Viruses
+QNG62369.1	Tomato severe rugose virus	Viruses
+ARV90872.1	Euphorbia yellow mosaic virus	Viruses
+AQT01593.1	Tomato yellow spot virus	Viruses
+QVX19720.1	Tomato severe rugose virus	Viruses
+CRI68393.1	Pepper golden mosaic virus	Viruses
+AGH29881.1	Tomato common mosaic virus	Viruses
+AMW87021.1	Sida golden yellow vein virus	Viruses
+CBA18071.1	Euphorbia yellow mosaic virus	Viruses
+CRI68681.1	Pepper huasteco yellow vein virus	Viruses
+QVX19309.1	Blainvillea yellow spot virus	Viruses
+QVX19674.1	Tomato severe rugose virus	Viruses
+YP_006908979.1	Peristrophe mosaic virus	Viruses
+AIR91760.1	Melon chlorotic mosaic virus	Viruses
+AGH29743.1	Tomato chlorotic mottle virus	Viruses
+QBL97879.1	Squash leaf curl virus	Viruses
+YP_001876455.1	Macroptilium yellow mosaic virus	Viruses
+AIR91770.1	Melon chlorotic mosaic virus	Viruses
+QVX19778.1	Tomato severe rugose virus	Viruses
+CRI68373.1	Pepper golden mosaic virus	Viruses
+AFQ60158.1	Okra yellow mosaic Mexico virus - [Herissantia:Colima 1]	Viruses
+AEY68253.1	Tomato mild yellow leaf curl Aragua virus	Viruses
+CAD89712.1	Sida micrantha mosaic virus	Viruses
+ATI96933.1	Pepper golden mosaic virus	Viruses
+QHB93483.1	Potato yellow mosaic virus	Viruses
+AGH29741.1	Tomato chlorotic mottle virus	Viruses
+YP_980248.1	Sida yellow mosaic Yucatan virus	Viruses
+YP_003587824.1	Okra yellow mosaic Mexico virus	Viruses
+AED02021.1	Euphorbia yellow mosaic virus - Goias [Brazil:GO:Itaberai 5082B:2007]	Viruses
+NP_808806.1	Squash mild leaf curl virus	Viruses
+QLB45389.1	Tomato golden mottle virus	Viruses
+QCW63914.1	Tobacco leaf curl Cuba virus	Viruses
+QVX19716.1	Tomato severe rugose virus	Viruses
+YP_009508019.1	Rhynchosia golden mosaic Sinaloa virus	Viruses
+YP_002154622.1	Okra mottle virus	Viruses
+ARV90840.1	Euphorbia yellow mosaic virus	Viruses
+QHN12668.1	Pepper huasteco yellow vein virus	Viruses
+YP_009175088.1	Melochia yellow mosaic virus	Viruses
+AMB61297.1	Pepper huasteco yellow vein virus	Viruses
+ABU62843.1	Macroptilium yellow mosaic virus	Viruses
+CRI68423.1	Pepper golden mosaic virus	Viruses
+AIR91778.1	Melon chlorotic mosaic virus	Viruses
+QVX19702.1	Tomato severe rugose virus	Viruses
+CCH63327.1	Sida golden mosaic Florida virus	Viruses
+NP_597687.1	Pepper huasteco yellow vein virus	Viruses
+YP_004207832.1	Abutilon mosaic Bolivia virus	Viruses
+NP_049351.1	Sida golden mosaic virus	Viruses
+AVM40973.1	Sida micrantha mosaic virus	Viruses
+AEG20853.1	Tomato severe rugose virus	Viruses
+AQT01587.1	Sida micrantha mosaic virus	Viruses
+AZA04949.1	Tomato leaf curl Sinaloa virus	Viruses
+QIR81994.1	Bean bushy stunt virus	Viruses
+AIR91762.1	Melon chlorotic mosaic virus	Viruses
+ARV90830.1	Euphorbia yellow mosaic virus	Viruses
+NP_047220.2	Abutilon mosaic virus	Viruses
+AGH30113.1	Tomato yellow vein streak virus	Viruses
+YP_009310097.1	Malvastrum bright yellow mosaic virus	Viruses
+AMW87013.1	Sida golden yellow vein virus	Viruses
+AAY33846.1	Tomato mottle virus	Viruses
+CRI68435.1	Pepper golden mosaic virus	Viruses
+ACN59880.1	Sida micrantha mosaic virus	Viruses
+YP_009508005.1	Malvastrum yellow mosaic Jamaica virus	Viruses
+QVX19317.1	Blainvillea yellow spot virus	Viruses
+AQT01577.1	Sida micrantha mosaic virus	Viruses

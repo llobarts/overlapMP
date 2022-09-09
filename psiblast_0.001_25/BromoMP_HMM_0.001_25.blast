@@ -1,0 +1,1521 @@
+# PSIBLAST 2.11.0+
+# Iteration: 1
+# Query: BromoMP_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 514 hits found
+BromoMP_HMM	P03595.1	69.925	266	80	0	11	276	25	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain 425 / isolate Leiden)]	Alfalfa mosaic virus (strain 425 / isolate Leiden)	Viruses
+BromoMP_HMM	AAL73140.2	69.925	266	80	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	1212423A	69.549	266	81	0	11	276	25	290	protein 32kD [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38405.1	69.925	266	80	0	11	276	26	291	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	CBX36146.1	69.173	266	82	0	11	276	25	290	30 kDa protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QRL97529.1	69.173	266	82	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AXP79050.1	68.797	266	83	0	11	276	25	290	MP [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGV15826.1	69.173	266	82	0	11	276	25	290	MP [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ADO85717.1	68.797	266	83	0	11	276	25	290	MP protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72531.1	68.797	266	83	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QGX86465.1	68.797	266	83	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	NP_041194.1	68.797	266	83	0	11	276	25	290	32.4 kd protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15289.1	68.797	266	83	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ATS17299.1	69.173	266	82	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15287.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72588.1	69.173	266	82	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72548.1	69.173	266	82	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAD04692.1	69.173	266	82	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QDB64268.1	68.045	266	85	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QUS52840.1	68.797	266	83	0	11	276	25	290	32.4 kd protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QEQ43447.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QCW07556.1	68.797	266	83	0	11	276	25	290	coat protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74533.1	67.669	266	86	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAD04694.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74547.1	67.669	266	86	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QIQ53103.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	BAE94265.1	68.797	266	83	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74549.1	67.293	266	87	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74534.1	67.293	266	87	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	P03596.1	68.045	266	85	0	11	276	25	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain Strasbourg)]	Alfalfa mosaic virus (strain Strasbourg)	Viruses
+BromoMP_HMM	BAX00461.1	68.045	266	85	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74541.1	67.293	266	87	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74548.1	67.293	266	87	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AWK57376.1	68.421	266	84	0	11	276	25	290	P3 protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74538.1	68.045	266	85	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38413.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38393.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QZU27273.1	68.797	266	83	0	11	276	25	290	MP protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	CBJ56557.1	68.045	266	85	0	11	276	25	290	30 kDa protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QEQ43445.1	68.045	266	85	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74536.1	68.045	266	85	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	BAE94263.1	66.917	266	88	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74546.1	66.917	266	88	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15285.1	68.421	266	84	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AUD53822.1	66.541	266	89	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	P24265.1	67.293	266	87	0	11	276	25	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain YSMV)]	Alfalfa mosaic virus (strain YSMV)	Viruses
+BromoMP_HMM	ASR74539.1	66.792	265	88	0	11	275	25	289	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74550.1	66.160	263	89	0	11	273	25	287	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74543.1	66.165	266	90	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74542.1	65.789	266	91	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74537.1	65.789	266	91	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74544.1	66.917	266	88	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QTW96635.1	65.909	264	90	0	11	274	25	288	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74540.1	62.030	266	101	0	11	276	25	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74545.1	64.202	257	92	0	11	267	25	281	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74552.1	62.646	257	96	0	11	267	25	281	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74551.1	61.597	263	101	0	5	267	19	281	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	NP_620773.1	55.273	275	110	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ALF12291.1	52.000	275	119	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AQS99324.1	52.000	275	119	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AQX34640.1	51.636	275	120	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AKE49127.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGN29728.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACJ46450.1	51.636	275	120	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ASV64063.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AIN56248.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACT67450.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58199.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACT67445.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45212.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AMB72706.1	51.636	275	120	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58200.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45210.1	51.636	275	120	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QWC36239.1	51.636	275	120	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AQX34657.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGN29715.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QNT38428.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45204.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGW07456.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACJ38090.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40864.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40860.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGT58202.1	50.545	275	123	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGW07458.1	51.273	275	121	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40862.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40866.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40893.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40891.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40858.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40877.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	BAQ55255.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45208.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58203.1	50.182	275	124	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40898.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38433.1	50.545	275	123	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AWN55981.1	50.909	275	122	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40914.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40859.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40894.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40868.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40897.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGH25414.1	50.909	275	122	6	3	275	8	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40904.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40885.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAY68484.1	50.545	275	123	6	3	275	8	271	MP [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGH25425.1	50.545	275	123	6	3	275	8	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40903.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40906.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ACR78241.1	50.355	282	115	9	3	275	8	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGW07460.1	50.545	275	123	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGH25431.1	50.545	275	123	6	3	275	8	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40889.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGH58146.1	50.735	272	121	6	6	275	1	261	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40884.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40876.1	69.872	156	47	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGN29710.1	46.763	278	135	5	1	276	7	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACJ46452.1	49.275	276	126	7	3	275	8	272	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QXF30832.1	46.403	278	136	5	1	276	7	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFZ40915.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40871.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGH25427.1	50.545	275	123	6	3	275	8	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AQX34630.1	47.636	275	131	6	3	275	8	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QSG73632.1	45.161	279	140	5	3	275	8	279	movement protein [Prunus virus I]	Prunus virus I	Viruses
+BromoMP_HMM	QSE03524.1	45.283	265	124	6	3	260	8	258	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	YP_009165999.1	45.660	265	134	4	1	263	6	262	movement protein [Privet ringspot virus]	Privet ringspot virus	Viruses
+BromoMP_HMM	ADB98061.1	53.927	191	80	3	3	191	8	192	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	YP_941470.1	44.485	272	134	6	1	263	6	269	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	ACB12708.1	53.684	190	80	3	4	191	1	184	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFT91165.1	48.221	253	120	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ARS65726.1	47.170	265	126	5	4	263	9	264	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91225.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91211.1	48.221	253	120	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91187.1	48.221	253	120	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91177.1	48.617	253	119	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91169.1	47.826	253	121	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91205.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANN11740.1	44.000	275	131	6	1	263	6	269	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	AFT91209.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91185.1	47.826	253	121	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFG22599.2	44.000	275	131	6	1	263	6	269	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	AFT91193.1	47.826	253	121	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91181.1	47.826	253	121	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91171.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91207.1	47.826	253	121	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91179.1	49.012	253	118	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	YP_008470972.1	42.754	276	146	5	3	276	8	273	movement protein [Ageratum latent virus 1998]	Ageratum latent virus 1998	Viruses
+BromoMP_HMM	AFT91217.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91173.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91175.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91183.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91223.1	47.451	255	123	4	2	254	7	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91191.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91215.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91197.1	47.826	253	121	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91227.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QKF94925.1	45.455	264	132	5	4	265	9	262	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ASX95074.1	45.455	264	132	5	4	265	9	262	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CYQ33541.1	45.455	264	132	5	4	265	9	262	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CAJ58673.1	45.455	264	132	5	4	265	9	262	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CAJ58665.1	48.276	232	117	2	4	233	9	239	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ALJ96779.1	45.455	264	132	5	4	265	9	262	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ACU44511.1	48.276	232	117	2	4	233	9	239	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ54417.1	48.276	232	117	2	4	233	9	239	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	AYN45102.1	45.038	262	133	4	4	263	9	261	movement protein [Tomato necrotic spot virus]	Tomato necrotic spot virus	Viruses
+BromoMP_HMM	AFT91221.1	47.036	253	123	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91167.1	47.431	253	122	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ASX95073.1	48.276	232	117	2	4	233	9	239	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ71029.1	48.707	232	116	2	4	233	9	239	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ71030.1	48.276	232	117	2	4	233	9	239	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	YP_006463.1	47.845	232	118	2	4	233	9	239	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	YP_002308572.1	46.275	255	126	4	4	256	9	254	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CAJ58675.1	45.076	264	133	5	4	265	9	262	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CAJ58671.1	45.149	268	127	7	4	265	9	262	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	QNL13311.1	42.471	259	141	3	3	259	8	260	movement protein [Ageratum latent virus]	Ageratum latent virus	Viruses
+BromoMP_HMM	AFT91219.1	46.640	253	124	4	4	254	9	252	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CYQ33565.1	46.429	252	124	4	4	253	9	251	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	YP_009551516.1	49.451	182	89	2	3	182	8	188	movement protein [Cape gooseberry ilarvirus 1]	Cape gooseberry ilarvirus 1	Viruses
+BromoMP_HMM	UEP18547.1	48.901	182	90	2	3	182	8	188	MAG: movement protein [Cape gooseberry ilarvirus 1]	Cape gooseberry ilarvirus 1	Viruses
+BromoMP_HMM	ACM63157.1	47.895	190	91	3	4	191	14	197	3a protein, partial [Bacopa chlorosis virus]	Bacopa chlorosis virus	Viruses
+BromoMP_HMM	AFD04721.1	44.528	265	138	4	4	265	9	267	3a protein [Bacopa chlorosis virus]	Bacopa chlorosis virus	Viruses
+BromoMP_HMM	ACT80123.1	47.210	233	112	4	24	254	1	224	movement protein, partial [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AWC08306.1	38.290	269	158	3	4	270	9	271	putative movement protein [Peanut virus C]	Peanut virus C	Viruses
+BromoMP_HMM	QNS31404.1	69.231	143	44	0	102	244	1	143	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QGN75799.1	35.714	252	154	3	5	254	10	255	movement protein [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	QKE53094.1	35.714	252	154	3	5	254	10	255	putative movement protein [Surrounding legume associated ilarvirus]	Surrounding legume associated ilarvirus	Viruses
+BromoMP_HMM	QIJ25696.1	35.019	257	159	3	5	259	10	260	movement protein [Grapevine associated ilarvirus]	Grapevine associated ilarvirus	Viruses
+BromoMP_HMM	QGN75801.1	35.714	252	154	3	5	254	10	255	movement protein [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	QKS69547.1	35.714	252	154	3	5	254	10	255	Bromo_MP [Erysiphe necator associated ilar-like virus 1]	Erysiphe necator associated ilar-like virus 1	Viruses
+BromoMP_HMM	AGD94947.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG65215.1	33.462	260	170	3	1	260	19	275	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	YP_611152.1	35.918	245	154	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANS71062.1	38.220	191	116	2	1	191	20	208	movement protein [Viola white distortion associated virus]	Viola white distortion associated virus	Viruses
+BromoMP_HMM	UCJ00934.1	35.918	245	154	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98670.1	35.510	245	155	2	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASJ26576.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98694.1	35.510	245	155	2	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCJ00936.1	34.231	260	168	2	1	260	19	275	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACZ54926.1	38.743	191	115	2	1	191	20	208	movement protein [Viola white distortion associated virus]	Viola white distortion associated virus	Viruses
+BromoMP_HMM	UCR98666.1	35.510	245	155	2	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63713.1	40.741	189	110	2	2	190	23	209	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	UCR98682.1	35.510	245	155	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98684.1	35.510	245	155	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QGA72060.1	37.173	191	118	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56785.1	34.340	265	171	3	1	265	19	280	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98672.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGD94945.1	34.694	245	157	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98662.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98654.1	35.510	245	155	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98668.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98696.1	35.510	245	155	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGD94944.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98676.1	35.102	245	156	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AWT04806.1	35.102	245	156	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98656.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98664.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98692.1	35.510	245	155	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98690.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98688.1	33.962	265	172	3	1	265	19	280	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98658.1	34.420	276	175	4	2	274	20	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFU49018.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDK55537.1	37.368	190	117	2	1	190	19	206	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56783.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFU49019.1	37.696	191	117	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG65214.1	34.694	245	157	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QTH26265.1	35.537	242	153	3	4	245	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98652.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ALO81584.1	39.572	187	111	2	4	190	25	209	movement protein [Fragaria chiloensis latent virus]	Fragaria chiloensis latent virus	Viruses
+BromoMP_HMM	QIQ53099.1	35.102	245	156	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56786.1	35.102	245	156	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANE06565.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98678.1	35.510	245	155	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98686.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56784.1	33.462	260	170	3	1	260	19	275	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QIC52824.1	38.251	183	109	2	5	187	16	194	movement protein [Apple ilarvirus 1]	Apple ilarvirus 1	Viruses
+BromoMP_HMM	ADG56782.1	36.126	191	120	2	1	191	19	207	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72531.1	38.506	174	105	2	18	191	1	172	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05730.1	38.506	174	105	1	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08513.1	35.965	228	143	2	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05772.1	35.965	228	143	2	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63689.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63721.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AZZ70618.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63741.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QRG28863.1	35.526	228	144	2	18	245	5	229	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63719.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QRG28861.1	38.506	174	105	1	18	191	8	179	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05775.1	34.746	236	151	3	18	253	6	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63685.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63681.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63733.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63729.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63731.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63677.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AZZ70614.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63727.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ANA05768.1	33.745	243	158	3	18	260	6	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05758.1	33.846	260	166	4	18	274	6	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05724.1	33.846	260	166	4	18	274	6	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05784.1	34.322	236	152	3	18	253	6	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05728.1	34.100	261	164	5	18	274	6	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08520.1	37.297	185	114	2	7	191	1	183	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72536.1	38.506	174	105	2	18	191	1	172	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08525.1	37.931	174	106	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08517.1	35.965	228	143	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28864.1	35.965	228	143	3	18	245	8	232	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05744.1	33.716	261	165	5	18	274	6	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05748.1	37.931	174	106	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05754.1	37.931	174	106	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08522.1	35.000	240	153	3	18	257	7	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05786.1	34.599	237	150	4	18	253	6	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QXF28305.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05781.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QBB21117.1	42.424	165	93	2	27	191	51	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ANA05764.1	35.217	230	144	4	18	246	6	231	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05790.1	35.965	228	143	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05738.1	34.615	260	164	4	18	274	6	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08518.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28862.1	38.506	174	105	2	18	191	8	179	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05789.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05787.1	34.177	237	151	4	18	253	6	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05732.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05774.1	37.931	174	106	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05762.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72535.1	37.931	174	106	2	18	191	1	172	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05756.1	35.965	228	143	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08515.1	35.965	228	143	2	18	245	5	229	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05736.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05778.1	35.088	228	145	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72525.1	37.931	174	106	2	18	191	1	172	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05742.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05780.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08519.1	35.965	228	143	3	18	245	10	234	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05788.1	34.177	237	151	4	18	253	6	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05770.1	33.607	244	157	4	18	260	6	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08516.1	35.965	228	143	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63747.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ANA05783.1	35.088	228	145	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QXF28306.1	36.957	184	114	2	8	191	1	182	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05734.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05726.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08514.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05766.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05740.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05776.1	35.088	228	145	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05752.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05760.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72534.1	37.356	174	107	2	18	191	1	172	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28865.1	35.088	228	145	3	18	245	8	232	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05779.1	38.506	174	105	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72523.1	37.356	174	107	2	18	191	1	172	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05782.1	35.088	228	145	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05773.1	36.782	174	108	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08523.1	35.965	228	143	3	18	245	6	230	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05750.1	33.603	247	161	3	18	264	6	249	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QBB21125.1	38.947	190	114	2	2	191	26	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ANA05746.1	37.931	174	106	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05777.1	37.931	174	106	2	18	191	6	177	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08521.1	37.931	174	106	2	18	191	8	179	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QGL51779.1	41.615	161	92	2	30	190	51	209	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63709.1	40.994	161	93	2	30	190	51	209	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBB21121.1	42.169	166	92	2	27	191	51	213	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QGN75803.1	35.047	214	132	2	48	259	1	209	movement protein, partial [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	QJC63717.1	40.994	161	93	2	30	190	51	209	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	YP_164804.1	36.898	187	116	2	4	190	25	209	movement protein [Fragaria chiloensis latent virus]	Fragaria chiloensis latent virus	Viruses
+BromoMP_HMM	QKI28830.1	40.994	161	93	2	30	190	51	209	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	UCY33661.1	37.975	158	96	2	34	191	57	212	movement protein [water chestnut virus A]	water chestnut virus A	Viruses
+BromoMP_HMM	ASJ26578.1	34.694	245	157	3	1	245	19	260	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QLF97274.1	40.994	161	93	2	30	190	51	209	MP, partial [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBO24585.1	40.373	161	94	2	30	190	51	209	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AQA28798.1	32.955	176	108	3	18	188	24	194	movement protein [Lilac leaf chlorosis virus]	Lilac leaf chlorosis virus	Viruses
+BromoMP_HMM	YP_008519306.1	34.239	184	109	4	12	188	22	200	movement protein [Blueberry shock virus]	Blueberry shock virus	Viruses
+BromoMP_HMM	AVI05075.1	41.071	112	61	1	27	133	32	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QIA99699.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05083.1	40.179	112	62	1	27	133	32	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	YP_009551613.1	44.000	100	56	0	34	133	44	143	unnamed protein product [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05095.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05091.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QHX59406.1	40.179	112	62	1	27	133	32	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QKS42887.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	YP_054424.1	32.738	168	105	6	28	191	39	202	3a protein [Humulus japonicus latent virus]	Humulus japonicus latent virus	Viruses
+BromoMP_HMM	AZQ21150.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05087.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QHX59404.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AZQ21148.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AZQ21146.1	45.000	100	55	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	UCJ00856.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41030.1	32.143	196	103	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AVI05079.1	43.000	100	57	0	34	133	44	143	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	ARE29950.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16498.1	30.769	195	107	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37352.1	30.457	197	109	2	5	189	16	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52989.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41026.1	30.256	195	108	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99688.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41036.1	29.744	195	109	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37345.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38052.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38054.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99682.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00854.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QWY93838.1	32.222	180	111	3	17	189	19	194	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	QXD99687.1	30.000	200	102	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38050.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00850.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49932.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99689.1	30.000	200	102	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99690.1	30.000	200	102	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00872.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	YP_009104372.1	34.641	153	96	1	39	191	48	196	movement protein [Lilac leaf chlorosis virus]	Lilac leaf chlorosis virus	Viruses
+BromoMP_HMM	AFD32233.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99685.1	30.412	194	107	2	8	189	19	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52983.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49928.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32231.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52981.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACM79796.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52982.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99681.1	30.256	195	108	2	7	189	17	195	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32237.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49925.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37353.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37342.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABG66971.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AZJ51143.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49911.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26566.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38042.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49923.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41032.1	30.256	195	108	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38044.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32211.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41024.1	30.256	195	108	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00844.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38046.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00862.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32229.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26583.1	30.769	195	107	2	7	189	32	210	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00848.1	30.000	200	102	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52986.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49919.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49933.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52992.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAN84552.1	30.256	195	108	2	7	189	18	196	Movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52988.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52987.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QWY93834.1	32.222	180	111	3	17	189	19	194	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	AGV52991.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49912.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ALU66006.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37344.1	30.769	195	107	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49927.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49917.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38048.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41034.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16502.1	30.256	195	108	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAG27304.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99693.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	NP_733825.1	29.744	195	109	2	7	189	16	194	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49915.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00860.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49926.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37341.1	32.065	184	119	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52978.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38040.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52985.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52979.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	BBD96253.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49929.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37351.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26570.1	30.256	195	108	2	7	189	16	194	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	API65109.1	30.256	195	108	2	7	189	1	179	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99684.1	30.256	195	108	2	7	189	18	196	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49921.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49916.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	APT68395.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49924.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99691.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49922.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00842.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00864.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52990.1	29.231	195	110	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16500.1	31.694	183	121	1	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49930.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACT78572.1	29.231	195	110	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QWY93836.1	31.111	180	113	3	17	189	19	194	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	UCJ00846.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37343.1	30.693	202	102	4	5	189	16	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXF28304.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37349.1	29.592	196	110	2	7	190	18	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAA96659.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49913.1	32.065	184	119	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACF60962.1	29.231	195	110	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49918.1	32.065	184	119	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52984.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49931.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37346.1	32.738	168	85	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49914.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACT78576.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00868.1	29.000	200	104	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAB34201.1	30.256	195	108	2	7	189	18	196	31.4 kda movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37350.1	29.744	195	109	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37347.1	32.143	168	86	2	34	189	45	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AIO05689.1	29.500	200	103	4	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37339.1	30.256	195	108	2	7	189	18	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41028.1	29.231	195	110	2	7	189	18	196	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37348.1	32.515	163	82	2	39	189	50	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24234.1	29.480	173	118	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24254.1	28.415	183	127	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24230.1	28.902	173	119	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBI62110.1	30.864	162	108	1	28	189	38	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVQ09973.1	27.322	183	129	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBE70487.1	30.864	162	108	1	28	189	38	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QRV13260.1	27.869	183	128	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVQ09971.1	27.869	183	128	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBH71324.1	30.247	162	109	1	28	189	38	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBH41392.1	30.247	162	109	1	28	189	37	194	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVQ09975.1	30.247	162	109	1	28	189	38	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QNU41089.1	27.869	183	128	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24231.1	28.902	173	119	1	17	189	3	171	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24227.1	28.902	173	119	1	17	189	1	169	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24233.1	28.902	173	119	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24228.1	28.902	173	119	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24229.1	28.902	173	119	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24232.1	28.902	173	119	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAB97770.1	36.220	127	75	4	16	138	16	140	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	NP_619577.1	36.220	127	75	4	16	138	16	140	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	AAF89807.1	36.220	127	75	4	16	138	16	140	putative movement protein 3a [Hydrangea mosaic virus]	Hydrangea mosaic virus	Viruses
+BromoMP_HMM	SNQ27856.1	37.008	127	74	4	16	138	16	140	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	CAM32329.1	28.902	173	119	1	17	189	27	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	YP_009508873.1	31.429	175	109	6	2	171	6	174	movement protein [Tomato necrotic streak virus]	Tomato necrotic streak virus	Viruses
+BromoMP_HMM	QPB74033.1	34.646	127	77	4	16	138	16	140	putative movement protein [Rose ilarvirus 1]	Rose ilarvirus 1	Viruses
+BromoMP_HMM	CBH41105.1	29.630	162	110	1	28	189	38	195	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24258.1	27.869	183	128	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AUX13137.1	35.461	141	85	5	2	139	6	143	movement protein [Blacklegged tick associated ilarvirus]	Blacklegged tick associated ilarvirus	Viruses
+BromoMP_HMM	NP_620756.1	32.143	140	87	4	2	138	6	140	putative movement protein 3a [Tulare apple mosaic virus]	Tulare apple mosaic virus	Viruses
+BromoMP_HMM	ABC61254.1	44.720	161	79	3	96	254	2	154	movement protein, partial [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	YP_002455926.1	32.000	175	108	6	2	171	6	174	putative movement protein [Asparagus virus 2]	Asparagus virus 2	Viruses
+BromoMP_HMM	CDG24247.1	28.902	173	119	1	17	189	7	175	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24256.1	27.322	183	129	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24260.1	27.322	183	129	1	7	189	17	195	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 2
+# Query: BromoMP_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 535 hits found
+BromoMP_HMM	BAX00461.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72531.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGV15826.1	68.657	268	84	0	9	276	23	290	MP [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QGX86465.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QDB64268.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74547.1	67.164	268	88	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QRL97529.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74534.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	NP_041194.1	68.284	268	85	0	9	276	23	290	32.4 kd protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ADO85717.1	68.284	268	85	0	9	276	23	290	MP protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QCW07556.1	68.284	268	85	0	9	276	23	290	coat protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74533.1	67.164	268	88	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74549.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QZU27273.1	68.284	268	85	0	9	276	23	290	MP protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	BAE94265.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74548.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72548.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38405.1	69.403	268	82	0	9	276	24	291	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QUS52840.1	68.284	268	85	0	9	276	23	290	32.4 kd protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AXP79050.1	68.284	268	85	0	9	276	23	290	MP [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QEQ43447.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AUD53822.1	66.045	268	91	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAL73140.2	69.403	268	82	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	CBX36146.1	68.657	268	84	0	9	276	23	290	30 kDa protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15287.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ATS17299.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74546.1	66.418	268	90	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	P03595.1	69.403	268	82	0	9	276	23	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain 425 / isolate Leiden)]	Alfalfa mosaic virus (strain 425 / isolate Leiden)	Viruses
+BromoMP_HMM	ASR74541.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74536.1	67.790	267	86	0	10	276	24	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72588.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAD04692.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	BAE94263.1	66.418	268	90	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15289.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	1212423A	69.030	268	83	0	9	276	23	290	protein 32kD [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74538.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38413.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AWK57376.1	67.910	268	86	0	9	276	23	290	P3 protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38393.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QIQ53103.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAD04694.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QEQ43445.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	CBJ56557.1	67.537	268	87	0	9	276	23	290	30 kDa protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74550.1	65.414	266	92	0	9	274	23	288	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74539.1	66.541	266	89	0	10	275	24	289	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74542.1	65.299	268	93	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	P03596.1	67.537	268	87	0	9	276	23	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain Strasbourg)]	Alfalfa mosaic virus (strain Strasbourg)	Viruses
+BromoMP_HMM	ASR74543.1	65.918	267	91	0	10	276	24	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15285.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	P24265.1	66.791	268	89	0	9	276	23	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain YSMV)]	Alfalfa mosaic virus (strain YSMV)	Viruses
+BromoMP_HMM	ALF12291.1	50.903	277	123	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98664.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98656.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74544.1	66.418	268	90	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ANE06565.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG65215.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74537.1	65.299	268	93	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AWN55981.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGD94947.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG65214.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGN29715.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98690.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	YP_611152.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98686.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AWT04806.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	NP_620773.1	54.152	277	114	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	BAQ55255.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGD94945.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACJ38090.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98652.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56786.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGH25414.1	49.819	277	126	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGH25431.1	49.458	277	127	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	YP_008470972.1	42.446	278	148	5	1	276	6	273	movement protein [Ageratum latent virus 1998]	Ageratum latent virus 1998	Viruses
+BromoMP_HMM	UCR98682.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98696.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AMB72706.1	50.542	277	124	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCJ00934.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QSG73632.1	44.840	281	142	5	1	275	6	279	movement protein [Prunus virus I]	Prunus virus I	Viruses
+BromoMP_HMM	UCR98654.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98694.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98670.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98692.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98688.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56782.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASJ26576.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56785.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98666.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGH25425.1	49.458	277	127	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98658.1	34.420	276	175	4	2	274	20	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98676.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QTH26265.1	34.307	274	174	4	4	274	1	271	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98684.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFU49019.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCJ00936.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASV64063.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58199.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45208.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QNT38428.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QWC36239.1	50.542	277	124	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45212.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACJ46450.1	50.542	277	124	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58203.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QIQ53099.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AQX34640.1	50.542	277	124	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGN29710.1	46.763	278	135	5	1	276	7	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AKE49127.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFU49018.1	33.213	277	179	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDK55537.1	33.213	277	179	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QXF30832.1	46.403	278	136	5	1	276	7	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACT67445.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGN29728.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGW07458.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QNT38433.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ASR74545.1	62.313	268	101	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGT58200.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QTW96635.1	65.414	266	92	0	9	274	23	288	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AQX34657.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AIN56248.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58202.1	49.458	277	127	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AAY68484.1	49.458	277	127	5	1	275	6	271	MP [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADG56783.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56784.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74540.1	61.567	268	103	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AQS99324.1	50.903	277	123	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACT67450.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	YP_941470.1	43.617	282	145	5	1	275	6	280	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	AGW07460.1	49.458	277	127	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACJ46452.1	47.842	278	131	6	1	275	6	272	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFG22599.2	43.262	282	146	5	1	275	6	280	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	ANN11740.1	43.262	282	146	5	1	275	6	280	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	ACX45210.1	50.542	277	124	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGH25427.1	49.458	277	127	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98678.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74551.1	60.294	272	108	0	5	276	19	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ACX45204.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGH58146.1	50.000	272	123	5	6	275	1	261	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QNL13311.1	41.007	278	152	4	1	276	6	273	movement protein [Ageratum latent virus]	Ageratum latent virus	Viruses
+BromoMP_HMM	QGA72060.1	32.491	277	181	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98662.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACR78241.1	49.821	279	125	6	1	275	6	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGW07456.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98672.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QSE03524.1	42.909	275	147	4	1	273	6	272	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGD94944.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98668.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74552.1	60.821	268	105	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ANA05738.1	33.962	265	169	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05724.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05768.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05758.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASJ26578.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	CAJ58665.1	44.118	272	142	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05728.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08519.1	34.000	250	162	3	9	258	1	247	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05740.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UAJ54417.1	44.118	272	142	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05770.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	CYQ33541.1	42.806	278	150	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05756.1	33.962	265	169	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	YP_009165999.1	44.404	277	142	4	1	275	6	272	movement protein [Privet ringspot virus]	Privet ringspot virus	Viruses
+BromoMP_HMM	AYN45102.1	43.478	276	144	4	1	270	6	275	movement protein [Tomato necrotic spot virus]	Tomato necrotic spot virus	Viruses
+BromoMP_HMM	QKF94925.1	42.806	278	150	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CAJ58673.1	42.806	278	150	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ71030.1	44.118	272	142	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ71029.1	44.485	272	141	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ACU44511.1	44.118	272	142	4	1	270	6	269	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05744.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASX95073.1	44.118	272	142	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05750.1	33.333	264	170	4	14	274	2	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05730.1	34.091	264	168	3	14	274	2	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	YP_006463.1	42.806	278	150	4	1	276	6	276	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05764.1	32.075	265	174	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08520.1	32.937	252	166	3	7	258	1	249	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05748.1	33.585	265	170	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ALJ96779.1	42.806	278	150	4	1	276	6	276	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	QRG28864.1	33.871	248	161	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASX95074.1	42.446	278	151	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05742.1	33.585	265	170	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05732.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05746.1	32.453	265	173	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05726.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	CYQ33565.1	43.750	272	143	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ANA05734.1	33.585	265	170	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05766.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ARS65726.1	44.086	279	146	4	2	276	7	279	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANA05762.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28861.1	33.871	248	161	2	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05736.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08522.1	34.008	247	160	3	12	258	1	244	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05760.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91211.1	43.929	280	146	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QRG28865.1	33.065	248	163	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05752.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28862.1	32.661	248	164	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91225.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91205.1	42.857	280	149	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QDG08517.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91165.1	43.929	280	146	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AQX34630.1	46.570	277	135	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	CAJ58675.1	42.446	278	151	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	AFT91181.1	43.929	280	146	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CAJ58671.1	43.015	272	145	4	1	270	6	269	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	QDG08514.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	YP_009551516.1	41.155	277	152	4	1	275	6	273	movement protein [Cape gooseberry ilarvirus 1]	Cape gooseberry ilarvirus 1	Viruses
+BromoMP_HMM	AFT91193.1	43.571	280	147	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QDG08521.1	32.258	248	165	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91217.1	43.214	280	148	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91185.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QDG08516.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91173.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QDG08515.1	34.286	245	158	2	14	258	1	242	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05754.1	32.453	265	173	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91207.1	43.571	280	147	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91175.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QDG08523.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UEP18547.1	40.433	277	154	4	1	275	6	273	MAG: movement protein [Cape gooseberry ilarvirus 1]	Cape gooseberry ilarvirus 1	Viruses
+BromoMP_HMM	AFT91169.1	43.571	280	147	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91191.1	42.857	280	149	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91183.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	YP_002308572.1	42.500	280	150	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QYL72531.1	33.884	242	157	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05775.1	33.884	242	157	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08513.1	34.440	241	155	2	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72535.1	33.471	242	158	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05788.1	33.058	242	159	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08525.1	32.520	246	163	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05772.1	34.298	242	156	2	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91187.1	43.929	280	146	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QYL72525.1	33.471	242	158	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28863.1	34.167	240	155	2	14	253	1	237	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72534.1	33.058	242	159	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91177.1	44.286	280	145	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QYL72536.1	33.884	242	157	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05778.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72523.1	33.058	242	159	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05784.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91171.1	43.214	280	148	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91227.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANA05783.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08518.1	32.927	246	162	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91221.1	42.857	280	149	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91209.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91179.1	44.643	280	144	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AWC08306.1	38.007	271	160	3	2	270	7	271	putative movement protein [Peanut virus C]	Peanut virus C	Viruses
+BromoMP_HMM	ANA05786.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05790.1	34.025	241	156	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05782.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05777.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05776.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91215.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANA05789.1	33.058	242	159	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QGN75799.1	34.884	258	160	3	4	259	9	260	movement protein [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	QKE53094.1	34.884	258	160	3	4	259	9	260	putative movement protein [Surrounding legume associated ilarvirus]	Surrounding legume associated ilarvirus	Viruses
+BromoMP_HMM	QIJ25696.1	34.884	258	160	3	4	259	9	260	movement protein [Grapevine associated ilarvirus]	Grapevine associated ilarvirus	Viruses
+BromoMP_HMM	QGN75801.1	34.884	258	160	3	4	259	9	260	movement protein [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	AFT91223.1	43.929	280	146	5	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ACZ54926.1	33.091	275	180	4	1	274	20	291	movement protein [Viola white distortion associated virus]	Viola white distortion associated virus	Viruses
+BromoMP_HMM	ANA05774.1	32.645	242	160	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05773.1	32.645	242	160	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91197.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QKS69547.1	34.884	258	160	3	4	259	9	260	Bromo_MP [Erysiphe necator associated ilar-like virus 1]	Erysiphe necator associated ilar-like virus 1	Viruses
+BromoMP_HMM	ANA05787.1	33.058	242	159	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05781.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91219.1	42.500	280	150	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANS71062.1	32.727	275	181	4	1	274	20	291	movement protein [Viola white distortion associated virus]	Viola white distortion associated virus	Viruses
+BromoMP_HMM	AFT91167.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANA05780.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05779.1	33.884	242	157	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFD04721.1	44.528	265	138	4	4	265	9	267	3a protein [Bacopa chlorosis virus]	Bacopa chlorosis virus	Viruses
+BromoMP_HMM	ACB12708.1	52.105	190	88	2	4	191	1	189	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADB98061.1	51.813	193	90	2	1	191	6	197	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QXF28306.1	36.957	184	114	2	8	191	1	182	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACT80123.1	43.023	258	136	4	24	276	1	252	movement protein, partial [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QXF28305.1	34.259	216	140	2	13	228	1	214	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63721.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBB21125.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63677.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63713.1	36.402	239	149	3	2	240	23	258	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ACM63157.1	46.842	190	98	2	4	191	14	202	3a protein, partial [Bacopa chlorosis virus]	Bacopa chlorosis virus	Viruses
+BromoMP_HMM	QJC63685.1	30.797	276	185	5	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AZZ70614.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63681.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63727.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBB21121.1	30.545	275	187	3	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	UCY33661.1	30.435	253	173	3	1	253	24	273	movement protein [water chestnut virus A]	water chestnut virus A	Viruses
+BromoMP_HMM	QJC63729.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63731.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63733.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBB21117.1	31.273	275	185	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63747.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63719.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63689.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AZZ70618.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63741.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QXD99682.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00856.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37344.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	YP_164804.1	31.734	271	179	5	4	274	25	289	movement protein [Fragaria chiloensis latent virus]	Fragaria chiloensis latent virus	Viruses
+BromoMP_HMM	ABU49911.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ALO81584.1	33.208	265	173	4	4	268	25	285	movement protein [Fragaria chiloensis latent virus]	Fragaria chiloensis latent virus	Viruses
+BromoMP_HMM	ASJ26566.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AZJ51143.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26583.1	31.217	189	126	1	2	190	27	211	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00850.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ARE29950.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32231.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99684.1	30.688	189	127	1	2	190	13	197	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37341.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49933.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16500.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	APT68395.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52983.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	BBD96253.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAN84552.1	30.688	189	127	1	2	190	13	197	Movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37342.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32229.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49929.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49916.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52978.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00848.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99688.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49918.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38044.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99693.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38052.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACM79796.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99681.1	30.688	189	127	1	2	190	12	196	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52981.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49913.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32233.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAG27304.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38050.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38042.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52985.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32237.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37345.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52982.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38054.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00854.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00864.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49915.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49922.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00872.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99689.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABG66971.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52989.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00860.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49912.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26570.1	30.688	189	127	1	2	190	11	195	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	API65109.1	31.522	184	122	1	7	190	1	180	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49923.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49919.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49921.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00862.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41032.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49927.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38046.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49924.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99690.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52984.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ALU66006.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38048.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41024.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49917.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49932.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52992.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99691.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37353.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16498.1	31.217	189	126	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00844.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00846.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49930.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACT78572.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52988.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32211.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52987.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49926.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49914.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41026.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41036.1	30.159	189	128	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00842.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38040.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37352.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99687.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49928.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41030.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CBE70487.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAC16502.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	NP_733825.1	30.159	189	128	1	2	190	11	195	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AVQ09975.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AGV52986.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACF60962.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49925.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAB34201.1	30.688	189	127	1	2	190	13	197	31.4 kda movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52979.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACT78576.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37351.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00868.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24258.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAC41034.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAA96659.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CBI62110.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AGV52991.1	30.645	186	125	1	5	190	16	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52990.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24260.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24256.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QJC63709.1	36.316	190	119	2	2	191	23	210	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	CBH41392.1	27.027	185	131	1	6	190	15	195	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QJC63717.1	36.842	190	118	2	2	191	23	210	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	CAC37350.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37346.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24254.1	28.108	185	129	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QNU41089.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CAC37347.1	30.319	188	127	1	2	189	13	196	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AVQ09971.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QRV13260.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAC41028.1	29.630	189	129	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99685.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QKI28830.1	36.842	190	118	2	2	191	23	210	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	CDG24262.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CAM32329.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVQ09973.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBH41105.1	26.486	185	132	1	6	190	16	196	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBH71324.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	ABU49931.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37339.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QLF97274.1	36.842	190	118	2	2	191	23	210	MP, partial [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QGL51779.1	37.368	190	117	2	2	191	23	210	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	CAC37343.1	31.746	189	125	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24230.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24245.1	27.222	180	127	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QBO24585.1	36.316	190	119	2	2	191	23	210	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	CDG24234.1	28.333	180	125	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24232.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24244.1	27.222	180	127	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24233.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CAC37349.1	30.645	186	125	1	5	190	16	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24228.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AIO05689.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37348.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24247.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	YP_009104372.1	31.053	190	127	1	2	191	11	196	movement protein [Lilac leaf chlorosis virus]	Lilac leaf chlorosis virus	Viruses
+BromoMP_HMM	QXF28304.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24229.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24246.1	27.222	180	127	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24231.1	28.409	176	122	1	15	190	1	172	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24227.1	28.736	174	120	1	17	190	1	170	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	YP_008519306.1	29.570	186	127	1	5	190	21	202	movement protein [Blueberry shock virus]	Blueberry shock virus	Viruses
+BromoMP_HMM	QGN75803.1	35.047	214	132	2	48	259	1	209	movement protein, partial [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	AQA28798.1	29.730	185	126	1	6	190	16	196	movement protein [Lilac leaf chlorosis virus]	Lilac leaf chlorosis virus	Viruses
+BromoMP_HMM	AVI05075.1	31.606	193	125	2	1	190	8	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	ASJ26563.1	25.946	185	133	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	NP_604484.1	25.405	185	134	1	6	190	16	196	putative cell-to-cell movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVI05083.1	31.088	193	126	2	1	190	8	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QHX59404.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	YP_009551613.1	31.351	185	123	1	6	190	16	196	unnamed protein product [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QHX59406.1	31.522	184	122	1	7	190	17	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05079.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05091.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QWY93838.1	30.645	186	125	1	6	191	15	196	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	AVI05095.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QWY93836.1	30.108	186	126	1	6	191	15	196	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	QWY93834.1	30.645	186	125	1	6	191	15	196	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	QIC52824.1	32.645	242	161	2	3	243	14	254	movement protein [Apple ilarvirus 1]	Apple ilarvirus 1	Viruses
+BromoMP_HMM	AVI05087.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AFZ40898.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40859.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40894.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40897.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40893.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AZQ21150.1	30.570	193	127	2	1	190	8	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AFZ40860.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40866.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40877.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40864.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40914.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QIA99699.1	30.570	193	127	2	1	190	8	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AFZ40862.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40858.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40891.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40906.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QKS42887.1	30.978	184	123	1	7	190	17	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AZQ21146.1	31.606	193	125	2	1	190	8	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AFZ40868.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40904.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40885.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AZQ21148.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AFZ40903.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40884.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40889.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40915.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40871.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40876.1	69.872	156	47	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	YP_009507938.1	24.590	183	135	3	1	181	5	186	movement protein [Lilac ring mottle virus]	Lilac ring mottle virus	Viruses
+BromoMP_HMM	AAB97770.1	28.302	265	177	7	2	264	6	259	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	SNQ27856.1	29.699	266	174	7	2	265	6	260	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	YP_002455926.1	28.191	188	130	4	2	187	6	190	putative movement protein [Asparagus virus 2]	Asparagus virus 2	Viruses
+BromoMP_HMM	NP_619577.1	28.679	265	176	7	2	264	6	259	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	AAF89807.1	28.679	265	176	7	2	264	6	259	putative movement protein 3a [Hydrangea mosaic virus]	Hydrangea mosaic virus	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 3
+# Query: BromoMP_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 535 hits found
+BromoMP_HMM	ALF12291.1	50.181	277	125	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	YP_008470972.1	41.367	278	151	4	1	276	6	273	movement protein [Ageratum latent virus 1998]	Ageratum latent virus 1998	Viruses
+BromoMP_HMM	AGH25431.1	47.653	277	132	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGH25414.1	48.014	277	131	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98664.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACJ38090.1	48.375	277	130	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QSG73632.1	43.929	280	146	4	1	275	6	279	movement protein [Prunus virus I]	Prunus virus I	Viruses
+BromoMP_HMM	UCR98656.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AMB72706.1	48.736	277	129	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADG65215.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AWN55981.1	48.736	277	129	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGN29715.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADG65214.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANE06565.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AWT04806.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGD94947.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGH25425.1	47.653	277	132	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	YP_611152.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	BAQ55255.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98690.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	NP_620773.1	53.430	277	116	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADG56786.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98696.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98694.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98670.1	33.824	272	177	2	1	272	19	287	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGD94945.1	33.088	272	179	3	1	272	19	287	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98654.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ADG56785.1	33.824	272	177	3	1	272	19	287	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98666.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98686.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98682.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98692.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98652.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCJ00934.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QNL13311.1	41.007	278	152	4	1	276	6	273	movement protein [Ageratum latent virus]	Ageratum latent virus	Viruses
+BromoMP_HMM	ADG56782.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGT58199.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCJ00936.1	34.296	277	176	3	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QNT38428.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGN29710.1	45.324	278	139	5	1	276	7	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	UCR98658.1	34.420	276	175	4	2	274	20	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98688.1	33.456	272	178	3	1	272	19	287	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGT58203.1	48.375	277	130	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QTH26265.1	34.307	274	174	4	4	274	1	271	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASJ26576.1	34.657	277	175	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98684.1	34.296	277	176	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCR98676.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFU49019.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACX45208.1	48.736	277	129	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QXF30832.1	44.964	278	140	5	1	276	7	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADG56784.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASV64063.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QNT38433.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ADG56783.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFU49018.1	33.213	277	179	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGN29728.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QYA72531.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QWC36239.1	49.458	277	127	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACX45212.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58200.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACJ46450.1	49.458	277	127	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGT58202.1	48.736	277	129	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QIQ53099.1	33.935	277	177	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	BAX00461.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72548.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QDK55537.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AQX34640.1	49.458	277	127	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ASR74547.1	67.164	268	88	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ACT67445.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGW07458.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ANN11740.1	42.349	281	150	4	1	275	6	280	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	AFG22599.2	42.349	281	150	4	1	275	6	280	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	ASR74533.1	67.164	268	88	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QSE03524.1	42.545	275	148	4	1	273	6	272	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ASR74534.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QZU27273.1	68.284	268	85	0	9	276	23	290	MP protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGV15826.1	68.657	268	84	0	9	276	23	290	MP [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74549.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QGX86465.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGH25427.1	47.653	277	132	5	1	275	6	271	putative movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QDB64268.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ATS17299.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AIN56248.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AAY68484.1	48.375	277	130	5	1	275	6	271	MP [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AQX34657.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QRL97529.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74548.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ADO85717.1	68.284	268	85	0	9	276	23	290	MP protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QCW07556.1	68.284	268	85	0	9	276	23	290	coat protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AKE49127.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QUS52840.1	68.284	268	85	0	9	276	23	290	32.4 kd protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ACJ46452.1	46.763	278	134	6	1	275	6	272	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ARS65726.1	44.086	279	146	4	2	276	7	279	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CBX36146.1	68.657	268	84	0	9	276	23	290	30 kDa protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	NP_041194.1	68.284	268	85	0	9	276	23	290	32.4 kd protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74546.1	66.418	268	90	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGW07460.1	48.375	277	130	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACT67450.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QEQ43447.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	BAE94265.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AQS99324.1	49.819	277	126	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AAD04692.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AGO15287.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AXP79050.1	68.284	268	85	0	9	276	23	290	MP [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QYA72588.1	68.657	268	84	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38405.1	69.403	268	82	0	9	276	24	291	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFT91211.1	43.929	280	146	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91225.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91205.1	42.857	280	149	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ASR74541.1	66.791	268	89	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74536.1	67.790	267	86	0	10	276	24	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ACX45210.1	49.458	277	127	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AFT91193.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	YP_941470.1	42.908	282	147	5	1	275	6	280	movement protein [Strawberry necrotic shock virus]	Strawberry necrotic shock virus	Viruses
+BromoMP_HMM	CAJ58665.1	43.525	278	148	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	AFT91181.1	43.929	280	146	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91217.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91185.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AGO15289.1	68.284	268	85	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAD04694.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASR74550.1	65.414	266	92	0	9	274	23	288	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AAL73140.2	69.403	268	82	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	UCR98678.1	33.456	272	178	3	1	272	19	287	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACX45204.1	48.736	277	129	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AUD53822.1	66.045	268	91	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QGA72060.1	32.491	277	181	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	BAE94263.1	66.418	268	90	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	UCR98662.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	YP_006463.1	42.806	278	150	4	1	276	6	276	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UCR98672.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ACU44511.1	43.525	278	148	4	1	276	6	276	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	P03595.1	69.403	268	82	0	9	276	23	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain 425 / isolate Leiden)]	Alfalfa mosaic virus (strain 425 / isolate Leiden)	Viruses
+BromoMP_HMM	UAJ71030.1	43.525	278	148	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ71029.1	43.885	278	147	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	AFT91175.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91165.1	43.929	280	146	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CYQ33541.1	42.806	278	150	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CAJ58673.1	42.806	278	150	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UCR98668.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AGH58146.1	48.897	272	126	5	6	275	1	261	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AGD94944.1	32.852	277	180	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91173.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91207.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	1212423A	69.030	268	83	0	9	276	23	290	protein 32kD [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFT91169.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	QIQ53103.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QKF94925.1	42.806	278	150	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ASR74538.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFT91187.1	43.929	280	146	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AWK57376.1	67.910	268	86	0	9	276	23	290	P3 protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASX95073.1	43.165	278	149	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	CBJ56557.1	67.537	268	87	0	9	276	23	290	30 kDa protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ASX95074.1	42.446	278	151	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	QNT38413.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFT91177.1	44.286	280	145	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91183.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ALJ96779.1	42.806	278	150	4	1	276	6	276	3a protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	QEQ43445.1	67.537	268	87	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	CYQ33565.1	43.165	278	149	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UAJ54417.1	43.321	277	148	4	1	275	6	275	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	ASR74539.1	66.541	266	89	0	10	275	24	289	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QNT38393.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFT91191.1	42.857	280	149	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91227.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AGO15285.1	67.910	268	86	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ACR78241.1	48.746	279	128	6	1	275	6	273	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	AYN45102.1	43.478	276	144	4	1	270	6	275	movement protein [Tomato necrotic spot virus]	Tomato necrotic spot virus	Viruses
+BromoMP_HMM	AFT91179.1	44.643	280	144	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	YP_009551516.1	41.155	277	152	4	1	275	6	273	movement protein [Cape gooseberry ilarvirus 1]	Cape gooseberry ilarvirus 1	Viruses
+BromoMP_HMM	AFT91209.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AGW07456.1	49.097	277	128	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ASR74542.1	65.299	268	93	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFT91171.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ACZ54926.1	33.091	275	180	4	1	274	20	291	movement protein [Viola white distortion associated virus]	Viola white distortion associated virus	Viruses
+BromoMP_HMM	AFT91221.1	42.857	280	149	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	YP_002308572.1	42.500	280	150	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	P03596.1	67.537	268	87	0	9	276	23	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain Strasbourg)]	Alfalfa mosaic virus (strain Strasbourg)	Viruses
+BromoMP_HMM	AFT91197.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CAJ58675.1	42.446	278	151	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	UEP18547.1	40.433	277	154	4	1	275	6	273	MAG: movement protein [Cape gooseberry ilarvirus 1]	Cape gooseberry ilarvirus 1	Viruses
+BromoMP_HMM	ANS71062.1	32.727	275	181	4	1	274	20	291	movement protein [Viola white distortion associated virus]	Viola white distortion associated virus	Viruses
+BromoMP_HMM	P24265.1	66.791	268	89	0	9	276	23	290	RecName: Full=Movement protein; Short=MP; AltName: Full=Protein 3A [Alfalfa mosaic virus (strain YSMV)]	Alfalfa mosaic virus (strain YSMV)	Viruses
+BromoMP_HMM	YP_009165999.1	44.404	277	142	4	1	275	6	272	movement protein [Privet ringspot virus]	Privet ringspot virus	Viruses
+BromoMP_HMM	AFT91215.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ASR74543.1	65.918	267	91	0	10	276	24	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ANA05768.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AFT91223.1	43.571	280	147	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	AFT91219.1	42.500	280	150	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	CAJ58671.1	42.446	278	151	4	1	276	6	276	movement protein [Parietaria mottle virus]	Parietaria mottle virus	Viruses
+BromoMP_HMM	AFT91167.1	43.214	280	148	4	2	276	7	280	movement protein [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANA05724.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05758.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05756.1	33.962	265	169	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05738.1	33.962	265	169	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08519.1	34.000	250	162	3	9	258	1	247	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08520.1	32.937	252	166	3	7	258	1	249	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASJ26578.1	33.574	277	178	4	1	274	19	292	movement protein [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05748.1	33.585	265	170	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05770.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05740.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74537.1	65.299	268	93	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QRG28864.1	33.871	248	161	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05744.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74545.1	62.313	268	101	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ANA05764.1	32.075	265	174	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05728.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05742.1	33.585	265	170	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05732.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05766.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28861.1	33.871	248	161	2	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05750.1	33.333	264	170	4	14	274	2	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74544.1	66.418	268	90	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ANA05726.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05734.1	33.585	265	170	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05730.1	34.091	264	168	3	14	274	2	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05762.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QBB21125.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ANA05746.1	32.453	265	173	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08522.1	34.008	247	160	3	12	258	1	244	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28865.1	33.065	248	163	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28862.1	32.661	248	164	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05736.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63677.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QDG08521.1	32.258	248	165	3	11	258	1	245	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05760.1	33.208	265	171	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05752.1	32.830	265	172	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QBB21121.1	30.545	275	187	3	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63685.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AZZ70614.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63727.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ASR74540.1	61.567	268	103	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QDG08517.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08514.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74551.1	60.294	272	108	0	5	276	19	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	QJC63721.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QTW96635.1	65.414	266	92	0	9	274	23	288	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AWC08306.1	38.007	271	160	3	2	270	7	271	putative movement protein [Peanut virus C]	Peanut virus C	Viruses
+BromoMP_HMM	QJC63731.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63733.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QDG08515.1	34.286	245	158	2	14	258	1	242	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05754.1	32.453	265	173	4	13	274	1	262	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63681.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63689.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63719.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	AQX34630.1	45.487	277	138	5	1	275	6	271	movement protein [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QYL72531.1	33.884	242	157	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	AZZ70618.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QDG08516.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63729.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBB21117.1	31.273	275	185	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QDG08523.1	34.146	246	159	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63741.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QYL72534.1	33.058	242	159	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72535.1	33.471	242	158	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72525.1	33.471	242	158	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05775.1	33.884	242	157	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08513.1	34.440	241	155	2	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05778.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QRG28863.1	34.167	240	155	2	14	253	1	237	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72536.1	33.884	242	157	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05772.1	34.440	241	155	2	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05783.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QYL72523.1	33.058	242	159	3	18	259	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08525.1	32.520	246	163	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QJC63747.1	31.636	275	184	4	2	276	26	296	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ANA05776.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05784.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05788.1	33.058	242	159	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05782.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05777.1	33.610	241	157	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05790.1	34.025	241	156	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QDG08518.1	32.927	246	162	3	13	258	1	243	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05786.1	33.471	242	158	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ALO81584.1	32.601	273	178	5	4	276	25	291	movement protein [Fragaria chiloensis latent virus]	Fragaria chiloensis latent virus	Viruses
+BromoMP_HMM	YP_164804.1	30.037	273	187	4	4	276	25	293	movement protein [Fragaria chiloensis latent virus]	Fragaria chiloensis latent virus	Viruses
+BromoMP_HMM	ANA05789.1	33.058	242	159	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ASR74552.1	60.821	268	105	0	9	276	23	290	movement protein [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	ANA05774.1	32.645	242	160	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05781.1	33.610	241	157	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05779.1	34.025	241	156	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05787.1	33.058	242	159	3	13	254	1	239	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	ANA05780.1	33.610	241	157	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	UCY33661.1	28.929	280	192	4	1	276	24	300	movement protein [water chestnut virus A]	water chestnut virus A	Viruses
+BromoMP_HMM	QGN75799.1	34.749	259	161	3	3	259	8	260	movement protein [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	ACT80123.1	43.191	257	135	4	25	276	2	252	movement protein, partial [Blackberry chlorotic ringspot virus]	Blackberry chlorotic ringspot virus	Viruses
+BromoMP_HMM	ANA05773.1	32.780	241	159	3	13	253	1	238	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QGN75801.1	34.749	259	161	3	3	259	8	260	movement protein [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	QKE53094.1	34.749	259	161	3	3	259	8	260	putative movement protein [Surrounding legume associated ilarvirus]	Surrounding legume associated ilarvirus	Viruses
+BromoMP_HMM	AFD04721.1	44.361	266	139	4	3	265	8	267	3a protein [Bacopa chlorosis virus]	Bacopa chlorosis virus	Viruses
+BromoMP_HMM	QIJ25696.1	34.749	259	161	3	3	259	8	260	movement protein [Grapevine associated ilarvirus]	Grapevine associated ilarvirus	Viruses
+BromoMP_HMM	QJC63713.1	31.673	281	182	5	2	276	23	299	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QKS69547.1	34.749	259	161	3	3	259	8	260	Bromo_MP [Erysiphe necator associated ilar-like virus 1]	Erysiphe necator associated ilar-like virus 1	Viruses
+BromoMP_HMM	ADB98061.1	51.295	193	91	2	1	191	6	197	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	ACB12708.1	51.579	190	89	2	4	191	1	189	movement protein, partial [Tobacco streak virus]	Tobacco streak virus	Viruses
+BromoMP_HMM	QJC63709.1	30.466	279	187	4	2	276	23	298	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QKI28830.1	30.108	279	188	4	2	276	23	298	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QJC63717.1	30.824	279	186	4	2	276	23	298	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QBO24585.1	30.605	281	184	5	2	276	23	298	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QXF28306.1	36.957	184	114	2	8	191	1	182	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QLF97274.1	30.605	281	184	5	2	276	23	298	MP, partial [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	ACM63157.1	46.597	191	99	2	3	191	13	202	3a protein, partial [Bacopa chlorosis virus]	Bacopa chlorosis virus	Viruses
+BromoMP_HMM	QGL51779.1	30.824	279	186	4	2	276	23	298	movement protein [Potato yellowing virus]	Potato yellowing virus	Viruses
+BromoMP_HMM	QXF28305.1	34.259	216	140	2	13	228	1	214	movement protein, partial [Prune dwarf virus]	Prune dwarf virus	Viruses
+BromoMP_HMM	QXD99682.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52983.1	26.740	273	189	4	2	274	13	274	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00856.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ARE29950.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49911.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37344.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26566.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AZJ51143.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26583.1	31.217	189	126	1	2	190	27	211	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37341.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00850.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32231.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49933.1	28.205	273	186	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00872.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52982.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAN84552.1	30.688	189	127	1	2	190	13	197	Movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37342.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52978.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38054.1	28.205	273	186	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38044.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00848.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52981.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38050.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32229.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACM79796.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38052.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32233.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99688.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52985.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00846.1	27.372	274	189	4	2	275	13	276	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99684.1	30.688	189	127	1	2	190	13	197	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49929.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52984.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	APT68395.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16500.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38042.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	BBD96253.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49932.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99681.1	30.688	189	127	1	2	190	12	196	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32237.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00854.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52989.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99693.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49916.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41032.1	27.839	273	187	4	2	274	13	275	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABG66971.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49918.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	YP_009104372.1	31.053	190	127	1	2	191	11	196	movement protein [Lilac leaf chlorosis virus]	Lilac leaf chlorosis virus	Viruses
+BromoMP_HMM	ACT78572.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAG27304.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49928.1	28.205	273	186	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00862.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49930.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00864.1	27.473	273	188	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49923.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49913.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38046.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99691.1	28.205	273	186	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49919.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49915.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49917.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52979.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00860.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ALU66006.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00842.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49927.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AFD32211.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41024.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37353.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49912.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49922.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99689.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16498.1	31.217	189	126	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38048.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52992.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABP38040.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37345.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ASJ26570.1	30.688	189	127	1	2	190	11	195	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41036.1	30.159	189	128	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAA96659.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49921.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49924.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00844.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52988.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37346.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52987.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99690.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC41030.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49926.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CBE70487.1	26.984	189	134	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AGV52986.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AVQ09975.1	26.455	189	135	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAC41026.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACT78576.1	27.473	273	188	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99687.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49914.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CBH41392.1	26.455	189	135	1	2	190	11	195	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAC41034.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ABU49925.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37352.1	31.217	189	126	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	NP_733825.1	30.159	189	128	1	2	190	11	195	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAC16502.1	30.688	189	127	1	2	190	13	197	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37351.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CBI62110.1	26.984	189	134	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AGV52990.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	ACF60962.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	UCJ00868.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AAB34201.1	30.688	189	127	1	2	190	13	197	31.4 kda movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37347.1	27.106	273	189	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	API65109.1	31.522	184	122	1	7	190	1	180	movement protein, partial [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CAC37350.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AGV52991.1	27.473	273	188	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CBH41105.1	25.926	189	136	1	2	190	12	196	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAC41028.1	27.106	273	189	4	2	274	13	275	putative movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QXD99685.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QNU41089.1	26.984	189	134	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24254.1	27.513	189	133	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CBH71324.1	26.455	189	135	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVQ09971.1	26.984	189	134	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CAC37339.1	30.688	189	127	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	QRV13260.1	27.568	185	130	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24256.1	26.316	190	136	1	1	190	11	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVI05075.1	31.217	189	126	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	CDG24262.1	26.316	190	136	1	1	190	11	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24260.1	27.027	185	131	1	6	190	16	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	ABU49931.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24258.1	26.984	189	134	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CAM32329.1	26.984	189	134	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AVQ09973.1	26.455	189	135	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	YP_009551613.1	30.688	189	127	1	2	190	12	196	unnamed protein product [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05083.1	30.688	189	127	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05091.1	30.159	189	128	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	CAC37343.1	31.746	189	125	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AVI05095.1	30.159	189	128	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QHX59404.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	CAC37348.1	27.737	274	188	4	2	275	13	276	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	AVI05087.1	30.159	189	128	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AVI05079.1	30.811	185	124	1	6	190	16	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	QHX59406.1	31.522	184	122	1	7	190	17	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AIO05689.1	30.159	189	128	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24230.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CAC37349.1	27.839	273	187	4	2	274	13	275	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	CDG24234.1	28.333	180	125	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24232.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24233.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QXF28304.1	29.630	189	129	1	2	190	13	197	movement protein [Prunus necrotic ringspot virus]	Prunus necrotic ringspot virus	Viruses
+BromoMP_HMM	YP_008519306.1	28.947	190	131	1	1	190	17	202	movement protein [Blueberry shock virus]	Blueberry shock virus	Viruses
+BromoMP_HMM	AZQ21148.1	30.159	189	128	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AZQ21150.1	30.159	189	128	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	CDG24228.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24245.1	27.222	180	127	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AQA28798.1	29.101	189	130	1	2	190	12	196	movement protein [Lilac leaf chlorosis virus]	Lilac leaf chlorosis virus	Viruses
+BromoMP_HMM	QKS42887.1	30.978	184	123	1	7	190	17	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	CDG24244.1	27.222	180	127	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QIA99699.1	30.159	189	128	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	CDG24229.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AZQ21146.1	31.217	189	126	1	2	190	12	196	movement protein [Apple necrotic mosaic virus]	Apple necrotic mosaic virus	Viruses
+BromoMP_HMM	AUX13137.1	25.092	271	192	6	2	270	6	267	movement protein [Blacklegged tick associated ilarvirus]	Blacklegged tick associated ilarvirus	Viruses
+BromoMP_HMM	CDG24231.1	28.409	176	122	1	15	190	1	172	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24247.1	27.778	180	126	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	CDG24227.1	28.736	174	120	1	17	190	1	170	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	NP_619577.1	28.679	265	176	7	2	264	6	259	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	AAB97770.1	28.302	265	177	7	2	264	6	259	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	CDG24246.1	27.222	180	127	1	11	190	1	176	movement protein, partial [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	AAF89807.1	28.679	265	176	7	2	264	6	259	putative movement protein 3a [Hydrangea mosaic virus]	Hydrangea mosaic virus	Viruses
+BromoMP_HMM	SNQ27856.1	29.699	266	174	7	2	265	6	260	movement protein [Elm mottle virus]	Elm mottle virus	Viruses
+BromoMP_HMM	QWY93838.1	30.000	190	129	1	2	191	11	196	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	QIC52824.1	32.377	244	163	2	3	245	14	256	movement protein [Apple ilarvirus 1]	Apple ilarvirus 1	Viruses
+BromoMP_HMM	QGN75803.1	33.333	228	145	2	48	273	1	223	movement protein, partial [Solanum nigrum ilarvirus 1]	Solanum nigrum ilarvirus 1	Viruses
+BromoMP_HMM	QWY93834.1	30.000	190	129	1	2	191	11	196	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	QWY93836.1	29.474	190	130	1	2	191	11	196	movement protein [Green Sichuan pepper ilarvirus]	Green Sichuan pepper ilarvirus	Viruses
+BromoMP_HMM	YP_002455926.1	25.455	275	194	6	2	274	6	271	putative movement protein [Asparagus virus 2]	Asparagus virus 2	Viruses
+BromoMP_HMM	ASJ26563.1	25.397	189	137	1	2	190	12	196	movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	NP_604484.1	24.868	189	138	1	2	190	12	196	putative cell-to-cell movement protein [Apple mosaic virus]	Apple mosaic virus	Viruses
+BromoMP_HMM	QPB74033.1	25.180	278	195	7	2	275	6	274	putative movement protein [Rose ilarvirus 1]	Rose ilarvirus 1	Viruses
+BromoMP_HMM	ARO72617.1	25.091	275	195	6	2	274	6	271	putative movement protein [Spinach latent virus]	Spinach latent virus	Viruses
+BromoMP_HMM	YP_009508873.1	25.182	274	193	7	2	273	6	269	movement protein [Tomato necrotic streak virus]	Tomato necrotic streak virus	Viruses
+BromoMP_HMM	NP_620756.1	25.283	265	187	6	2	264	6	261	putative movement protein 3a [Tulare apple mosaic virus]	Tulare apple mosaic virus	Viruses
+BromoMP_HMM	AFZ40898.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40894.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40897.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40859.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40893.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40904.1	70.513	156	46	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40864.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40862.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40860.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40866.1	72.436	156	43	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40906.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40877.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40858.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40891.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40885.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40914.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	AFZ40868.1	71.795	156	44	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+BromoMP_HMM	NP_620680.1	27.083	192	135	4	2	191	6	194	putative movement protein [Spinach latent virus]	Spinach latent virus	Viruses
+BromoMP_HMM	AFZ40903.1	71.154	156	45	0	17	172	1	156	movement protein, partial [Alfalfa mosaic virus]	Alfalfa mosaic virus	Viruses
+
+Search has CONVERGED!
+# BLAST processed 3 queries

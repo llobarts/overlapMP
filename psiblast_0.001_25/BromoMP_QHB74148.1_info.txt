@@ -1,0 +1,301 @@
+ABU49911.1	Prunus necrotic ringspot virus	Viruses
+QKE53094.1	Surrounding legume associated ilarvirus	Viruses
+QDG08522.1	Prune dwarf virus	Viruses
+UCJ00868.1	Prunus necrotic ringspot virus	Viruses
+AAC16500.1	Prunus necrotic ringspot virus	Viruses
+QRG28863.1	Prune dwarf virus	Viruses
+QKI28830.1	Potato yellowing virus	Viruses
+ACJ38090.1	Tobacco streak virus	Viruses
+ANA05726.1	Prune dwarf virus	Viruses
+ANA05786.1	Prune dwarf virus	Viruses
+ACT67445.1	Tobacco streak virus	Viruses
+AFT91185.1	Blackberry chlorotic ringspot virus	Viruses
+UCR98676.1	Prune dwarf virus	Viruses
+ANA05734.1	Prune dwarf virus	Viruses
+AKE49127.1	Tobacco streak virus	Viruses
+AAC41032.1	Prunus necrotic ringspot virus	Viruses
+CAN84552.1	Prunus necrotic ringspot virus	Viruses
+AGW07458.1	Tobacco streak virus	Viruses
+AFZ40914.1	Alfalfa mosaic virus	Viruses
+CAC37343.1	Prunus necrotic ringspot virus	Viruses
+AFZ40866.1	Alfalfa mosaic virus	Viruses
+AAY68484.1	Tobacco streak virus	Viruses
+ANA05790.1	Prune dwarf virus	Viruses
+AFZ40906.1	Alfalfa mosaic virus	Viruses
+APT68395.1	Prunus necrotic ringspot virus	Viruses
+ANA05724.1	Prune dwarf virus	Viruses
+YP_941470.1	Strawberry necrotic shock virus	Viruses
+QBO24585.1	Potato yellowing virus	Viruses
+AGH58146.1	Tobacco streak virus	Viruses
+ALF12291.1	Tobacco streak virus	Viruses
+ABU49918.1	Prunus necrotic ringspot virus	Viruses
+AQX34630.1	Tobacco streak virus	Viruses
+ANA05738.1	Prune dwarf virus	Viruses
+ACT67450.1	Tobacco streak virus	Viruses
+YP_164804.1	Fragaria chiloensis latent virus	Viruses
+QKF94925.1	Parietaria mottle virus	Viruses
+QDG08515.1	Prune dwarf virus	Viruses
+QYL72525.1	Prune dwarf virus	Viruses
+QIC52824.1	Apple ilarvirus 1	Viruses
+AFT91177.1	Blackberry chlorotic ringspot virus	Viruses
+ASX95074.1	Parietaria mottle virus	Viruses
+ANA05742.1	Prune dwarf virus	Viruses
+ABU49931.1	Prunus necrotic ringspot virus	Viruses
+AFZ40871.1	Alfalfa mosaic virus	Viruses
+AGN29715.1	Tobacco streak virus	Viruses
+YP_008470972.1	Ageratum latent virus 1998	Viruses
+ACX45204.1	Tobacco streak virus	Viruses
+AGN29710.1	Tobacco streak virus	Viruses
+AAC41024.1	Prunus necrotic ringspot virus	Viruses
+AQX34640.1	Tobacco streak virus	Viruses
+QJC63727.1	Potato yellowing virus	Viruses
+AFZ40894.1	Alfalfa mosaic virus	Viruses
+NP_619577.1	Elm mottle virus	Viruses
+NP_620680.1	Spinach latent virus	Viruses
+ANA05772.1	Prune dwarf virus	Viruses
+AFZ40868.1	Alfalfa mosaic virus	Viruses
+AFT91219.1	Blackberry chlorotic ringspot virus	Viruses
+QRG28864.1	Prune dwarf virus	Viruses
+ABC61254.1	Blackberry chlorotic ringspot virus	Viruses
+QSG73632.1	Prunus virus I	Viruses
+AGV52983.1	Prunus necrotic ringspot virus	Viruses
+NP_620773.1	Tobacco streak virus	Viruses
+CAJ58671.1	Parietaria mottle virus	Viruses
+AWC08306.1	Peanut virus C	Viruses
+ASJ26566.1	Prunus necrotic ringspot virus	Viruses
+QDG08517.1	Prune dwarf virus	Viruses
+YP_002308572.1	Blackberry chlorotic ringspot virus	Viruses
+AFZ40885.1	Alfalfa mosaic virus	Viruses
+AFR46585.1	Citrus leaf rugose virus	Viruses
+AFZ40877.1	Alfalfa mosaic virus	Viruses
+AGW07460.1	Tobacco streak virus	Viruses
+AFT91209.1	Blackberry chlorotic ringspot virus	Viruses
+UCR98672.1	Prune dwarf virus	Viruses
+AFT91207.1	Blackberry chlorotic ringspot virus	Viruses
+NP_620756.1	Tulare apple mosaic virus	Viruses
+AFZ40859.1	Alfalfa mosaic virus	Viruses
+ASX95073.1	Parietaria mottle virus	Viruses
+QDG08523.1	Prune dwarf virus	Viruses
+ABU49913.1	Prunus necrotic ringspot virus	Viruses
+AGH25425.1	Tobacco streak virus	Viruses
+QXD99693.1	Prunus necrotic ringspot virus	Viruses
+AFD32237.1	Prunus necrotic ringspot virus	Viruses
+AFT91183.1	Blackberry chlorotic ringspot virus	Viruses
+QSE03524.1	Tobacco streak virus	Viruses
+QRG28861.1	Prune dwarf virus	Viruses
+QRG28865.1	Prune dwarf virus	Viruses
+QBB21117.1	Potato yellowing virus	Viruses
+AAC41026.1	Prunus necrotic ringspot virus	Viruses
+ACT80123.1	Blackberry chlorotic ringspot virus	Viruses
+ANA05783.1	Prune dwarf virus	Viruses
+QWC36239.1	Tobacco streak virus	Viruses
+AGV52982.1	Prunus necrotic ringspot virus	Viruses
+AFZ40862.1	Alfalfa mosaic virus	Viruses
+AFT91211.1	Blackberry chlorotic ringspot virus	Viruses
+ABU49915.1	Prunus necrotic ringspot virus	Viruses
+YP_006463.1	Parietaria mottle virus	Viruses
+QXD99689.1	Prunus necrotic ringspot virus	Viruses
+AMB72706.1	Tobacco streak virus	Viruses
+QYL72535.1	Prune dwarf virus	Viruses
+QXD99688.1	Prunus necrotic ringspot virus	Viruses
+ABK35302.1	Blackberry chlorotic ringspot virus	Viruses
+ABP38040.1	Prunus necrotic ringspot virus	Viruses
+ACX45210.1	Tobacco streak virus	Viruses
+ACX45208.1	Tobacco streak virus	Viruses
+BAQ55255.1	Tobacco streak virus	Viruses
+AFG22599.2	Strawberry necrotic shock virus	Viruses
+ANA05736.1	Prune dwarf virus	Viruses
+UAJ54417.1	Parietaria mottle virus	Viruses
+ANA05775.1	Prune dwarf virus	Viruses
+AGV52984.1	Prunus necrotic ringspot virus	Viruses
+CAC37339.1	Prunus necrotic ringspot virus	Viruses
+YP_009551516.1	Cape gooseberry ilarvirus 1	Viruses
+QIJ25696.1	Grapevine associated ilarvirus	Viruses
+ABU49916.1	Prunus necrotic ringspot virus	Viruses
+AFD32211.1	Prunus necrotic ringspot virus	Viruses
+AAF89807.1	Hydrangea mosaic virus	Viruses
+AFT91171.1	Blackberry chlorotic ringspot virus	Viruses
+AFZ40860.1	Alfalfa mosaic virus	Viruses
+UCJ00864.1	Prunus necrotic ringspot virus	Viruses
+AAC41030.1	Prunus necrotic ringspot virus	Viruses
+AGT58203.1	Tobacco streak virus	Viruses
+ANA05787.1	Prune dwarf virus	Viruses
+QDG08513.1	Prune dwarf virus	Viruses
+AAC41028.1	Prunus necrotic ringspot virus	Viruses
+ACR78241.1	Tobacco streak virus	Viruses
+CAJ58673.1	Parietaria mottle virus	Viruses
+QYL72523.1	Prune dwarf virus	Viruses
+UCJ00842.1	Prunus necrotic ringspot virus	Viruses
+ABU49919.1	Prunus necrotic ringspot virus	Viruses
+AGD94944.1	Prune dwarf virus	Viruses
+AFZ40876.1	Alfalfa mosaic virus	Viruses
+ABU49926.1	Prunus necrotic ringspot virus	Viruses
+UCR98668.1	Prune dwarf virus	Viruses
+AFZ40898.1	Alfalfa mosaic virus	Viruses
+AFZ40904.1	Alfalfa mosaic virus	Viruses
+UCJ00862.1	Prunus necrotic ringspot virus	Viruses
+CAC37345.1	Prunus necrotic ringspot virus	Viruses
+AFT91173.1	Blackberry chlorotic ringspot virus	Viruses
+AAC16498.1	Prunus necrotic ringspot virus	Viruses
+YP_009508873.1	Tomato necrotic streak virus	Viruses
+ANA05766.1	Prune dwarf virus	Viruses
+AAC16502.1	Prunus necrotic ringspot virus	Viruses
+AUX13137.1	Blacklegged tick associated ilarvirus	Viruses
+AFZ40915.1	Alfalfa mosaic virus	Viruses
+ASJ26570.1	Prunus necrotic ringspot virus	Viruses
+UCY33661.1	water chestnut virus A	Viruses
+ANA05746.1	Prune dwarf virus	Viruses
+ACZ54926.1	Viola white distortion associated virus	Viruses
+ABU49921.1	Prunus necrotic ringspot virus	Viruses
+QYL72536.1	Prune dwarf virus	Viruses
+ANA05789.1	Prune dwarf virus	Viruses
+API65109.1	Prunus necrotic ringspot virus	Viruses
+ABU49930.1	Prunus necrotic ringspot virus	Viruses
+AFZ40903.1	Alfalfa mosaic virus	Viruses
+ASV64063.1	Tobacco streak virus	Viruses
+NP_613279.1	Citrus leaf rugose virus	Viruses
+AYN45102.1	Tomato necrotic spot virus	Viruses
+AGV52985.1	Prunus necrotic ringspot virus	Viruses
+AAC41036.1	Prunus necrotic ringspot virus	Viruses
+QJC63685.1	Potato yellowing virus	Viruses
+QGA72060.1	Prune dwarf virus	Viruses
+QBB21125.1	Potato yellowing virus	Viruses
+UAJ71029.1	Parietaria mottle virus	Viruses
+AFT91205.1	Blackberry chlorotic ringspot virus	Viruses
+UCJ00856.1	Prunus necrotic ringspot virus	Viruses
+AAA96659.1	Prunus necrotic ringspot virus	Viruses
+AGT58200.1	Tobacco streak virus	Viruses
+ANA05782.1	Prune dwarf virus	Viruses
+QRG28862.1	Prune dwarf virus	Viruses
+ABU49927.1	Prunus necrotic ringspot virus	Viruses
+ABU49917.1	Prunus necrotic ringspot virus	Viruses
+ANA05781.1	Prune dwarf virus	Viruses
+QNT38428.1	Tobacco streak virus	Viruses
+ABU49922.1	Prunus necrotic ringspot virus	Viruses
+AFT91165.1	Blackberry chlorotic ringspot virus	Viruses
+UEP18547.1	Cape gooseberry ilarvirus 1	Viruses
+QGN75799.1	Solanum nigrum ilarvirus 1	Viruses
+AFT91169.1	Blackberry chlorotic ringspot virus	Viruses
+QXF28305.1	Prune dwarf virus	Viruses
+ANA05740.1	Prune dwarf virus	Viruses
+QGL51779.1	Potato yellowing virus	Viruses
+ANA05760.1	Prune dwarf virus	Viruses
+QXD99682.1	Prunus necrotic ringspot virus	Viruses
+ACJ46452.1	Tobacco streak virus	Viruses
+QNT38433.1	Tobacco streak virus	Viruses
+AFT91225.1	Blackberry chlorotic ringspot virus	Viruses
+AFT91167.1	Blackberry chlorotic ringspot virus	Viruses
+QDG08516.1	Prune dwarf virus	Viruses
+ANA05756.1	Prune dwarf virus	Viruses
+CAJ58665.1	Parietaria mottle virus	Viruses
+UAJ71030.1	Parietaria mottle virus	Viruses
+ANA05770.1	Prune dwarf virus	Viruses
+ANA05752.1	Prune dwarf virus	Viruses
+ADB98061.1	Tobacco streak virus	Viruses
+CAJ58675.1	Parietaria mottle virus	Viruses
+ACU44511.1	Parietaria mottle virus	Viruses
+QNL13311.1	Ageratum latent virus	Viruses
+ANA05748.1	Prune dwarf virus	Viruses
+AGN29728.1	Tobacco streak virus	Viruses
+AFT91191.1	Blackberry chlorotic ringspot virus	Viruses
+ANA05774.1	Prune dwarf virus	Viruses
+YP_009165999.1	Privet ringspot virus	Viruses
+AFT91175.1	Blackberry chlorotic ringspot virus	Viruses
+AQX34657.1	Tobacco streak virus	Viruses
+ALJ96779.1	Parietaria mottle virus	Viruses
+QBB21121.1	Potato yellowing virus	Viruses
+AGW07456.1	Tobacco streak virus	Viruses
+ALO81584.1	Fragaria chiloensis latent virus	Viruses
+UCJ00850.1	Prunus necrotic ringspot virus	Viruses
+AAC41034.1	Prunus necrotic ringspot virus	Viruses
+AZZ70614.1	Potato yellowing virus	Viruses
+CAC37342.1	Prunus necrotic ringspot virus	Viruses
+CYQ33565.1	Parietaria mottle virus	Viruses
+AFT91227.1	Blackberry chlorotic ringspot virus	Viruses
+UCR98662.1	Prune dwarf virus	Viruses
+AGH25427.1	Tobacco streak virus	Viruses
+ANA05732.1	Prune dwarf virus	Viruses
+AFZ40891.1	Alfalfa mosaic virus	Viruses
+ANA05758.1	Prune dwarf virus	Viruses
+ACJ46450.1	Tobacco streak virus	Viruses
+QXD99690.1	Prunus necrotic ringspot virus	Viruses
+AQS99324.1	Tobacco streak virus	Viruses
+ANS71062.1	Viola white distortion associated virus	Viruses
+QXF30832.1	Tobacco streak virus	Viruses
+ANN11740.1	Strawberry necrotic shock virus	Viruses
+QYL72531.1	Prune dwarf virus	Viruses
+AFZ40893.1	Alfalfa mosaic virus	Viruses
+ABK35303.1	Blackberry chlorotic ringspot virus	Viruses
+ANA05762.1	Prune dwarf virus	Viruses
+CAC37349.1	Prunus necrotic ringspot virus	Viruses
+AFD32231.1	Prunus necrotic ringspot virus	Viruses
+ABU49929.1	Prunus necrotic ringspot virus	Viruses
+AFT91187.1	Blackberry chlorotic ringspot virus	Viruses
+QJC63677.1	Potato yellowing virus	Viruses
+AGH25414.1	Tobacco streak virus	Viruses
+AFT91221.1	Blackberry chlorotic ringspot virus	Viruses
+AGV52978.1	Prunus necrotic ringspot virus	Viruses
+ANA05779.1	Prune dwarf virus	Viruses
+ARS65726.1	Blackberry chlorotic ringspot virus	Viruses
+ASJ26583.1	Prunus necrotic ringspot virus	Viruses
+AFT91181.1	Blackberry chlorotic ringspot virus	Viruses
+AFT91223.1	Blackberry chlorotic ringspot virus	Viruses
+AFZ40858.1	Alfalfa mosaic virus	Viruses
+QJC63747.1	Potato yellowing virus	Viruses
+CYQ33541.1	Parietaria mottle virus	Viruses
+QPB74033.1	Rose ilarvirus 1	Viruses
+AGT58202.1	Tobacco streak virus	Viruses
+ADG56784.1	Prune dwarf virus	Viruses
+QKS69547.1	Erysiphe necator associated ilar-like virus 1	Viruses
+ASR74542.1	Alfalfa mosaic virus	Viruses
+QXD99684.1	Prunus necrotic ringspot virus	Viruses
+ASR74546.1	Alfalfa mosaic virus	Viruses
+CAC37352.1	Prunus necrotic ringspot virus	Viruses
+ANA05764.1	Prune dwarf virus	Viruses
+AFD04721.1	Bacopa chlorosis virus	Viruses
+AFZ40864.1	Alfalfa mosaic virus	Viruses
+AGT58199.1	Tobacco streak virus	Viruses
+QDG08525.1	Prune dwarf virus	Viruses
+QJC63709.1	Potato yellowing virus	Viruses
+CAC37344.1	Prunus necrotic ringspot virus	Viruses
+ANA05728.1	Prune dwarf virus	Viruses
+QYL72534.1	Prune dwarf virus	Viruses
+ACX45212.1	Tobacco streak virus	Viruses
+AFT91215.1	Blackberry chlorotic ringspot virus	Viruses
+AWN55981.1	Tobacco streak virus	Viruses
+ASR74537.1	Alfalfa mosaic virus	Viruses
+AAB34201.1	Prunus necrotic ringspot virus	Viruses
+AFT91217.1	Blackberry chlorotic ringspot virus	Viruses
+YP_002455926.1	Asparagus virus 2	Viruses
+ANA05776.1	Prune dwarf virus	Viruses
+ACB12708.1	Tobacco streak virus	Viruses
+ACM63157.1	Bacopa chlorosis virus	Viruses
+AFT91197.1	Blackberry chlorotic ringspot virus	Viruses
+QJC63713.1	Potato yellowing virus	Viruses
+AFZ40889.1	Alfalfa mosaic virus	Viruses
+ANA05768.1	Prune dwarf virus	Viruses
+AFD32229.1	Prunus necrotic ringspot virus	Viruses
+QXD99685.1	Prunus necrotic ringspot virus	Viruses
+QGN75801.1	Solanum nigrum ilarvirus 1	Viruses
+QXF28306.1	Prune dwarf virus	Viruses
+QDG08514.1	Prune dwarf virus	Viruses
+CAC37346.1	Prunus necrotic ringspot virus	Viruses
+AFZ40884.1	Alfalfa mosaic virus	Viruses
+AGH25431.1	Tobacco streak virus	Viruses
+QDG08518.1	Prune dwarf virus	Viruses
+QJC63717.1	Potato yellowing virus	Viruses
+AFZ40897.1	Alfalfa mosaic virus	Viruses
+AZJ51143.1	Prunus necrotic ringspot virus	Viruses
+SNQ27856.1	Elm mottle virus	Viruses
+CAC37350.1	Prunus necrotic ringspot virus	Viruses
+ANK58151.1	Lilac ring mottle virus	Viruses
+AAB97770.1	Elm mottle virus	Viruses
+QXF28304.1	Prunus necrotic ringspot virus	Viruses
+ASR74544.1	Alfalfa mosaic virus	Viruses
+ANA05744.1	Prune dwarf virus	Viruses
+ABP38048.1	Prunus necrotic ringspot virus	Viruses
+QLF97274.1	Potato yellowing virus	Viruses
+ARO72617.1	Spinach latent virus	Viruses
+AFT91193.1	Blackberry chlorotic ringspot virus	Viruses
+QGN75803.1	Solanum nigrum ilarvirus 1	Viruses
+AFT91179.1	Blackberry chlorotic ringspot virus	Viruses

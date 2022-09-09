@@ -1,0 +1,268 @@
+# PSIBLAST 2.11.0+
+# Iteration: 1
+# Query: TenuiNS4_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 81 hits found
+TenuiNS4_HMM	NP_620519.1	100.000	266	0	0	1	266	1	266	32K protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAF43723.1	99.248	266	2	0	1	266	1	266	VCP4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85946.1	99.248	266	2	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ABM55686.1	98.872	266	3	0	1	266	1	266	VCP4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40772.1	98.496	266	4	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85944.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO39435.1	98.872	266	3	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40774.1	98.872	266	3	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40349.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40353.1	98.872	266	3	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85938.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57037.1	98.496	266	4	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85948.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85947.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX81878.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58363.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58349.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57055.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57051.1	98.872	266	3	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29827.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAA71972.1	98.120	266	5	0	1	266	1	266	RNA 4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	P34961.1	98.496	266	4	0	1	266	1	266	RecName: Full=Movement protein; AltName: Full=Non-structural protein 4; Short=NS4; AltName: Full=Protein pc4 [Rice stripe virus (isolate M)]	Rice stripe virus (isolate M)	Viruses
+TenuiNS4_HMM	ACR57039.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40355.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57041.1	98.496	266	4	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40361.1	98.491	265	4	0	1	265	1	265	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI44201.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85939.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ABC68339.1	98.120	266	5	0	1	266	1	266	pc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29833.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AFM93801.1	98.496	266	4	0	1	266	1	266	MP [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AFM93822.1	98.496	266	4	0	1	266	1	266	MP [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40347.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57043.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40770.1	98.120	266	5	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85940.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57049.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57035.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57033.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ASA47676.1	98.120	266	5	0	1	266	1	266	NSc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AWN09232.1	98.120	266	5	0	1	266	1	266	32.5 kDa protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85945.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI44199.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85942.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29835.1	97.744	266	6	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40359.1	97.368	266	7	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAM49600.1	96.992	266	8	0	1	266	1	266	VCP4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58370.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57603.1	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57585.1	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57601.1	76.692	266	62	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57591.2	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	YP_009507901.1	77.068	266	61	0	1	266	1	266	NS4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57587.1	76.692	266	62	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QYU75392.1	76.316	266	63	0	1	266	1	266	nonstructural protein 4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QYU75377.1	76.316	266	63	0	1	266	1	266	nonstructural protein 4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	ANE23714.1	98.421	190	3	0	27	216	1	190	NSvc4, partial [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ANE23715.1	97.895	190	4	0	27	216	1	190	NSvc4, partial [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	QWQ49844.1	62.264	265	100	0	1	265	1	265	putative cell-to-cell movement protein [Festuca stripe-associated virus]	Festuca stripe-associated virus	Viruses
+TenuiNS4_HMM	YP_009507895.1	61.887	265	101	0	1	265	1	265	pc4 protein [Iranian wheat stripe tenuivirus]	Iranian wheat stripe tenuivirus	Viruses
+TenuiNS4_HMM	YP_009449444.1	58.647	266	110	0	1	266	1	266	movement protein NS4 [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	AAB69770.1	58.647	266	110	0	1	266	1	266	pc4 [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	YP_009507914.1	59.398	266	108	0	1	266	1	266	unknown [Urochloa hoja blanca tenuivirus]	Urochloa hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QZU27244.1	57.736	265	112	0	1	265	1	265	pc4 [Wheat white spike virus]	Wheat white spike virus	Viruses
+TenuiNS4_HMM	YP_009508263.1	59.398	266	108	0	1	266	1	266	putative [Echinochloa hoja blanca tenuivirus]	Echinochloa hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QFU20003.1	47.015	268	138	2	1	265	1	267	pC4 [European wheat striate mosaic virus]	European wheat striate mosaic virus	Viruses
+TenuiNS4_HMM	QFU19995.1	47.388	268	137	2	1	265	1	267	pC4 [European wheat striate mosaic virus]	European wheat striate mosaic virus	Viruses
+TenuiNS4_HMM	ASR74685.1	60.504	119	47	0	148	266	1	119	nonstructural protein, partial [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	AIK24646.1	28.365	208	145	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24581.1	28.856	201	140	2	45	245	74	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24569.1	27.885	208	146	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24703.1	27.885	208	146	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24657.1	27.885	208	146	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	BAA86112.1	27.885	208	146	3	39	245	67	271	p6vc [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24692.1	28.365	208	145	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	NP_058538.1	27.404	208	147	3	39	245	67	271	36.4K protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24614.1	27.404	208	147	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AAG01164.1	26.923	208	148	3	39	245	67	271	36.4K protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24680.1	27.885	208	146	3	39	245	67	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	QRK69444.1	22.460	187	132	3	50	232	33	210	non-structural protein 4 [Solenopsis invicta virus 14]	Solenopsis invicta virus 14	Viruses
+TenuiNS4_HMM	QRK69446.1	22.460	187	132	3	50	232	33	210	non-structural protein 4 [Solenopsis invicta virus 14]	Solenopsis invicta virus 14	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 2
+# Query: TenuiNS4_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 83 hits found
+TenuiNS4_HMM	YP_009507914.1	59.398	266	108	0	1	266	1	266	unknown [Urochloa hoja blanca tenuivirus]	Urochloa hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	YP_009449444.1	58.647	266	110	0	1	266	1	266	movement protein NS4 [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	AAB69770.1	58.647	266	110	0	1	266	1	266	pc4 [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QWQ49844.1	62.264	265	100	0	1	265	1	265	putative cell-to-cell movement protein [Festuca stripe-associated virus]	Festuca stripe-associated virus	Viruses
+TenuiNS4_HMM	YP_009507895.1	61.887	265	101	0	1	265	1	265	pc4 protein [Iranian wheat stripe tenuivirus]	Iranian wheat stripe tenuivirus	Viruses
+TenuiNS4_HMM	QZU27244.1	57.736	265	112	0	1	265	1	265	pc4 [Wheat white spike virus]	Wheat white spike virus	Viruses
+TenuiNS4_HMM	YP_009508263.1	59.398	266	108	0	1	266	1	266	putative [Echinochloa hoja blanca tenuivirus]	Echinochloa hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	AAX85944.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40349.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAF43723.1	99.248	266	2	0	1	266	1	266	VCP4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ABM55686.1	98.872	266	3	0	1	266	1	266	VCP4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40774.1	98.872	266	3	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85946.1	99.248	266	2	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40772.1	98.496	266	4	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO39435.1	98.872	266	3	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX81878.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	NP_620519.1	100.000	266	0	0	1	266	1	266	32K protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40353.1	98.872	266	3	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40355.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29833.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAA71972.1	98.120	266	5	0	1	266	1	266	RNA 4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85938.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85948.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85942.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57037.1	98.496	266	4	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29827.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40347.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57049.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57041.1	98.496	266	4	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	P34961.1	98.496	266	4	0	1	266	1	266	RecName: Full=Movement protein; AltName: Full=Non-structural protein 4; Short=NS4; AltName: Full=Protein pc4 [Rice stripe virus (isolate M)]	Rice stripe virus (isolate M)	Viruses
+TenuiNS4_HMM	AAX85939.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AFM93801.1	98.496	266	4	0	1	266	1	266	MP [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57039.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57033.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58349.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57051.1	98.872	266	3	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58363.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57055.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40361.1	98.491	265	4	0	1	265	1	265	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85945.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85947.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ASA47676.1	98.120	266	5	0	1	266	1	266	NSc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI44201.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57035.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AFM93822.1	98.496	266	4	0	1	266	1	266	MP [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57043.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85940.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI44199.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40770.1	98.120	266	5	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ABC68339.1	98.120	266	5	0	1	266	1	266	pc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AWN09232.1	98.120	266	5	0	1	266	1	266	32.5 kDa protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40359.1	97.368	266	7	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAM49600.1	96.992	266	8	0	1	266	1	266	VCP4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29835.1	97.744	266	6	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58370.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57603.1	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57585.1	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57601.1	76.692	266	62	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57591.2	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	YP_009507901.1	77.068	266	61	0	1	266	1	266	NS4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QYU75392.1	76.316	266	63	0	1	266	1	266	nonstructural protein 4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57587.1	76.692	266	62	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QYU75377.1	76.316	266	63	0	1	266	1	266	nonstructural protein 4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QFU20003.1	47.015	268	138	2	1	265	1	267	pC4 [European wheat striate mosaic virus]	European wheat striate mosaic virus	Viruses
+TenuiNS4_HMM	QFU19995.1	47.388	268	137	2	1	265	1	267	pC4 [European wheat striate mosaic virus]	European wheat striate mosaic virus	Viruses
+TenuiNS4_HMM	ANE23714.1	98.421	190	3	0	27	216	1	190	NSvc4, partial [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ANE23715.1	97.895	190	4	0	27	216	1	190	NSvc4, partial [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AIK24646.1	28.230	209	146	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24581.1	28.230	209	146	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24657.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24569.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24703.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	BAA86112.1	27.751	209	147	3	38	245	66	271	p6vc [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	NP_058538.1	27.273	209	148	3	38	245	66	271	36.4K protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24692.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24614.1	27.273	209	148	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24680.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AAG01164.1	26.794	209	149	3	38	245	66	271	36.4K protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	QRK69444.1	21.287	202	144	4	50	247	33	223	non-structural protein 4 [Solenopsis invicta virus 14]	Solenopsis invicta virus 14	Viruses
+TenuiNS4_HMM	QRK69446.1	21.287	202	144	4	50	247	33	223	non-structural protein 4 [Solenopsis invicta virus 14]	Solenopsis invicta virus 14	Viruses
+TenuiNS4_HMM	ASR74685.1	60.504	119	47	0	148	266	1	119	nonstructural protein, partial [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QLJ83471.1	17.290	214	158	4	22	224	6	211	nonstructural protein 4 [Fitzroy Crossing tenui-like virus 1]	Fitzroy Crossing tenui-like virus 1	Viruses
+TenuiNS4_HMM	QPZ88449.1	24.088	137	102	1	108	244	90	224	putative non-structural 4 protein [Soybean thrips-associated tenui-like virus 1]	Soybean thrips-associated tenui-like virus 1	Viruses
+# PSIBLAST 2.11.0+
+# Iteration: 3
+# Query: TenuiNS4_HMM
+# Database: nr
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, subject title, subject sci name, subject super kingdom
+# 83 hits found
+TenuiNS4_HMM	YP_009507914.1	59.398	266	108	0	1	266	1	266	unknown [Urochloa hoja blanca tenuivirus]	Urochloa hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	YP_009449444.1	58.647	266	110	0	1	266	1	266	movement protein NS4 [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	AAB69770.1	58.647	266	110	0	1	266	1	266	pc4 [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QWQ49844.1	62.264	265	100	0	1	265	1	265	putative cell-to-cell movement protein [Festuca stripe-associated virus]	Festuca stripe-associated virus	Viruses
+TenuiNS4_HMM	YP_009507895.1	61.887	265	101	0	1	265	1	265	pc4 protein [Iranian wheat stripe tenuivirus]	Iranian wheat stripe tenuivirus	Viruses
+TenuiNS4_HMM	YP_009508263.1	59.398	266	108	0	1	266	1	266	putative [Echinochloa hoja blanca tenuivirus]	Echinochloa hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QZU27244.1	57.736	265	112	0	1	265	1	265	pc4 [Wheat white spike virus]	Wheat white spike virus	Viruses
+TenuiNS4_HMM	AAX85944.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85946.1	99.248	266	2	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40774.1	98.872	266	3	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ABM55686.1	98.872	266	3	0	1	266	1	266	VCP4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40349.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO39435.1	98.872	266	3	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40355.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40353.1	98.872	266	3	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85938.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAF43723.1	99.248	266	2	0	1	266	1	266	VCP4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX81878.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAA71972.1	98.120	266	5	0	1	266	1	266	RNA 4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57049.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85942.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29833.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40347.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57037.1	98.496	266	4	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57041.1	98.496	266	4	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85948.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40772.1	98.496	266	4	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	P34961.1	98.496	266	4	0	1	266	1	266	RecName: Full=Movement protein; AltName: Full=Non-structural protein 4; Short=NS4; AltName: Full=Protein pc4 [Rice stripe virus (isolate M)]	Rice stripe virus (isolate M)	Viruses
+TenuiNS4_HMM	AJB29827.1	98.496	266	4	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	NP_620519.1	100.000	266	0	0	1	266	1	266	32K protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57051.1	98.872	266	3	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85939.1	98.496	266	4	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57033.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58349.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AFM93801.1	98.496	266	4	0	1	266	1	266	MP [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57039.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AFM93822.1	98.496	266	4	0	1	266	1	266	MP [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58363.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85947.1	98.872	266	3	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57035.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85945.1	98.120	266	5	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57055.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAX85940.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI44201.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40361.1	98.491	265	4	0	1	265	1	265	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACR57043.1	98.120	266	5	0	1	266	1	266	NSvc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI44199.1	98.120	266	5	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ASA47676.1	98.120	266	5	0	1	266	1	266	NSc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ABC68339.1	98.120	266	5	0	1	266	1	266	pc4 [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAO40770.1	98.120	266	5	0	1	266	1	266	NSVC4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AWN09232.1	98.120	266	5	0	1	266	1	266	32.5 kDa protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	CAI40359.1	97.368	266	7	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AAM49600.1	96.992	266	8	0	1	266	1	266	VCP4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57603.1	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	AJB29835.1	97.744	266	6	0	1	266	1	266	putative movement protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57585.1	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57601.1	76.692	266	62	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57591.2	77.068	266	61	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	YP_009507901.1	77.068	266	61	0	1	266	1	266	NS4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QXN57587.1	76.692	266	62	0	1	266	1	266	putative movement protein [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QYU75392.1	76.316	266	63	0	1	266	1	266	nonstructural protein 4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	QYU75377.1	76.316	266	63	0	1	266	1	266	nonstructural protein 4 [Maize stripe tenuivirus]	Maize stripe tenuivirus	Viruses
+TenuiNS4_HMM	ACG58370.1	97.744	266	6	0	1	266	1	266	NSvc4 protein [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	QFU20003.1	47.015	268	138	2	1	265	1	267	pC4 [European wheat striate mosaic virus]	European wheat striate mosaic virus	Viruses
+TenuiNS4_HMM	QFU19995.1	47.388	268	137	2	1	265	1	267	pC4 [European wheat striate mosaic virus]	European wheat striate mosaic virus	Viruses
+TenuiNS4_HMM	ANE23714.1	98.421	190	3	0	27	216	1	190	NSvc4, partial [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	ANE23715.1	97.895	190	4	0	27	216	1	190	NSvc4, partial [Rice stripe tenuivirus]	Rice stripe tenuivirus	Viruses
+TenuiNS4_HMM	AIK24646.1	28.230	209	146	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24657.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24569.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24703.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	BAA86112.1	27.751	209	147	3	38	245	66	271	p6vc [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	NP_058538.1	27.273	209	148	3	38	245	66	271	36.4K protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24692.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24614.1	27.273	209	148	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24581.1	28.230	209	146	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AIK24680.1	27.751	209	147	3	38	245	66	271	movement protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	AAG01164.1	26.794	209	149	3	38	245	66	271	36.4K protein [Rice grassy stunt tenuivirus]	Rice grassy stunt tenuivirus	Viruses
+TenuiNS4_HMM	QRK69444.1	18.468	222	166	3	26	247	17	223	non-structural protein 4 [Solenopsis invicta virus 14]	Solenopsis invicta virus 14	Viruses
+TenuiNS4_HMM	QRK69446.1	18.468	222	166	3	26	247	17	223	non-structural protein 4 [Solenopsis invicta virus 14]	Solenopsis invicta virus 14	Viruses
+TenuiNS4_HMM	QLJ83471.1	17.290	214	158	4	22	224	6	211	nonstructural protein 4 [Fitzroy Crossing tenui-like virus 1]	Fitzroy Crossing tenui-like virus 1	Viruses
+TenuiNS4_HMM	ASR74685.1	60.504	119	47	0	148	266	1	119	nonstructural protein, partial [Rice hoja blanca tenuivirus]	Rice hoja blanca tenuivirus	Viruses
+TenuiNS4_HMM	QPZ88449.1	18.468	222	178	2	25	245	6	225	putative non-structural 4 protein [Soybean thrips-associated tenui-like virus 1]	Soybean thrips-associated tenui-like virus 1	Viruses
+
+Search has CONVERGED!
+# BLAST processed 3 queries
