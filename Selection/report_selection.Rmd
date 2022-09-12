@@ -1,0 +1,333 @@
+---
+title: "Report Selection"
+author: "Esmeralda García Legarda"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+    number_sections: false
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{css, echo = FALSE}
+ body{
+  font-family: Helvetica, Arial;
+  font-size: 12pt;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #16807e;
+    font-family: Impact, Arial Black;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: #16807e;
+}
+div.main-container {
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+```
+
+<div style="text-align: justify">
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(DT)
+library(ggVennDiagram)
+```
+
+
+
+&nbsp;
+
+## Statistical Models and Bioinformatics Tools
+
+&nbsp;
+
+**Summary of the results:**
+
+The secondary structures are those predicted by PSI-PRED. They will be based on the 3D-structure soon. 
+
+<img src="/Users/esmeralda/Documents/TFM/RevTrans/summary_selection.svg" width="1000">
+
+&nbsp;
+
+
+### Phylogeny
+
+This is the phylogeny used to apply the different methods. Previously, I ran Jmodeltest2 with an alignment of the whole genomes to know which could be the best model and, as a result, the tree was generated with TIM2+I+G and bootstrap = 100.
+
+<img src="/Users/esmeralda/Documents/TFM/RevTrans/with_tree/capture_tree.png" width="800">
+
+&nbsp;
+
+### Individual Site Models AND co-evolution methods: P22 {.tabset}
+
+#### FEL
+
+FEL (Fixed EffectsLikelihood) uses a maximum-likelihood (ML) approach to infer nonsynoymous (dN) and synonymous (dS) substitution rates on a per-site basis for a given coding alignment and corresponding phylogeny. This method assumes that the selection pressure for each site is constant along the entire phylogeny.
+
+<img src="/Users/esmeralda/Documents/TFM/RevTrans/programmes/FEL/FEL_summary.png" width="1000">
+<img src="/Users/esmeralda/Documents/TFM/RevTrans/programmes/FEL/visualization.svg" width="1000">
+
+```{r}
+FEL.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes/FEL/codons.csv", sep = ",", header = TRUE)
+DT::datatable(FEL.all,
+              rownames = FEL.all$Codon,
+              caption = "Table 1. Detailed site-by-site results from the FEL analysis. Site classification at p<=0.1")
+```
+
+alpha: Synonymous substitution rate at a site
+beta: Non-synonymous substitution rate at a site
+alpha=beta: The rate estimate under the neutral model
+LRT: Likelihood ratio test statistic for beta = alpha, versus beta &neq; alpha
+p-value: Asymptotic p-value for evidence of selection, i.e. beta &neq; alpha
+
+
+#### FUBAR
+
+FUBAR (Fast, UnconstrainedBayesian AppRoximation) uses a Bayesian approach to infer nonsynoymous (dN) and synonymous (dS) substitution rates on a per-site basis for a given coding alignment and corresponding phylogeny. This method assumes that the selection pressure for each site is constant along the entire phylogeny.
+
+FUBAR found evidence of (+) pervasive positive/diversifying selection at 6 sites and (-) pervasive negative/purifying selection at 75 sites with posterior probability of 0.9.
+
+
+```{r}
+FUBAR.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes/FUBAR/datamonkey-table.csv", sep = ",", header = TRUE)
+DT::datatable(FUBAR.all,
+              colnames = c("Site","Partition","α","β","β-α","Prob[α>β]","Prob[α<β]","BayesFactor[α<β]"),
+              rownames = FUBAR.all$Site,
+              caption = "Table 1. Detailed site-by-site results from the FUBAR analysis. Evidence with posterior probability of 0.9")
+```
+
+
+alpha: Mean posterior synonymous substitution rate at a site
+beta: Mean posterior non-synonymous substitution rate at a site
+beta-alpha: mean posterior beta-alpha
+Prob[alpha>beta]: Posterior probability of negative selection at a site
+Prob[alpha<beta]: Posterior probability of positive selection at a site
+BayesFactor[alpha<beta]: Empiricial Bayes Factor for positive selection at a site
+
+
+#### SLAC
+
+SLAC (Single-Likelihood Ancestor Counting) uses a combination of maximum-likelihood (ML) and counting approaches to infer nonsynonymous (dN) and synonymous (dS) substitution rates on a per-site basis for a given coding alignment and corresponding phylogeny. Like FEL, this method assumes that the selection pressure for each site is constant along the entire phylogeny.
+
+SLAC found evidence of pervasive
+
+(+) positive/diversifying selection at 2 sites
+
+(-) negative/purifying selection at 59 sites
+
+with p-value threshold of 0.1.
+
+
+```{r}
+SLAC.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes/SLAC/data.csv", sep = ";", header = TRUE)
+DT::datatable(SLAC.all,
+              rownames = SLAC.all$Codon,
+              caption = "Table 1. Detailed site-by-site results from the SLAC analysis. Site classification at p<=0.1")
+```
+
+
+#### MEME
+
+MEME (Mixed EffectsModel of Evolution) employs a mixed-effects maximum likelihood approach to test the hypothesis that individual sites have been subject to episodic positive or diversifying selection. In other words, MEME aims to detect sites evolving under positive selection under a proportion of branches.
+
+MEME found evidence of (+) episodic positive/diversifying selection at 12 sites with p-value threshold of 0.1.
+
+```{r}
+MEME.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes/MEME/datamonkey-table.csv", sep = ",", header = TRUE)
+DT::datatable(MEME.all,
+              colnames = c("Site","Partition","α","β-", "p-","β+","p+", "LTR","p-value", "# branches under selection", "Total branch length ","MEME logL","FEL logL"),
+              rownames = MEME.all$Site,
+              caption = "Table 1. Detailed site-by-site results from the MEME analysis. Evidence with posterior probability of 0.9")
+```
+
+
+#### BGM
+
+The Bayesian Graphical Model (BGM) method is a tool for detecting coevolutionary interactions between amino acid positions in a protein. This method is similar to the "correlated substitutions" method described by Shindyalov et al. 1994, in which amino acid substitution events are mapped to branches in the phylogenetic tree. BGM uses a method similar to SLAC, where amino acid substitution events are mapped to the tree from the ancestral reconstruction under joint maximum likelihood for a given model of codon substitution rates.
+
+BGM found 18 pairs of co-evolving sites (posterior probability >= 0.5), 2 pairs of co-evolving sites (posterior probability >= 0.9).
+
+
+```{r}
+BGM.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes/BGM/datamonkey-table.csv", sep = ",", header = TRUE)
+DT::datatable(BGM.all,
+              colnames = c("Site 1","Site 2","P[Site 1 –> Site 2]","P [Site 2 –> Site 1]", "P[Site 1 <–> Site 2]","Site 1 subs","Site 2 subs", "Shared subs"),
+              rownames = BGM.all$Site,
+              caption = "Table 1. Detailed site-by-site results from the BGM analysis.Evidence with posterior probability of 0.5")
+```
+
+
+#### Summary
+
+These results include sites which were obtained at least by two methods. 
+
+
+```{r}
+fubar.sig <- FUBAR.all$Site[FUBAR.all$Prob..alpha...beta.. > 0.9 | FUBAR.all$Prob..alpha...beta...1 > 0.9]
+meme.sig <- MEME.all$Site[MEME.all$p.value < 0.1]
+
+inter1 <- intersect(FEL.all$Codon, SLAC.all$Codon)
+inter2 <- intersect(MEME.all$Site[MEME.all$p.value < 0.1], SLAC.all$Codon)
+inter3 <- intersect(MEME.all$Site[MEME.all$p.value < 0.1], FEL.all$Codon)
+inter4 <- intersect(fubar.sig, FEL.all$Codon)
+inter5 <- intersect(fubar.sig, SLAC.all$Codon)
+inter6 <- intersect(fubar.sig, MEME.all$Site[MEME.all$p.value < 0.1])
+
+sites <- sort(Reduce(union, list(inter1, inter2, inter3, inter4, inter5, inter6)))
+sites
+length(sites)
+```
+
+&nbsp;
+
+&nbsp;
+
+### Individual Site Models AND co-evolution methods: P19 {.tabset}
+
+#### FEL
+
+FEL (Fixed EffectsLikelihood) uses a maximum-likelihood (ML) approach to infer nonsynoymous (dN) and synonymous (dS) substitution rates on a per-site basis for a given coding alignment and corresponding phylogeny. This method assumes that the selection pressure for each site is constant along the entire phylogeny.
+
+<img src="/Users/esmeralda/Documents/TFM/RevTrans/programmes_over/FEL/summary.png" width="1000">
+<img src="/Users/esmeralda/Documents/TFM/RevTrans/programmes_over/FEL/visualization.svg" width="1000">
+
+```{r}
+FEL.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes_over/FEL/data.csv", sep = ";", header = TRUE)
+DT::datatable(FEL.all,
+              rownames = FEL.all$Codon,
+              caption = "Table 1. Detailed site-by-site results from the FEL analysis. Site classification at p<=0.1")
+```
+
+alpha: Synonymous substitution rate at a site
+beta: Non-synonymous substitution rate at a site
+alpha=beta: The rate estimate under the neutral model
+LRT: Likelihood ratio test statistic for beta = alpha, versus beta &neq; alpha
+p-value: Asymptotic p-value for evidence of selection, i.e. beta &neq; alpha
+
+
+#### FUBAR
+
+FUBAR (Fast, UnconstrainedBayesian AppRoximation) uses a Bayesian approach to infer nonsynoymous (dN) and synonymous (dS) substitution rates on a per-site basis for a given coding alignment and corresponding phylogeny. This method assumes that the selection pressure for each site is constant along the entire phylogeny.
+
+FUBAR found evidence of (+) pervasive positive/diversifying selection at 38 sites and (-) pervasive negative/purifying selection at 14 sites with posterior probability of 0.9.
+
+
+```{r}
+FUBAR.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes_over/FUBAR/datamonkey-table.csv", sep = ",", header = TRUE)
+DT::datatable(FUBAR.all,
+              colnames = c("Site","Partition","α","β","β-α","Prob[α>β]","Prob[α<β]","BayesFactor[α<β]"),
+              rownames = FUBAR.all$Site,
+              caption = "Table 1. Detailed site-by-site results from the FUBAR analysis. Evidence with posterior probability of 0.9")
+```
+
+alpha: Mean posterior synonymous substitution rate at a site
+beta: Mean posterior non-synonymous substitution rate at a site
+beta-alpha: mean posterior beta-alpha
+Prob[alpha>beta]: Posterior probability of negative selection at a site
+Prob[alpha<beta]: Posterior probability of positive selection at a site
+BayesFactor[alpha<beta]: Empiricial Bayes Factor for positive selection at a site
+
+
+#### SLAC
+
+SLAC (Single-Likelihood Ancestor Counting) uses a combination of maximum-likelihood (ML) and counting approaches to infer nonsynonymous (dN) and synonymous (dS) substitution rates on a per-site basis for a given coding alignment and corresponding phylogeny. Like FEL, this method assumes that the selection pressure for each site is constant along the entire phylogeny.
+
+SLAC found evidence of pervasive
+
+(+) positive/diversifying selection at 11 sites
+
+(-) negative/purifying selection at 12 sites
+
+with p-value threshold of 0.1.
+
+
+```{r}
+SLAC.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes_over/SLAC/data.csv", sep = ";", header = TRUE)
+DT::datatable(SLAC.all,
+              rownames = SLAC.all$Codon,
+              caption = "Table 1. Detailed site-by-site results from the SLAC analysis. Site classification at p<=0.1")
+```
+
+
+#### MEME
+
+MEME (Mixed EffectsModel of Evolution) employs a mixed-effects maximum likelihood approach to test the hypothesis that individual sites have been subject to episodic positive or diversifying selection. In other words, MEME aims to detect sites evolving under positive selection under a proportion of branches.
+
+MEME found evidence of (+) episodic positive/diversifying selection at 39 sites with p-value threshold of 0.1.
+
+```{r}
+MEME.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes_over/MEME/datamonkey-table.csv", sep = ",", header = TRUE)
+DT::datatable(MEME.all,
+              colnames = c("Site","Partition","α","β-", "p-","β+","p+", "LTR","p-value", "# branches under selection", "Total branch length ","MEME logL]","FEL logL"),
+              rownames = MEME.all$Site,
+              caption = "Table 1. Detailed site-by-site results from the MEME analysis. Evidence with posterior probability of 0.9")
+```
+
+
+#### BGM
+
+The Bayesian Graphical Model (BGM) method is a tool for detecting coevolutionary interactions between amino acid positions in a protein. This method is similar to the "correlated substitutions" method described by Shindyalov et al. 1994, in which amino acid substitution events are mapped to branches in the phylogenetic tree. BGM uses a method similar to SLAC, where amino acid substitution events are mapped to the tree from the ancestral reconstruction under joint maximum likelihood for a given model of codon substitution rates.
+
+BGM found 18 pairs of co-evolving sites (posterior probability >= 0.5), 2 pairs of co-evolving sites (posterior probability >= 0.9).
+
+
+```{r}
+BGM.all <- read.csv(file = "/Users/esmeralda/Documents/TFM/RevTrans/programmes/BGM/datamonkey-table.csv", sep = ",", header = TRUE)
+DT::datatable(BGM.all,
+              colnames = c("Site 1","Site 2","P[Site 1 –> Site 2]","P [Site 2 –> Site 1]", "P[Site 1 <–> Site 2]","Site 1 subs","Site 2 subs", "Shared subs"),
+              rownames = BGM.all$Site,
+              caption = "Table 1. Detailed site-by-site results from the BGM analysis. Evidence with posterior probability of 0.5")
+```
+
+
+
+#### Summary
+
+These results include sites which were obtained at least by two methods.
+
+```{r}
+fubar.sig <- FUBAR.all$Site[FUBAR.all$Prob..alpha...beta.. > 0.9 | FUBAR.all$Prob..alpha...beta...1 > 0.9]
+meme.sig <- MEME.all$Site[MEME.all$p.value < 0.1]
+
+inter1 <- intersect(FEL.all$Codon, SLAC.all$Codon)
+inter2 <- intersect(MEME.all$Site[MEME.all$p.value < 0.1], SLAC.all$Codon)
+inter3 <- intersect(MEME.all$Site[MEME.all$p.value < 0.1], FEL.all$Codon)
+inter4 <- intersect(fubar.sig, FEL.all$Codon)
+inter5 <- intersect(fubar.sig, SLAC.all$Codon)
+inter6 <- intersect(fubar.sig, MEME.all$Site[MEME.all$p.value < 0.1])
+
+sites <- sort(Reduce(union, list(inter1, inter2, inter3, inter4, inter5, inter6)))
+sites
+length(sites)
+```
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

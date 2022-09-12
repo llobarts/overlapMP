@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BGM (Bayesian Graphical Model) uses a maximum likelihood ancestral state
+reconstruction to map substitution (non-synonymous only for coding data)
+events to branches in the phylogeny and then analyzes the joint
+distribution of the substitution map using a Bayesian graphical model
+(network). Next, a Markov chain Monte Carlo analysis is used to generate
+a random sample of network structures from the posterior distribution
+given the data. Each node in the network represents a codon site in the
+alignment, and links (edges) between nodes indicate high posterior
+support for correlated substitutions at the two sites over time, which
+implies coevolution.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Spidermonkey: rapid detection of co-evolving sites using Bayesian
+graphical models (2008). _Bioinformatics_ 24(17): 1949-1950
+
+- __Written by__: Art FY Poon, Fraser I Lewis, Simon DW Frost and Sergei L Kosakovsky Pond
+
+- __Contact Information__: apoon42@uwo.ca
+
+- __Analysis Version__: 1.2
+
+
+>type –> codon
+
+>code –> Universal
+
+
+### Loaded **33** codon sequences, **173** sites, from `/home/datamonkey/datamonkey-js-server/production/app/bgm/output/62a77ab1925b0370fdb5f3b9`
+
+> BGM will write result file to /home/datamonkey/datamonkey-js-server/production/app/bgm/output/62a77ab1925b0370fdb5f3b9.BGM.json
+
+
+>branches –> All
+
+>Select the number of MCMC steps to sample (permissible range = [0,1000000000], default value = 100000, integer): 
+>steps –> 100000
+
+>Select the number of MCMC steps to discard as burn-in (permissible range = [0,1000000000], default value = 10000, integer): 
+>burn-in –> 10000
+
+>Select the number of steps to extract from the chain sample (permissible range = [100,90000], default value = 100, integer): 
+>samples –> 100
+
+>Select the maximum number of parents allowed per node (permissible range = [1,3], default value = 1, integer): 
+>max-parents –> 1
+
+>Select the minimum number of substitutions per site to include it in the analysis (permissible range = [1,100000], default value = 1, integer): 
+>min-subs –> 1
+
+
+### Performing initial model fit to obtain branch lengths and rate parameters
+Fitting nucleotide GTR to obtain branch length estimates
+>Fitted an alignment-wide GTR model. Log(L) = -3769.01, AIC-c =  7681.84 (71 estimated parameters)
+>Fitted an alignment-wide model. Log(L) = -3721.10, AIC-c =  7600.39 (78 estimated parameters)
+
+Total tree lengths by partition
+
+Partition 1.  1.388 subs/site.
+
+### Performing joint ancestral state reconstruction and mapping substitutions
+
+### Inferring a BGM on 98 nodes [sites]

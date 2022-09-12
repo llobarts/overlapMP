@@ -1,0 +1,91 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.1.2
+
+
+>code –> Universal
+>Loaded a multiple sequence alignment with **33** sequences, **173** codons, and **1** partitions from `/home/datamonkey/datamonkey-js-server/production/app/meme/output/62a77a74925b0370fdb5f36b`
+
+>branches –> All
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 
+>pvalue –> 0.1
+
+>[Advanced setting, will result in MUCH SLOWER run time] Perform parametric bootstrap resampling to derive site-level null LRT distributions up to this many replicates per site. Recommended use for small to medium (<30 sequences) datasets (permissible range = [0,1000], default value = 50, integer): 
+>resample –> 0
+
+
+### Branches to include in the MEME analysis
+Selected 63 branches to include in the MEME analysis: `QWC36212_1_TBSVP22_PELARGONIUM_NECROTIC_SPOT_VIRUS, BCH36665_1_TBSVP22_SITKE_WATERBORNE_VIRUS, BCH36670_1_TBSVP22_SITKE_WATERBORNE_VIRUS, Node15, NP_040956_1_TBSVP22_CUCUMBER_NECROSIS_VIRUS, Node14, UBZ25482_1_TBSVP22_NECKAR_RIVER_VIRUS, Node13, NP_835256_1_TBSVP22_CUCUMBER_BULGARIAN_LATENT_VIRUS, Node12, QVX32683_1_TBSVP22_CYMBIDIUM_RINGSPOT_VIRUS, NP_613263_1_TBSVP22_CYMBIDIUM_RINGSPOT_VIRUS, Node22, BBD13997_1_TBSVP22_GENTIAN_VIRUS_A, Node21, Node11, QYA72593_1_TBSVP22_GRAPEVINE_ALGERIAN_LATENT_VIRUS, YP_002308432_1_TBSVP22_GRAPEVINE_ALGERIAN_LATENT_VIRUS, Node27, AHZ12759_1_TBSVP22_GRAPEVINE_ALGERIAN_LATENT_VIRUS, Node26, Node10, QXV86641_1_TBSVP22_TOMBUSVIRIDAE_SP, AAY98783_1_TBSVP22_LISIANTHUS_NECROSIS_VIRUS, AAM49805_1_TBSVP22_PEAR_LATENT_VIRUS, Node34, YP_008999614_1_TBSVP22_EGGPLANT_MOTTLED_CRINKLE_VIRUS, Node33, Node31, Node9, AFM91107_1_TBSVP22_MOROCCAN_PEPPER_VIRUS, YP_009037609_1_TBSVP22_MOROCCAN_PEPPER_VIRUS, Node39, BAN92403_1_TBSVP22_MOROCCAN_PEPPER_VIRUS, Node38, Node8, CAB56482_1_TBSVP22_TOMATO_BUSHY_STUNT_VIRUS, QYA72475_1_TBSVP22_TOMATO_BUSHY_STUNT_VIRUS, QOP59260_1_TBSVP22_TOMATO_BUSHY_STUNT_VIRUS, Node47, QVX32678_1_TBSVP22_TOMATO_BUSHY_STUNT_VIRUS, Node46, Node44, AAT67234_1_TBSVP22_TOMATO_BUSHY_STUNT_VIRUS, Node43, Node7, NP_062900_1_TBSVP22_TOMATO_BUSHY_STUNT_VIRUS, NP_039811_1_TBSVP22_ARTICHOKE_MOTTLED_CRINKLE_VIRUS, Node52, Node6, ALJ30186_1_TBSVP22_CARNATION_ITALIAN_RINGSPOT_VIRUS, BCH68494_1_TBSVP22_CARNATION_ITALIAN_RINGSPOT_VIRUS, Node55, Node5, ACX53273_1_TBSVP22_CARNATION_ITALIAN_RINGSPOT_VIRUS, ACX53283_1_TBSVP22_CARNATION_ITALIAN_RINGSPOT_VIRUS, Node58, Node4, NP_612583_1_TBSVP22_CARNATION_ITALIAN_RINGSPOT_VIRUS, Node3, YP_009259670_1_TBSVP22_PELARGONIUM_LEAF_CURL_VIRUS, Node2, NP_945117_1_TBSVP22_PELARGONIUM_NECROTIC_SPOT_VIRUS`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths –> Yes
+
+### Deleted 7 zero-length internal branches: `Node11, Node13, Node3, Node31, Node34, Node5, Node6`
+* Log(L) = -3769.01, AIC-c =  7680.62 (71 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  1.375
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -3722.04, AIC-c =  7587.90 (71 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  1.388
+* non-synonymous/synonymous rate ratio for *test* =   1.5285
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+
+>full-model –> Yes
+* Log(L) = -3721.10
+* non-synonymous/synonymous rate ratio for *test* =   1.5688
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |Most common codon substitutions at this site|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|:------------------------------------------:|
+|     47     |     1      |    0.000   |    4.503   |    0.960   |    3.405   |      Yes, p =  0.0863      |     5      |       [2]AGT>GAT,GAT>AGT|[1]AGT>TGT        |
+|     25     |     1      |    0.000   |    4.509   |    1.000   |    4.815   |      Yes, p =  0.0415      |     4      |           [6]GGT>AGT|[2]GGT>GAT            |
+|     40     |     1      |    0.000   |   10.196   |    1.000   |    7.994   |      Yes, p =  0.0081      |     7      |[2]ACT>GCT,CAT>TAT|[1]ACT>AAT,ACT>CAT,CAT...|
+|     20     |     1      |    0.000   |   12.857   |    0.209   |    3.974   |      Yes, p =  0.0642      |     1      |           [2]GAT>AAT|[1]GAT>ACA            |
+|     49     |     1      |    0.000   |    7.125   |    0.852   |    8.604   |      Yes, p =  0.0060      |     6      |      [3]GAG>ACG|[2]ACG>GAG|[1]ACG>AAG      |
+|     7      |     1      |    0.000   |   22.493   |    0.123   |    8.157   |      Yes, p =  0.0075      |     2      |             [1]GGA>ACA,GGA>AGA             |
+|     50     |     1      |    0.000   |    5.177   |    1.000   |    3.975   |      Yes, p =  0.0641      |     6      |[3]AGT>AAT|[2]AAT>AGT,AAT>ATT|[1]AAT>GAT,...|
+|     4      |     1      |    0.000   |   13.806   |    0.510   |    9.035   |      Yes, p =  0.0048      |     3      |       [3]GCT>ACT|[2]GCT>ATT,GCT>GTT        |
+|     51     |     1      |    0.000   |   19.751   |    0.473   |   14.656   |      Yes, p =  0.0003      |     5      |   [2]GAG>CCG,TCG>GAG|[1]GAG>TCG,TCG>CCG    |
+|     78     |     1      |    0.000   |    2.501   |    1.000   |    3.687   |      Yes, p =  0.0745      |     3      |       [2]AGG>GGG|[1]GGG>AGG,GGG>TGG        |
+|     62     |     1      |    0.000   |    8.444   |    0.088   |    4.525   |      Yes, p =  0.0482      |     1      |                 [1]AGC>GTC                 |
+|     64     |     1      |    0.000   |    4.647   |    1.000   |    4.371   |      Yes, p =  0.0522      |     2      |[4]AGT>GGT|[1]AGT>TGT,GGT>AGT,GGT>TGT,TGT...|
+|     74     |     1      |    0.000   |    7.823   |    0.490   |    7.439   |      Yes, p =  0.0108      |     3      |             [2]CTC>TAC,CTC>TTC             |
+|     39     |     1      |    3.380   |   34.777   |    0.221   |    4.177   |      Yes, p =  0.0577      |     4      |[1]CTC>AGG,CTC>CTT,CTC>TGG,TGG>CTC,TGG>TT...|
+|     94     |     1      |    0.000   |    3.934   |    1.000   |    5.854   |      Yes, p =  0.0243      |     4      |           [4]TCG>ACG|[1]ACG>TCG            |
+|     92     |     1      |    0.000   |    2.652   |    1.000   |    3.507   |      Yes, p =  0.0818      |     5      |           [3]AGA>GGA|[2]GGA>AGA            |
+|     81     |     1      |    0.000   |   25.063   |    0.295   |    8.409   |      Yes, p =  0.0066      |     3      |                 [6]ACT>GCT                 |
+|     9      |     1      |    1.895   |  1484.107  |    0.022   |    9.096   |      Yes, p =  0.0047      |     1      |     [1]GAC>AAC,GAC>CAA,GAC>CAC,GAC>GAT     |
+|     93     |     1      |    0.000   |    9.339   |    0.487   |    4.206   |      Yes, p =  0.0569      |     5      |       [4]GAT>AAT|[1]AAT>GAT,GAT>AGT        |
+|     97     |     1      |    0.000   |    6.321   |    1.000   |    4.597   |      Yes, p =  0.0464      |     5      |[4]GAT>AAT|[2]TAT>GAT|[1]AAT>TAT,GAT>ACT,...|
+|     77     |     1      |    0.000   |  138.724   |    0.025   |    3.277   |      Yes, p =  0.0923      |     1      |                 [1]GAC>GGC                 |
+|    108     |     1      |    0.000   |    3.474   |    0.961   |    5.855   |      Yes, p =  0.0243      |     4      |           [4]ATC>GTC|[1]ATC>CGC            |
+|    106     |     1      |    0.000   |    7.293   |    1.000   |    6.640   |      Yes, p =  0.0162      |     4      |[3]AAC>GAC|[2]GGC>AAC,GGC>AGC|[1]AAC>GGC,...|
+|    119     |     1      |    0.000   |    8.165   |    1.000   |    9.127   |      Yes, p =  0.0046      |     7      |[2]GTT>TCT,TCT>ACT|[1]GTT>ATT,TCT>ATT,TCT...|
