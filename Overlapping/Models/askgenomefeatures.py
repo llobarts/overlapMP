@@ -1,16 +1,17 @@
 import os
-import re
 import pandas as pd
 import subprocess
 
-def readfile(namefile):
-    with open("Results/temp/psiblastunion/" + namefile, "r") as filespecies:
-        num_species = filespecies.read().strip().split("\n")
-    
-    return num_species
+def idProteintoidGenome(id_protein:str):
+    """It returns the ID of the Genome that corresponds to the id of an ID
+    of a protein (accession numbers).
 
+    Args:
+        id_protein (str): ID of a protein (accession number)
 
-def idProteintoidGenome(id_protein):
+    Returns:
+        str: ID genome (accession number)
+    """
     cmd =  "elink -db protein -id '" + id_protein + "' -target nuccore | efetch\
          -format acc"
     try:
@@ -37,7 +38,17 @@ def idProteintoidGenome(id_protein):
     return id_genome
 
 
-def getinfogenome(id_genome, nameGFF):
+def getinfogenome(id_genome:str, nameGFF:str):
+    """With an ID of a genome, it retrieves the information about it, in 
+    GFF format, and writes it in a file (nameGFF).
+
+    Args:
+        id_genome (str): ID of a genome
+        nameGFF (str): processed name 
+
+    Returns:
+        bool: if the process was successfully.
+    """
     information = False
     cmd =  "esearch -db nuccore -query '" + id_genome + "' | efetch -format ft" 
     cmd = ["/bin/sh", "-c", cmd]
@@ -55,65 +66,16 @@ def getinfogenome(id_genome, nameGFF):
     return information
 
 
-def downloadinfoprotein(id_protein:str):
-
-    cmd =  "esearch -db protein -query '" + id_protein + "' | efetch -format gb"
-    cmd = ["/bin/sh", "-c", cmd]
-    gbk = subprocess.run(cmd,
-        shell=False, check=True,
-        stdout=subprocess.PIPE,
-        universal_newlines=True,
-        executable='/bin/bash').stdout.strip()
-
-    return gbk
-
-
-def getallidproteins(nameGFF):
-    cmd = "grep CDS '" + nameGFF + "' | grep RefSeq | awk -F ';' '{print $NF}' \
-        | sed s/protein_id=//"
-    cmd = ["/bin/sh", "-c", cmd]
-    id_proteins = subprocess.run(cmd,
-        shell=False, check=True,
-        stdout=subprocess.PIPE,
-        universal_newlines=True,
-        executable='/bin/bash').stdout.strip().split("\n")
-    
-    return id_proteins
-
-
-def getpathGFF(key:str) -> str:
-    """Gets the path to download the GFF file of a species.
+def getinfoprotein(id_protein:str, ft:str) -> str:
+    """It gets the information of the protein with the indicated ID.
 
     Args:
-        species (str): Name of a species
+        id_protein (str): protein ID (accession number)
+        ft (str): name of the file GFF
+
+    Returns:
+        str: information of the protein
     """
-    cmd = "esearch -db assembly -query '" + key.strip() + "' | esummary | \
-                xtract -pattern DocumentSummary -element FtpPath_RefSeq"
-    cmd = ["/bin/sh", "-c", cmd]
-    path = subprocess.run(cmd,
-        shell=False, check=True,
-        stdout=subprocess.PIPE,
-        universal_newlines=True,
-        executable='/bin/bash').stdout.strip().split("\n")[0]
-    
-    if not path.endswith(".gff"):
-        path = path + "/GCF" + path.split("GCF")[-1] + "_genomic.gff.gz"
-    
-    return path
-
-
-def downloadProjectGFF(path:str, output:str):
-    output = output + ".gz"
-    cmd = "wget " + path + " -O " + output + " && gzip -d " + output
-    cmd = ["/bin/sh", "-c", cmd]
-    subprocess.run(cmd,
-        shell=False, check=True,
-        stdout=subprocess.PIPE,
-        universal_newlines=True,
-        executable='/bin/bash')
-
-
-def getinfoprotein(id_protein:str, ft:str) -> str:
     infoprotein = ""
     num = 5
     limit = num*5
@@ -154,6 +116,14 @@ def getinfoprotein(id_protein:str, ft:str) -> str:
 
 
 def processinfo(infoprotein:str) -> dict:
+    """It process the information of a protein.
+
+    Args:
+        infoprotein (str): information from a GFF file.
+
+    Returns:
+        dict: contains features of the protein.
+    """
     chain = "+"
     features = list(filter(bool, infoprotein.split("\t")))
     element = 0
@@ -189,7 +159,18 @@ def processinfo(infoprotein:str) -> dict:
     return featuresgenome
 
 
-def listoverlapping(positions, start, end):
+def listoverlapping(positions:list, start:str, end:str):
+    """Generates a list of positions that are overlapping with the gene of the
+    protein of interest.
+
+    Args:
+        positions (list): total positions
+        start (str): start of the gene of the protein of interest.
+        end (str): end of the gene of the protein of interest.
+
+    Returns:
+        list: positions
+    """
     list_overlaps = []
     for line in positions:
         start_init = int(line.strip().split("\t")[0].replace("<", ""))
@@ -215,6 +196,16 @@ def listoverlapping(positions, start, end):
 
 
 def getpositions(nameft:str):
+    """
+    It obtains the positions of the CDSs.
+    
+    Args:
+        nameft (str): name of the GFF file.
+
+    Returns:
+        list: positions of the CDSs.
+
+    """
     cmd = """cat """ + '"' + nameft + '"' + """ | awk -F '\t' ' BEGIN { count=1 } 
     $3=="CDS" { print $0 ;  count=0 ; }
     $4~"product" || $4~"prot_desc" || $4~"transl_table" { count=1 ; }
@@ -252,6 +243,15 @@ def getpositions(nameft:str):
 
 
 def getinfopositions(i:str, nameGFF:str):
+    """Obtains the information for a CDS.
+
+    Args:
+        i (str): CDS positions.
+        nameGFF (str): file name
+
+    Returns:
+        list: features of a CDS
+    """
     cmd = "grep -A 5 '" + "\t" + i.split("\t")[-1] + "' '" + nameGFF + "'"
     cmd = ["/bin/sh", "-c", cmd]
 
@@ -277,7 +277,15 @@ def getinfopositions(i:str, nameGFF:str):
     return "\t".join([i, "CDS", "product",  infopositions])
 
 
-def getidprotein(positions):
+def getidprotein(positions:str):
+    """Asks the protein ID of the overlapping gene.
+
+    Args:
+        positions (str): information of the overlapping gene.
+
+    Returns:
+        str: "NA" or protein ID (accesion number).
+    """
    
     list_protein = positions.split("|")
 
@@ -291,7 +299,17 @@ def getidprotein(positions):
     return id_protein
 
 
-def lookforoverlap(nameGFF, start, end):
+def lookforoverlap(nameGFF:str, start:str, end:str):
+    """It looks for the overlap of the genes that codify proteins.
+
+    Args:
+        nameGFF (str): name of the GFF
+        start (str): start of the gene of the protein of interest
+        end (str): end of the gene of the protein of interest
+
+    Returns:
+        list: contains the information of overlap/s, if there is overlap.
+    """
     infooverlap = []
     positions = getpositions(nameGFF)
     list_overlaps = listoverlapping(positions, start, end)
@@ -305,7 +323,17 @@ def lookforoverlap(nameGFF, start, end):
     return infooverlap 
 
 
-def getcoordinates(infolist_overlap, start, end):
+def getcoordinates(infolist_overlap:list, start, end):
+    """It gets the coordinates of the overlapping gene ordered.
+
+    Args:
+        infolist_overlap (_type_): information of the overlap
+        start (int): start of the gene
+        end (int): end of the gene
+
+    Returns:
+        tuple: start and end, ordered.
+    """
     o_start = max(infolist_overlap[0], start)
     o_end = min(infolist_overlap[1], end)
    
@@ -313,16 +341,41 @@ def getcoordinates(infolist_overlap, start, end):
 
 
 def saveinfospecies(proteins:list, family:str):
+    """It saves the information of the species that have overlapping genes.
+
+    Args:
+        proteins (list): information of the proteins and its overlap.
+        family (str): name of the family
+    """
     namefile = "Results/Reports/data/genomesoverlap/" + family + "_overlap.csv"
     df = pd.DataFrame(proteins)
     df.to_csv(namefile)
 
 
 def removeinfogenome(nameGFF:str):
+    """It removes the GFF file.
+
+    Args:
+        nameGFF (str): name of the GFF file.
+    """
     os.remove(nameGFF)
 
 
-def askgenome(id_protein, nameGFF, familyandspecies, genesgenomes): 
+def askgenome(id_protein:str, nameGFF:str, familyandspecies:list, 
+    genesgenomes:list):
+    """This function does question if the protein of interest is overlapping
+    or not.
+
+    Args:
+        id_protein (str): protein ID (accession number).
+        nameGFF (str): name of the file in format GFF.
+        familyandspecies (list): list with the information of family, species 
+        and kingdom.
+        genesgenomes (list): list of information with a structure.
+
+    Returns:
+        bool: if the process of asking has been succesfully. 
+    """
 
     infoprotein = getinfoprotein(id_protein, nameGFF)
     
@@ -355,7 +408,14 @@ def askgenome(id_protein, nameGFF, familyandspecies, genesgenomes):
     return obtained
 
 
-def savenotfound(notfound, family:str):
+def savenotfound(notfound:list, family:str):
+    """It saves in a file the accession numbers of the proteins of interest 
+    that were not found in the database.
+
+    Args:
+        notfound (list): list of accession numbers.
+        family (str): name of the family.
+    """
     namefile = "Results/Reports/data/genomesoverlap/" + family + "_notfound.txt"
     with open(namefile, "w") as filetowrite:
         for species in notfound:
@@ -363,6 +423,14 @@ def savenotfound(notfound, family:str):
 
 
 def read_sp_id(line:str):
+    """Reads a line of the file of species, id and kingdom.
+
+    Args:
+        line (str): line of the read file
+
+    Returns:
+        tuple: species, id and kingdom
+    """
     linesplit = line.split("\t")
     species = linesplit[1]
     id_protein = linesplit[0]
@@ -371,8 +439,15 @@ def read_sp_id(line:str):
     return species, id_protein, kingdom
 
 
-def listcsvfiles(path):
-    
+def listcsvfiles(path:str):
+    """Lists the csv files that are in a path.
+
+    Args:
+        path (str): path/folder.
+
+    Returns:
+        list: contains the paths (str) of the csv files.
+    """
     listfiles = []
     for i in os.listdir(path):
         if i.endswith(".csv"):
@@ -382,6 +457,9 @@ def listcsvfiles(path):
 
 
 def joincsv():
+    """The files the folder genomesoverlap are joined to an only file called
+    allinfo.csv.
+    """
     pathdir = "Results/Reports/data/genomesoverlap"
     pathscsv = " ".join(listcsvfiles(pathdir))
 
@@ -396,6 +474,9 @@ def joincsv():
 
 
 def askoverlap():
+    """This is the main function. It reads the results of the union, searches
+    the information and saves information about overlapping.
+    """
     directory = "Results/temp/psiblastunion/"
     list_directories  = sorted(os.listdir(directory))
 

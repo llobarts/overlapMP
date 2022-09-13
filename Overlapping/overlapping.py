@@ -8,7 +8,7 @@ This program allows you to
 Author: Esmeralda García Legarda
 Date: 22/10/2021
 """
-from Models import starting, askgenomefeatures , getproteins, readpsiblast, \
+from Models import starting, askgenomefeatures, getproteins, readpsiblast, \
     reporting
 import os
 
@@ -28,57 +28,56 @@ def main():
     threads = variables['threads']
     nameproject = variables['nameproject']
 
-    ############################################################################
-    #            Create needed directories and process initial files           #
-    ############################################################################
+    ###########################################################################
+    #           Create needed directories and process initial files           #
+    ###########################################################################
     
-    # # Create temporary directory
-    # os.mkdir("Results/temp")
+    # Create temporary directory
+    os.mkdir("Results/temp")
     
-    # # Create data directory
-    # os.mkdir("Results/Reports/data")
+    # Create data directory
+    os.mkdir("Results/Reports/data")
 
 
-    # # Splitting the fasta file into multiple fastafiles, one per family
-    # namesfamilies, pathsfamilies = starting.splitfasta(filepath)
+    # Splitting the fasta file into multiple fastafiles, one per family
+    namesfamilies, pathsfamilies = starting.splitfasta(filepath)
 
 
-    ############################################################################
-    #                               Run PSI-BLAST                              #
-    ############################################################################
+    ###########################################################################
+    #                              Run PSI-BLAST                              #
+    ###########################################################################
     
-    # newpath = "Results/temp/psiblast_" + str(evalue) + "_" + str(max_iter)
-    # os.mkdir(newpath)
-    # path_results = []
+    newpath = "Results/temp/psiblast_" + str(evalue) + "_" + str(max_iter)
+    os.mkdir(newpath)
+    path_results = []
 
-    # cmd = starting.writecommand(psiblast, evalue, max_iter, db, threads)
-    # starting.runpsiblast(cmd)
+    cmd = starting.writecommand(psiblast, evalue, max_iter, db, threads)
+    starting.runpsiblast(cmd)
         
-    # path_results.append(newpath)
+    path_results.append(newpath)
 
 
-    ############################################################################
-    #                       Read the results of PSI-BLAST                      #
-    ############################################################################
+    ###########################################################################
+    #                      Read the results of PSI-BLAST                      #
+    ###########################################################################
+    readpsiblast.readpsiblast(path_results)
 
-    # readpsiblast.readpsiblast(path_results)
-
-    ############################################################################
-    #                               Ask overlap                                #
-    ############################################################################
+    ###########################################################################
+    #                              Ask overlap                                #
+    ###########################################################################
     
-    # try:
-    #     os.mkdir("Results/Reports/data/genomesoverlap")
-    # except FileExistsError:
-    #     print("Carpeta genomesoverlap/ existe")
+    try:
+        os.mkdir("Results/Reports/data/genomesoverlap")
+    except FileExistsError:
+        print("Carpeta genomesoverlap/ existe")
     
-    # askgenomefeatures.askoverlap() # Generates csv with the information
-    # askgenomefeatures.joincsv()
+    askgenomefeatures.askoverlap() # Generates csv with the information
+    askgenomefeatures.joincsv()
 
 
-    # ############################################################################
-    # #                              Get proteins                                #
-    # ############################################################################
+    ############################################################################
+    #                              Get proteins                                #
+    ############################################################################
 
     try:
         os.mkdir("Results/Reports/data/builddb")
