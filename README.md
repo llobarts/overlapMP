@@ -13,6 +13,8 @@ the final project of the master.
 - The folder *Models* includes scripts that run PSI-BLAST, read the information retrieved and give information about the search and
 the overlap results.
 
+- The folder *buildb* contains the results, for each family and all together. 
+
 The folder *psiblast_results* stores the results and some information about the PSI-BLAST search for each family of movement proteins. The 
 summary of the results of selection and some plots are generated in the folder *Selection*.
 
